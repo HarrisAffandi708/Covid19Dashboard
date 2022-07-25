@@ -1,10 +1,19 @@
 import csv
 import json
-#from uk_covid19 import Cov19API
 import sched
 import time
 from uk_covid19 import Cov19API
 
+#config file code
+with open("config.json", "r") as configFile:
+    loadConfigFile = json.load(configFile)
+    APIFilters = [f'areaType={loadConfigFile["Covid Data Configuration"]["Location_type"]}',
+    f'areaName={loadConfigFile["Covid Data Configuration"]["Location"]}']
+    APIFormat = loadConfigFile["Covid Data Configuration"]["API Output Structure"]
+
+
+
+#code asked in criteria, wont be used in actual application
 
 def parse_csv_data(csv_filename):
     with open(csv_filename, 'r') as csvfile:
@@ -61,24 +70,31 @@ def covid_API_request(location, location_type):
     #uses the parameter and adds it into the filter with the default value being Exeter and ltla for location and location type respectively
     location = "Exeter"
     location_type = "ltla"
+    """
     filter = [
         'areaType='+location_type,
         'areaName='+location,
     ]
     #structure
+    
     cases_and_deaths = {
         "date" : "date",
+        "areaName":"areaName",
+        #for region, utla n ltla
         "newCasesBySpecimenDate": "newCasesBySpecimenDate",
-        "cumCasesByPublishDate": "cumCasesByPublishDate",
         "cumCasesBySpecimenDate": "cumCasesBySpecimenDate",
-        "cumDeathsByPublishDate": "cumDeathsByPublishDate",
-        "cumDailyNsoDeathsByDeathDate": "cumDailyNsoDeathsByDeathDate",
-        "hospitalCases": "hospitalCases",
+        #for nation
+        "newCasesByPublishDate": "newCasesByPublishDate",
+        "cumCasesByPublishDate": "cumCasesByPublishDate",
+
+
+
     }
+    """
     #Instantiation
     api = Cov19API(filters=filter, structure=cases_and_deaths)
 
-    api_data = api.get_csv()
+    api_data = api.get_json()
     print(api_data)
 
 def schedule_covid_updates(update_interval, update_name):

@@ -1,0 +1,23 @@
+{
+    "News API Configuration": {
+        "APIKey": ""
+    },
+
+    "Covid Data Configuration": {
+        "Location": "Exeter",
+        "Location_type": "ltla",
+
+        "API Output Structure":{
+            "date": "date",
+            "areaName": "areaName",
+            "areaCode": "areaCode",
+            "newCasesByPublishDate": "newCasesByPublishDate",
+            "cumCasesByPublishDate": "cumCasesByPublishDate",
+            "hospitalCases": "hospitalCases",
+            "newDeaths28DaysByDeathDate": "newDeaths28DaysByDeathDate",
+            "cumDeaths28DaysByDeathDate": "cumDeaths28DaysByDeathDate"
+
+        }
+    }
+
+}
