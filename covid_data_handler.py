@@ -5,7 +5,7 @@ import time
 from uk_covid19 import Cov19API
 
 #config file code
-with open("config.json", "r") as configFile:
+with open("config/config.json", "r") as configFile:
     loadConfigFile = json.load(configFile)
     APIFilters = [f'areaType={loadConfigFile["Covid Data Configuration"]["Location_type"]}',
     f'areaName={loadConfigFile["Covid Data Configuration"]["Location"]}']
@@ -65,11 +65,7 @@ def process_covid_csv_data(covid_csv_data):
         return sum7daysCases, hospitalCases, deathsTotal
 
 
-def covid_API_request(location, location_type):
-    #filters
-    #uses the parameter and adds it into the filter with the default value being Exeter and ltla for location and location type respectively
-    location = "Exeter"
-    location_type = "ltla"
+def covid_API_request(location:str="Exeter", location_type:str="ltla"):
     """
     filter = [
         'areaType='+location_type,
@@ -92,7 +88,7 @@ def covid_API_request(location, location_type):
     }
     """
     #Instantiation
-    api = Cov19API(filters=filter, structure=cases_and_deaths)
+    api = Cov19API(filters=[f'areaType={location_type}', f'areaName={location}'], structure=APIFormat)
 
     api_data = api.get_json()
     print(api_data)
