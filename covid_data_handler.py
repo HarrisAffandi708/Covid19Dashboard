@@ -3,6 +3,7 @@ import json
 import sched
 import time
 from uk_covid19 import Cov19API
+import sched, time
 
 #config file code
 with open("config/config.json", "r") as configFile:
@@ -49,11 +50,12 @@ def process_covid_csv_data(covid_csv_data):
             sum7daysCases += number
             
         
-        #total deaths
-        #reads through the cumDailyNsoDeathsByDeathDate column and continues if the value is null then
-        #returns the the number when it reaches a value that isnt null
-        #create a new csv reader to reset the csv next counter as new data may enter the csv file when it
-        #refresed and the counter may skip the data if its not reset
+        """total deaths
+        reads through the cumDailyNsoDeathsByDeathDate column and continues if the value is null then
+        returns the the number when it reaches a value that isnt null
+        create a new csv reader to reset the csv next counter as new data may enter the csv file when it
+        refresed and the counter may skip the data if its not reset
+        """
         csvfile.seek(0)
         while NullValue == True:
             row5 = next(csvReader1)
@@ -66,34 +68,30 @@ def process_covid_csv_data(covid_csv_data):
 
 
 def covid_API_request(location:str="Exeter", location_type:str="ltla"):
-    """
-    filter = [
-        'areaType='+location_type,
-        'areaName='+location,
-    ]
-    #structure
-    
-    cases_and_deaths = {
-        "date" : "date",
-        "areaName":"areaName",
-        #for region, utla n ltla
-        "newCasesBySpecimenDate": "newCasesBySpecimenDate",
-        "cumCasesBySpecimenDate": "cumCasesBySpecimenDate",
-        #for nation
-        "newCasesByPublishDate": "newCasesByPublishDate",
-        "cumCasesByPublishDate": "cumCasesByPublishDate",
-
-
-
-    }
-    """
     #Instantiation
     api = Cov19API(filters=[f'areaType={location_type}', f'areaName={location}'], structure=APIFormat)
 
     api_data = api.get_json()
-    print(api_data)
+    return api_data
+
+
+def api_update():
+    data = covid_API_request()
 
 def schedule_covid_updates(update_interval, update_name):
-    pass
+    #create a sched object named updates
+    #enter delay, priority and action into sched(updates)
+    updates = sched.scheduler(time.time, time.sleep)
+    updates.enter(float(update_interval),1, api_update())
+    updates.run()
+    return update_interval, update_name
 
-covid_API_request("Exeter","ltla")
+#used in actual application
+
+def parse_covid_data():
+    exeter_api = Cov19API(filters=APIFilters, structure=APIFormat)
+    national_api= Cov19API(filters=['areType=nation',f'areaName={loadConfigFile["Covid Data Configuration"]["Nation"]}'], structure=APIFormat)
+    exeter_data= exeter_api.get_json()
+    national_data = national_api.get_json()
+    exeter_file = open("data/Exeter_data.json", "w")
+    
