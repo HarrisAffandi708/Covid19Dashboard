@@ -77,6 +77,7 @@ def covid_API_request(location:str="Exeter", location_type:str="ltla"):
 
 def api_update():
     data = covid_API_request()
+    return data
 
 def schedule_covid_updates(update_interval, update_name):
     #create a sched object named updates
@@ -90,8 +91,15 @@ def schedule_covid_updates(update_interval, update_name):
 
 def parse_covid_data():
     exeter_api = Cov19API(filters=APIFilters, structure=APIFormat)
-    national_api= Cov19API(filters=['areType=nation',f'areaName={loadConfigFile["Covid Data Configuration"]["Nation"]}'], structure=APIFormat)
+    national_api= Cov19API(filters=['areaType=nation',f'areaName={loadConfigFile["Covid Data Configuration"]["Nation"]}'], structure=APIFormat)
     exeter_data= exeter_api.get_json()
     national_data = national_api.get_json()
     exeter_file = open("data/Exeter_data.json", "w")
+    exeter_file.write(json.dumps(exeter_data,indent=2, sort_keys=False))
+    national_file = open("data/national_data.json", "w")
+    national_file.write(json.dumps(national_data, indent=2,sort_keys=False))
+    
+
+
+parse_covid_data()
     
