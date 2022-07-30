@@ -1,8 +1,4 @@
 {
-    "News API Configuration": {
-        "APIKey": ""
-    },
-
     "Covid Data Configuration": {
         "Location": "Exeter",
         "Location_type": "ltla",
@@ -19,6 +15,9 @@
             "cumDeaths28DaysByDeathDate": "cumDeaths28DaysByDeathDate"
 
         }
+    },
+    "News API Configuration": {
+        "APIKey": "e4eb096aeac94c51bd1d46d890a87598"
     }
 
 }
