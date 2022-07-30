@@ -1,14 +1,84 @@
 {
   "data": [
     {
+      "date": "2022-07-27",
+      "areaName": "Exeter",
+      "areaCode": "E07000041",
+      "newCasesByPublishDate": 210,
+      "cumCasesByPublishDate": 45211,
+      "hospitalCases": null,
+      "newDeaths28DaysByDeathDate": null,
+      "cumDeaths28DaysByDeathDate": null
+    },
+    {
+      "date": "2022-07-26",
+      "areaName": "Exeter",
+      "areaCode": "E07000041",
+      "newCasesByPublishDate": 0,
+      "cumCasesByPublishDate": 45001,
+      "hospitalCases": null,
+      "newDeaths28DaysByDeathDate": null,
+      "cumDeaths28DaysByDeathDate": null
+    },
+    {
+      "date": "2022-07-25",
+      "areaName": "Exeter",
+      "areaCode": "E07000041",
+      "newCasesByPublishDate": 0,
+      "cumCasesByPublishDate": 45001,
+      "hospitalCases": null,
+      "newDeaths28DaysByDeathDate": 0,
+      "cumDeaths28DaysByDeathDate": 200
+    },
+    {
+      "date": "2022-07-24",
+      "areaName": "Exeter",
+      "areaCode": "E07000041",
+      "newCasesByPublishDate": 0,
+      "cumCasesByPublishDate": 45001,
+      "hospitalCases": null,
+      "newDeaths28DaysByDeathDate": 0,
+      "cumDeaths28DaysByDeathDate": 200
+    },
+    {
+      "date": "2022-07-23",
+      "areaName": "Exeter",
+      "areaCode": "E07000041",
+      "newCasesByPublishDate": 0,
+      "cumCasesByPublishDate": 45001,
+      "hospitalCases": null,
+      "newDeaths28DaysByDeathDate": 0,
+      "cumDeaths28DaysByDeathDate": 200
+    },
+    {
+      "date": "2022-07-22",
+      "areaName": "Exeter",
+      "areaCode": "E07000041",
+      "newCasesByPublishDate": 0,
+      "cumCasesByPublishDate": 45001,
+      "hospitalCases": null,
+      "newDeaths28DaysByDeathDate": 0,
+      "cumDeaths28DaysByDeathDate": 200
+    },
+    {
+      "date": "2022-07-21",
+      "areaName": "Exeter",
+      "areaCode": "E07000041",
+      "newCasesByPublishDate": 0,
+      "cumCasesByPublishDate": 45001,
+      "hospitalCases": null,
+      "newDeaths28DaysByDeathDate": 0,
+      "cumDeaths28DaysByDeathDate": 200
+    },
+    {
       "date": "2022-07-20",
       "areaName": "Exeter",
       "areaCode": "E07000041",
       "newCasesByPublishDate": 346,
       "cumCasesByPublishDate": 45001,
       "hospitalCases": null,
-      "newDeaths28DaysByDeathDate": null,
-      "cumDeaths28DaysByDeathDate": null
+      "newDeaths28DaysByDeathDate": 0,
+      "cumDeaths28DaysByDeathDate": 200
     },
     {
       "date": "2022-07-19",
@@ -17,8 +87,8 @@
       "newCasesByPublishDate": 0,
       "cumCasesByPublishDate": 44655,
       "hospitalCases": null,
-      "newDeaths28DaysByDeathDate": null,
-      "cumDeaths28DaysByDeathDate": null
+      "newDeaths28DaysByDeathDate": 0,
+      "cumDeaths28DaysByDeathDate": 200
     },
     {
       "date": "2022-07-18",
@@ -8581,7 +8651,7 @@
       "cumDeaths28DaysByDeathDate": 1
     }
   ],
-  "lastUpdate": "2022-07-20T15:00:01.000000Z",
-  "length": 858,
+  "lastUpdate": "2022-07-27T15:00:01.000000Z",
+  "length": 865,
   "totalPages": 1
 }

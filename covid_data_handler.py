@@ -87,7 +87,7 @@ def schedule_covid_updates(update_interval, update_name):
     updates.run()
     return update_interval, update_name
 
-#used in actual application
+#used in application 
 
 def parse_covid_data():
     exeter_api = Cov19API(filters=APIFilters, structure=APIFormat)
@@ -96,10 +96,49 @@ def parse_covid_data():
     national_data = national_api.get_json()
     exeter_file = open("data/Exeter_data.json", "w")
     exeter_file.write(json.dumps(exeter_data,indent=2, sort_keys=False))
-    national_file = open("data/national_data.json", "w")
+    national_file = open("data/National_data.json", "w")
     national_file.write(json.dumps(national_data, indent=2,sort_keys=False))
     
+def process_covid_api_data(exeter_api: dict):
+    exeter_name = "Exeter"
+    nation_name = "England"
+    exeter_7_day_cases = 0
+    exeter_deaths = 0
+    national_7_day_cases = 0
+    national_deaths = 0
+    hospital_cases= 0
+    #opens exeter and national json files and reads the data
+    #exeter file
+    with open("data/Exeter_data.json", "r") as f:
+        exeter_data = json.load(f)
+        for i in range(1,8):
+            exeter_7_day_cases += exeter_data["data"][i]["newCasesByPublishDate"]
+        for i in range(len(exeter_data["data"])):
+            if exeter_data["data"][i]["cumDeaths28DaysByDeathDate"] == None:
+                pass
+            else:
+                exeter_deaths = exeter_data["data"][i]["cumDeaths28DaysByDeathDate"]
+                break
+    #national file
+    with open("data/National_data.json", "r") as nf:
+        national_data = json.load(nf)
+        for i in range(1,8):
+            national_7_day_cases += national_data["data"][i]["newCasesByPublishDate"]
+        for i in range(len(national_data["data"])):
+            if national_data["data"][i]["cumDeaths28DaysByDeathDate"] == None:
+                pass
+            else:
+                national_deaths = national_data["data"][i]["cumDeaths28DaysByDeathDate"]
+                break
+        for i in range(len(national_data["data"])):
+            if national_data["data"][i]["hospitalCases"] == None or 0:
+                pass
+            else:
+                hospital_cases = national_data["data"][i]["hospitalCases"]
+                break
+        
+    return exeter_name,exeter_7_day_cases, exeter_deaths,nation_name,national_7_day_cases,national_deaths,hospital_cases
 
 
-parse_covid_data()
+
     
