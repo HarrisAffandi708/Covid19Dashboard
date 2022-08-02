@@ -28,3 +28,4 @@ def schedule_news_updates(update_interval:int):
     updates.enter(float(update_interval),1,update_news())
     updates.run()
     return update_interval
+
