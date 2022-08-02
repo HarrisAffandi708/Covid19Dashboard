@@ -1,7 +1,46 @@
 {
   "status": "ok",
-  "totalResults": 806,
+  "totalResults": 990,
   "articles": [
+    {
+      "source": {
+        "id": "engadget",
+        "name": "Engadget"
+      },
+      "author": "Steve Dent",
+      "title": "Apple no longer requires most corporate employees to wear masks",
+      "description": "Apple will no longer require corporate employees to wear masks at \"most locations,\" according to an internal email from the company's COVID-19 response team seen by The Verge. \"We are writing to share an update to our current protocols,\" the email reads. \"In \u2026",
+      "url": "https://www.engadget.com/apple-no-longer-requires-most-corporate-workers-to-wear-masks-092444833.html",
+      "urlToImage": "https://s.yimg.com/os/creatr-uploaded-images/2022-01/699c9a20-7fbd-11ec-bdff-caf58d8f9ff9",
+      "publishedAt": "2022-08-02T09:24:44Z",
+      "content": "Apple will no longer require corporate employees to wear masks at \"most locations,\" according to an internal email from the company's COVID-19 response team seen by The Verge. \"We are writing to shar\u2026 [+1097 chars]"
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "Katia Hetter",
+      "title": "What precautions should families take as children return to school? Our medical analyst explains",
+      "description": "Many children are returning to schools while coronavirus case numbers are high in most of the United States. Parents and caregivers have a lot of questions about what precautions they should take for their children. Do their kids need to wear masks again? How\u2026",
+      "url": "https://www.cnn.com/2022/08/02/health/coronavirus-children-omicron-school-vaccine-wellness/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/220801135503-covid-back-to-school-wellness-restricted.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2022-08-02T08:46:56Z",
+      "content": "Many children are returning to schools while coronavirus case numbers are high in most of the United States. Parents and caregivers have a lot of questions about what precautions they should take for\u2026 [+7680 chars]"
+    },
+    {
+      "source": {
+        "id": "reuters",
+        "name": "Reuters"
+      },
+      "author": null,
+      "title": "UK consumers find a bit of confidence, still see high inflation, BofA says - Reuters",
+      "description": "Bank of America said on Tuesday its British consumer confidence indicator rose two points in July to its highest since March although it remained consistent with a recession.",
+      "url": "https://www.reuters.com/world/uk/uk-consumers-find-bit-confidence-still-see-high-inflation-bofa-says-2022-08-02/",
+      "urlToImage": "https://www.reuters.com/resizer/lLWSKtRUM0M8i-HMkGwjAy2Mwd8=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/Q3QVZS5QGJJQLAA7X5DNX5GW6E.jpg",
+      "publishedAt": "2022-08-02T09:17:00Z",
+      "content": "Shoppers walk on Oxford Street, as rules on wearing face coverings in some settings in England are relaxed, amid the spread of the coronavirus disease (COVID-19) pandemic, in London, Britain, January\u2026 [+821 chars]"
+    },
     {
       "source": {
         "id": "reuters",
@@ -212,6 +251,19 @@
     },
     {
       "source": {
+        "id": null,
+        "name": "NPR"
+      },
+      "author": "Brett Kelman",
+      "title": "They lost Medicaid when paperwork was sent to a pasture, signaling the mess to come",
+      "description": "Tennessee expects to soon disenroll about 300,000 people from Medicaid. But families like the Lesters have been entangled in bureaucracy and clerical mistakes, causing them to unfairly lose coverage.",
+      "url": "https://www.npr.org/sections/health-shots/2022/08/02/1114857641/lost-medicaid-paperwork",
+      "urlToImage": "https://media.npr.org/assets/img/2022/08/01/katie_lester_kids_wide-7f3c3f1c80f0f933623baed7d8384fbe8ee7e3fb.jpg?s=1400",
+      "publishedAt": "2022-08-02T09:01:18Z",
+      "content": "Tennessee's Medicaid program, TennCare, dropped Katie Lester and her son Mason (right), because of a clerical error in 2019. The Lester family was left uninsured for most of the next three years, inc\u2026 [+12003 chars]"
+    },
+    {
+      "source": {
         "id": "business-insider",
         "name": "Business Insider"
       },
@@ -239,6 +291,19 @@
     {
       "source": {
         "id": null,
+        "name": "Entrepreneur"
+      },
+      "author": "Beth Newton",
+      "title": "'Productivity Isn't The Problem \u2014 Lack of Creativity Is': Here Are 3 Ways To Foster A Creative Culture At Work.",
+      "description": "We don't get to stretch our creative muscles like we used to. Here are three ways to bring it roaring back.",
+      "url": "https://www.entrepreneur.com/article/430831",
+      "urlToImage": "https://assets.entrepreneur.com/content/3x2/2000/1659394464-GettyImages-666002292.jpg",
+      "publishedAt": "2022-08-02T09:30:00Z",
+      "content": "In a report dating back to the pandemic, 80% of people stated an increasing pressure to be productive rather than creative at work.\r\nIn fact, since the switch to remote work in 2020, countless studie\u2026 [+7314 chars]"
+    },
+    {
+      "source": {
+        "id": null,
         "name": "Ctvnews.ca"
       },
       "author": null,
@@ -248,6 +313,19 @@
       "urlToImage": "https://www.ctvnews.ca/content/dam/ctvnews/en/images/2022/8/1/ayman-al-zawahri-1-6010478-1659409210316.jpg",
       "publishedAt": "2022-08-02T03:00:00Z",
       "content": "WASHINGTON - \r\nAs the sun was rising in Kabul on Sunday, two Hellfire missiles fired by a U.S. drone ended Ayman al-Zawahri's decade-long reign as the leader of al Qaeda. The seeds of the audacious c\u2026 [+6308 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Firstpost"
+      },
+      "author": "FP Explainers",
+      "title": "Explained: The secret operation that killed Al-Qaeda chief Ayman al-Zawahiri - Firstpost",
+      "description": "<ol><li>Explained: The secret operation that killed Al-Qaeda chief Ayman al-Zawahiri\u00a0\u00a0Firstpost\r\n</li><li>A Kabul Safe House - How CIA Identified, Killed Al Qaeda Chief Zawahiri\u00a0\u00a0NDTV\r\n</li><li>Al-Qaeda chief Ayman Al-Zawahiri assassinated in Kabul by US; Bid\u2026",
+      "url": "https://www.firstpost.com/explainers/explained-plan-to-kill-al-qaeda-ayam-al-zawahiri-us-joe-biden-10997411.html",
+      "urlToImage": "https://images.firstpost.com/wp-content/uploads/2022/08/ayman-alzawahiri.jpg",
+      "publishedAt": "2022-08-02T05:47:39Z",
+      "content": "In a secret operation that was planned for months, the US took out Al-Qaeda chief Ayman al-Zawahiri. He was standing on the balcony of a safe house in Afghanistans Kabul when hit by two Hellfire miss\u2026 [+6869 chars]"
     },
     {
       "source": {
@@ -359,12 +437,38 @@
         "name": "HYPEBEAST"
       },
       "author": "info@hypebeast.com (HYPEBEAST), HYPEBEAST",
+      "title": "Beyonc\u00e9 Changing \"Heated\" Lyrics After Accusations of Using Ableist Term",
+      "description": "Beyonc\u00e9 will be changing the lyrics of her\u00a0RENAISSANCE\u00a0track \"Heated\" after being accused of using an ableist slur.According to reports, the lyric that received backlash was \"Spazzin' on that ass, spazz on that ass,\" with the term \"spaz\" colloquially used to \u2026",
+      "url": "https://hypebeast.com/2022/8/beyonce-changing-heated-lyric-after-criticism-ableist-slur",
+      "urlToImage": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2022%2F08%2Fbeyonce-changing-heated-lyric-after-criticism-ableist-slur-tw.jpg?w=960&cbr=1&q=90&fit=max",
+      "publishedAt": "2022-08-02T08:48:25Z",
+      "content": "Beyonc\u00e9 will be changing the lyrics of her\u00a0RENAISSANCE\u00a0track \u201cHeated\u201d after being accused of using an ableist slur.\r\nAccording to reports, the lyric that received backlash was \u201cSpazzin\u2019 on that ass, \u2026 [+1362 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "HYPEBEAST"
+      },
+      "author": "info@hypebeast.com (HYPEBEAST), HYPEBEAST",
       "title": "Drake Postpones Young Money Reunion at October World Weekend After Testing Positive for COVID-19",
       "description": "Drake has announced the postponement of the Young Money reunion show at October World Weekend after he tested positive for COVID-19.The Boy took to Instagram Stories to share the news, adding that he will make sure to reschedule the highly-anticipated event w\u2026",
       "url": "https://hypebeast.com/2022/8/drake-postpones-young-money-reunion-after-testing-positive-covid-19",
       "urlToImage": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2022%2F08%2Fdrake-postpones-young-money-reunion-after-testing-positive-covid-19-tw.jpg?w=960&cbr=1&q=90&fit=max",
       "publishedAt": "2022-08-02T02:56:20Z",
       "content": "Drake has announced the postponement of the Young Money reunion show at October World Weekend after he tested positive for COVID-19.\r\nThe Boy took to Instagram Stories to share the news, adding that \u2026 [+1008 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "iMore"
+      },
+      "author": "stephen.warwick@futurenet.com (Stephen Warwick)",
+      "title": "Most Apple corporate employees are no longer required to wear masks",
+      "description": "\"In light of current circumstances, wearing a face mask will no longer be required in most locations.\"",
+      "url": "https://www.imore.com/apple/most-apple-corporate-employees-are-no-longer-required-to-wear-masks",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/SKcP3372aRwoYQwwE38GGb-1200-80.jpg",
+      "publishedAt": "2022-08-02T08:33:57Z",
+      "content": "Apple has this week told employees that it is dropping the company's corporate mask mandate at most of its locations.\u00a0\r\nApple has gone back and forth over requiring its Apple store employees to wear \u2026 [+1865 chars]"
     },
     {
       "source": {
@@ -378,6 +482,19 @@
       "urlToImage": "https://static.politico.com/9f/eb/c33d08254edbb793ca79ae7e6141/https-delivery.gettyimages.com/downloads/1369611864",
       "publishedAt": "2022-08-02T01:58:59Z",
       "content": "The state will ensure those most at risk for the disease would be the focus of vaccine efforts, using testing, contact tracing and community partnerships developed during the COVID-19 pandemic, he sa\u2026 [+1459 chars]"
+    },
+    {
+      "source": {
+        "id": "politico",
+        "name": "Politico"
+      },
+      "author": "Katy O'Donnell",
+      "title": "How the housing crunch turned young voters off on the economy",
+      "description": "The surging cost of housing has hit them harder than anyone else.",
+      "url": "https://www.politico.com/news/2022/08/02/housing-millennials-biden-economy-00047704",
+      "urlToImage": "https://static.politico.com/ec/cc/0fb8e6424abc89ccecb512a25169/rent-75104.jpg",
+      "publishedAt": "2022-08-02T08:30:00Z",
+      "content": "With the Federal Reserve hiking interest rates again last week, Congress struggling to come up with remedies, and the Biden administration failing to solve a severe housing shortage, the effects of t\u2026 [+8318 chars]"
     },
     {
       "source": {
@@ -540,6 +657,45 @@
         "id": null,
         "name": "Motley Fool"
       },
+      "author": "newsfeedback@fool.com (Keith Speights)",
+      "title": "Why Pfizer and BioNTech Are Beating Moderna in the Omicron Booster Market",
+      "description": "Moderna is still prevailing in the omicron booster market in at least one important way.",
+      "url": "https://www.fool.com/investing/2022/08/02/pfizer-biontech-beating-moderna-omicron-booster/",
+      "urlToImage": "https://g.foolcdn.com/editorial/images/693118/2-healthcare-professionals-and-patient-getting-vaccine.jpg",
+      "publishedAt": "2022-08-02T09:57:00Z",
+      "content": "No company has yet launched a booster that targets the coronavirus omicron variant. However,\u00a0Pfizer(PFE 0.20%) and its German partner BioNTech(BNTX -1.01%)\u00a0are scrambling to do so. So is their top ri\u2026 [+3474 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Motley Fool"
+      },
+      "author": "newsfeedback@fool.com (Natalie Forbes)",
+      "title": "What 1 Key COVID Drug's News Might Mean For Pfizer",
+      "description": "Oral antiviral Paxlovid saw stronger-than-expected sales in the first half of the year, but still hasn't captured the international markets.",
+      "url": "https://www.fool.com/investing/2022/08/02/what-1-key-covid-drugs-news-might-mean-for-pfizer/",
+      "urlToImage": "https://g.foolcdn.com/editorial/images/693137/doctors-white-coat-healthcare.jpg",
+      "publishedAt": "2022-08-02T09:52:00Z",
+      "content": "Pharmaceutical giant Pfizer(PFE 0.20%) is the preeminent leader of the COVID healthcare market. After booming vaccine sales last year, the oral antiviral has taken over some of the spotlight to becom\u2026 [+4792 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Motley Fool"
+      },
+      "author": "newsfeedback@fool.com (Sean Williams)",
+      "title": "3 Dow Stocks That Are Screaming Buys in August",
+      "description": "The Dow Jones Industrial Average is home to three amazing deals hanging out in plain sight.",
+      "url": "https://www.fool.com/investing/2022/08/02/3-dow-stocks-that-are-screaming-buys-in-august/",
+      "urlToImage": "https://g.foolcdn.com/editorial/images/693248/stock-market-ticker-symbol-digital-quote-board-nyse-sp-500-nasdaq-getty.jpg",
+      "publishedAt": "2022-08-02T09:06:00Z",
+      "content": "Since its debut in 1896, the Dow Jones Industrial Average(^DJI 0.00%) has stood tall as the stock market's health barometer. The index, which was comprised of a dozen industrial stocks in the late 19\u2026 [+7623 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Motley Fool"
+      },
       "author": "newsfeedback@fool.com (Motley Fool Transcribing)",
       "title": "Emergent BioSolutions (EBS) Q2 2022 Earnings Call Transcript",
       "description": "EBS earnings call for the period ending June 30, 2022.",
@@ -547,6 +703,32 @@
       "urlToImage": "https://g.foolcdn.com/editorial/images/1/featured-transcript-logo-template.jpg",
       "publishedAt": "2022-08-02T03:30:35Z",
       "content": "Image source: The Motley Fool.\r\nEmergent BioSolutions\u00a0(EBS -1.18%)Q2\u00a02022 Earnings CallAug 01, 2022, 5:00 p.m. ET\r\nContents:\r\n<ul><li>Prepared Remarks</li><li>Questions and Answers</li><li>Call Parti\u2026 [+39894 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Motley Fool"
+      },
+      "author": "newsfeedback@fool.com (Keith Speights)",
+      "title": "Here's the Good News for Investors If We're in a Recession",
+      "description": "Economic downturns frequently set the stage for major market rebounds.",
+      "url": "https://www.fool.com/investing/2022/08/02/good-news-for-investors-if-were-in-a-recession/",
+      "urlToImage": "https://g.foolcdn.com/editorial/images/693114/smiling-person-looking-at-a-monitor-with-stock-chart.jpg",
+      "publishedAt": "2022-08-02T09:52:00Z",
+      "content": "My late grandmother had a favorite expression any time she was about to go somewhere. She'd say, \"Let's go so we can get back.\" Her favorite place was home, so leaving quickly shortened the period of\u2026 [+3354 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Motley Fool"
+      },
+      "author": "newsfeedback@fool.com (Adria Cimino)",
+      "title": "Could the Fall Booster Market Boost Vaccine Stocks?",
+      "description": "The booster market might be a long-term source of revenue.",
+      "url": "https://www.fool.com/investing/2022/08/02/could-the-fall-booster-market-boost-vaccine-stocks/",
+      "urlToImage": "https://g.foolcdn.com/editorial/images/693321/gettyimages-1252967162.jpg",
+      "publishedAt": "2022-08-02T10:00:00Z",
+      "content": "Vaccine stocks haven't been the brightest of stars this year. The names that once soared in the triple -- and even quadruple -- digits have actually declined. I'm talking about biotech players Modern\u2026 [+3833 chars]"
     },
     {
       "source": {
@@ -586,6 +768,19 @@
       "urlToImage": "https://g.foolcdn.com/editorial/images/1/featured-transcript-logo-template.jpg",
       "publishedAt": "2022-08-02T03:30:37Z",
       "content": "Image source: The Motley Fool.\r\nDaVita\u00a0(DVA 0.82%)Q2\u00a02022 Earnings CallAug 01, 2022, 5:00 p.m. ET\r\nContents:\r\n<ul><li>Prepared Remarks</li><li>Questions and Answers</li><li>Call Participants</li></ul\u2026 [+40277 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Motley Fool"
+      },
+      "author": "newsfeedback@fool.com (Sean Williams)",
+      "title": "5 Perfect Stocks Retirees Can Confidently Buy Right Now",
+      "description": "These time-tested stocks check all the right boxes for retirees wanting to preserve and grow their nest egg, while also potentially netting passive income.",
+      "url": "https://www.fool.com/investing/2022/08/02/5-perfect-stocks-retirees-can-confidently-buy-now/",
+      "urlToImage": "https://g.foolcdn.com/editorial/images/693316/senior-reading-financial-newspaper-invest-dividend-retire-money-getty.jpg",
+      "publishedAt": "2022-08-02T09:21:00Z",
+      "content": "It's been a tough year for the investing community. Since the three major indexes hit their respective record-closing highs between mid-November and early January, the Dow Jones Industrial Average, S\u2026 [+8262 chars]"
     },
     {
       "source": {
@@ -733,6 +928,19 @@
     {
       "source": {
         "id": null,
+        "name": "New York Times"
+      },
+      "author": "Lynn Steger Strong",
+      "title": "Book Review: \u201cDelphi,\u201d by Clare Pollard",
+      "description": "For better and for worse, in sickness and in health, Clare Pollard\u2019s debut novel, \u201cDelphi,\u201d revisits the first year of the Covid-19 pandemic.",
+      "url": "https://www.nytimes.com/2022/08/02/books/review/delphi-clare-pollard.html",
+      "urlToImage": "https://static01.nyt.com/images/2022/08/02/books/review/02Strong/02Strong-facebookJumbo.jpg",
+      "publishedAt": "2022-08-02T09:00:07Z",
+      "content": "Pollards project is, in part, to depict our ever-present sense of dread: knowing there might be no such thing as knowing, but still constantly trying to see and understand. Her character is trapped i\u2026 [+1271 chars]"
+    },
+    {
+      "source": {
+        "id": null,
         "name": "The Indian Express"
       },
       "author": "PTI",
@@ -781,6 +989,19 @@
       "urlToImage": null,
       "publishedAt": "2022-08-02T07:17:24Z",
       "content": "Yves here. This is yet another important finding by private equity mavens Eileen Appelbaum and Rosemary Batt, here on the role real estate investment trusts in looting nursing homes and hospitals. Ap\u2026 [+11407 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Poynter"
+      },
+      "author": "Al Tompkins",
+      "title": "More than a third of COVID-19 tests done at Walgreens are positive",
+      "description": "Covering COVID-19 is a daily Poynter briefing of story ideas about the coronavirus and other timely topics for journalists, written by senior faculty Al Tompkins. Sign up here to have [\u2026]\nThe post More than a third of COVID-19 tests done at Walgreens are posi\u2026",
+      "url": "https://www.poynter.org/reporting-editing/2022/more-than-a-third-of-covid-19-tests-done-at-walgreens-are-positive/",
+      "urlToImage": "https://www.poynter.org/wp-content/uploads/2022/01/shutterstock_2097307297-1500x1000.jpg",
+      "publishedAt": "2022-08-02T10:00:36Z",
+      "content": "Covering COVID-19 is a daily Poynter briefing of story ideas about the coronavirus and other timely topics for journalists, written by senior faculty Al Tompkins. Sign up here to have it delivered to\u2026 [+9131 chars]"
     },
     {
       "source": {
@@ -852,6 +1073,19 @@
         "id": null,
         "name": "Forbes"
       },
+      "author": "Steve Forbes, Forbes Staff, \n Steve Forbes, Forbes Staff\n https://www.forbes.com/sites/steveforbes/",
+      "title": "Supreme Court Delivers Big Deal Decision For Freedom",
+      "description": "It was overshadowed by the decision to overturn \"Roe v. Wade,\" but the High Court\u2019s ruling on \"West Virginia v. Environmental Protection Agency\" has profound implications for saving our system of government.",
+      "url": "https://www.forbes.com/sites/steveforbes/2022/08/02/supreme-court-delivers-big-deal-decision-for-freedom/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/62e1b68dc3473dcd7a2ace2a/0x0.jpg?format=jpg&width=1200",
+      "publishedAt": "2022-08-02T10:00:00Z",
+      "content": "Overshadowed by the storm created by its abortion ruling, the Supreme Courts decision in West Virginia v. Environmental Protection Agency struck a stunning, historic blow against unbridled, unaccount\u2026 [+2828 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Forbes"
+      },
       "author": "Erik Kain, Senior Contributor, \n Erik Kain, Senior Contributor\n https://www.forbes.com/sites/erikkain/",
       "title": "Wordle Today #409 Hint And Answer, Tuesday August 2nd",
       "description": "Well, July sure was a busy month.",
@@ -859,6 +1093,19 @@
       "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6204460ee7b0d4861c859094/0x0.jpg?format=jpg&width=1200",
       "publishedAt": "2022-08-02T04:00:00Z",
       "content": "Here's today's Wordle answer and a helpful hint.\r\nSOPA Images/LightRocket via Getty Images\r\nWell, July sure was a busy month. I went to Comic-Con and moderated my first ever panel there (or anywhere,\u2026 [+2754 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Forbes"
+      },
+      "author": "Trefis Team, Contributor, \n Trefis Team, Contributor\n https://www.forbes.com/sites/greatspeculations/people/trefis/",
+      "title": "What\u2019s Happening With Ford Stock?",
+      "description": "Ford stock has gained about 15% over the last week (five trading days) and remains up by about 28% over the last month (21 trading days).",
+      "url": "https://www.forbes.com/sites/greatspeculations/2022/08/02/whats-happening-with-ford-stock/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/62e89cafd25a61f246373b0b/0x0.jpg?format=jpg&width=1200",
+      "publishedAt": "2022-08-02T09:45:00Z",
+      "content": "CHINA - 2022/07/25: In this photo illustration, the American multinational automaker Ford logo is ... [+] displayed on a smartphone screen. (Photo Illustration by Budrul Chukrut/SOPA Images/LightRock\u2026 [+2723 chars]"
     },
     {
       "source": {
@@ -911,6 +1158,19 @@
       "urlToImage": "https://media.thegospelcoalition.org/wp-content/uploads/2022/08/01151658/the-faqs-anglican-same-sex-marriage.jpg",
       "publishedAt": "2022-08-02T04:02:00Z",
       "content": "What just happened in the Anglican Communion?\r\nDivision within a once-in-a-decade assembly of bishops of the Anglican Communion has erupted over the issues of homosexual ordination and same-sex marri\u2026 [+6767 chars]"
+    },
+    {
+      "source": {
+        "id": "axios",
+        "name": "Axios"
+      },
+      "author": "Arielle Dreher",
+      "title": "Back-to-school, back to outbreaks",
+      "description": "As students around the country start a new school year, providers say childhood immunization rates are too low, in some places, to prevent outbreaks of diseases like measles.The big picture: After COVID kept kids isolated from classmates and discouraged routi\u2026",
+      "url": "https://www.axios.com/2022/08/02/back-to-school-back-to-outbreaks",
+      "urlToImage": "https://images.axios.com/hTRxchaW35CTInqjO1SMWR7-K6w=/0x0:1920x1080/1366x768/2022/08/01/1659384753580.jpg",
+      "publishedAt": "2022-08-02T09:30:09Z",
+      "content": "As students around the country start a new school year, providers say childhood immunization rates aretoo low, in some places, to prevent outbreaks of diseases like measles.\r\nThe big picture: After C\u2026 [+4918 chars]"
     },
     {
       "source": {
@@ -967,6 +1227,19 @@
     {
       "source": {
         "id": null,
+        "name": "ESPN"
+      },
+      "author": "ESPN",
+      "title": "Revisiting our pre-Euro 2022 Best XIs: Who makes the final cut?",
+      "description": "Having picked our favorites pre-tournament for the Women's Euro 2022, who ended up making the grade and who played their way into our Best XIs?",
+      "url": "https://www.espn.com/soccer/uefa-womens-european-championship/story/4710505/womens-euros-2022-best-xis-revisited-englandoberdorfvan-domselaar-dominate",
+      "urlToImage": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2022%2F0801%2Fr1043200_1296x729_16%2D9.jpg",
+      "publishedAt": "2022-08-02T09:26:37Z",
+      "content": "So, the Women's Euros 2022 ended with England crowned as champions over Germany following a gripping final at Wembley on Sunday. And now it's time to reflect on the tournament as a whole with our Bes\u2026 [+9844 chars]"
+    },
+    {
+      "source": {
+        "id": null,
         "name": "Sciencebasedmedicine.org"
       },
       "author": "Harriet Hall",
@@ -995,6 +1268,32 @@
         "id": null,
         "name": "Daily Beast"
       },
+      "author": "Eleanor Clift",
+      "title": "Stop Pretending COVID Isn\u2019t Still a Serious Illness",
+      "description": "Photo Illustration by Thomas Levinson/The Daily Beast/Getty\r\nA mild case of COVID for many people resembles a cold, a comforting illusion that President Joe Biden\u2019s recent bout with the virus reinforced even when another positive test returned him to quaranti\u2026",
+      "url": "https://www.thedailybeast.com/stop-pretending-covid-isnt-still-a-serious-illness",
+      "urlToImage": "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_1688,w_3000,x_0,y_0/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1659401453/220801-covid19-real-tease-01_whtqj6",
+      "publishedAt": "2022-08-02T08:49:36Z",
+      "content": "A mild case of COVID for many people resembles a cold, a comforting illusion that President Joe Bidens recent bout with the virus reinforced even when another positive test returned him to quarantine\u2026 [+8338 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Daily Beast"
+      },
+      "author": "Will Sommer",
+      "title": "QAnon \u2018Queen of Canada\u2019 Wants Some American Subjects",
+      "description": "Patrick Doyle/Reuters\r\nA QAnon leader whose followers believe she\u2019s the \u201cQueen of Canada\u201d has now set her sights on the United States, urging her followers to enforce her dangerous \u201cdecrees\u201d in America.For people outside of the pro-Trump QAnon conspiracy theo\u2026",
+      "url": "https://www.thedailybeast.com/qanon-queen-of-canada-romana-didulo-wants-some-american-subjects",
+      "urlToImage": "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_1688,w_3000,x_0,y_0/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1659405017/220801-queen-qanon-tease-01_lweyii",
+      "publishedAt": "2022-08-02T08:51:02Z",
+      "content": "A QAnon leader whose followers believe shes the Queen of Canada has now set her sights on the United States, urging her followers to enforce her dangerous decrees in America.\r\nFor people outside of t\u2026 [+3878 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Daily Beast"
+      },
       "author": "Kyndall Cunningham",
       "title": "\u2018Industry\u2019 Creators Break Down That Wild Season 2 Premiere",
       "description": "HBO\r\nIt\u2019s hard to explain a show like Industry to the uninitiated without mentioning Succession. And yet, I\u2019m a little embarrassed when I name-drop the satire about a dysfunctional, wealthy family who runs a conservative media conglomerate (nothing to do with\u2026",
@@ -1002,305 +1301,6 @@
       "urlToImage": "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_1688,w_3000,x_0,y_29/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1659422288/Screen_Shot_2022-08-02_at_1.18.59_AM_cskrvo",
       "publishedAt": "2022-08-02T06:45:02Z",
       "content": "Its hard to explain a show like Industry to the uninitiated without mentioning Succession. And yet, Im a little embarrassed when I name-drop the satire about a dysfunctional, wealthy family who runs \u2026 [+11183 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Seeking Alpha"
-      },
-      "author": "Valkyrie Trading Society",
-      "title": "REZ Isn't My Favourite Set Of REITs",
-      "description": "iShares Residential Real Estate Capped ETF (REZ) isn't the best way to play the benefits of REITs and real estate solidly due to some particular exposures.",
-      "url": "https://seekingalpha.com/article/4528404-rez-isnt-my-favourite-set-of-reits",
-      "urlToImage": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1320991884/image_1320991884.jpg?io=getty-c-w750",
-      "publishedAt": "2022-08-02T02:02:22Z",
-      "content": "jimfeng\r\nThe iShares Residential Real Estate Capped ETF (NYSEARCA:REZ) brands itself as a potentially interesting pick for investors looking to avoid office real estate while taking advantage of some\u2026 [+4199 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Seeking Alpha"
-      },
-      "author": "iMFdirect",
-      "title": "Global Economic Growth Slows Amid Gloomy And More Uncertain Outlook",
-      "description": "Many of the downside risks flagged in our April World Economic Outlook have begun to materialize.",
-      "url": "https://seekingalpha.com/article/4528463-global-economic-growth-slows-amid-gloomy-and-more-uncertain-outlook",
-      "urlToImage": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1405161344/image_1405161344.jpg?io=getty-c-w750",
-      "publishedAt": "2022-08-02T08:45:00Z",
-      "content": "daecheol/iStock via Getty Images\r\nBy Pierre-Olivier Gourinchas, Economic Counsellor and the Director of Research of the IMF\r\n The world\u2019s three largest economies are stalling, with important conseque\u2026 [+7506 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Seeking Alpha"
-      },
-      "author": "American Institute For Economic Research",
-      "title": "Consumer Sentiment Remained Near Record Lows In Late July",
-      "description": "The final July results from the University of Michigan Surveys of Consumers show overall consumer sentiment remained near record lows.",
-      "url": "https://seekingalpha.com/article/4528421-consumer-sentiment-remained-near-record-lows-in-late-july",
-      "urlToImage": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1406053840/image_1406053840.jpg?io=getty-c-w750",
-      "publishedAt": "2022-08-02T03:38:00Z",
-      "content": "Dzmitry Skazau\r\nBy Robert Hughes\r\nThe final July results from the University of Michigan Surveys of Consumers show overall consumer sentiment remained near record lows (see first chart). The composit\u2026 [+2618 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Seeking Alpha"
-      },
-      "author": "Calafia Beach Pundit",
-      "title": "Recession Lite",
-      "description": "Recession Lite seems like an apt descriptor for today's economy, because a lot of the ingredients of a true, painful recession are missing.",
-      "url": "https://seekingalpha.com/article/4528444-recession-lite",
-      "urlToImage": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/165649635/image_165649635.jpg?io=getty-c-w750",
-      "publishedAt": "2022-08-02T06:09:00Z",
-      "content": "Adam Smigielski\r\nReal GDP declined for two quarters straight, and most would agree that meets at least one condition for a recession call. I would prefer to call it a Recession Lite.\r\n Over the cours\u2026 [+3315 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Seeking Alpha"
-      },
-      "author": "Justin Purohit",
-      "title": "Four Corners Property Trust: Benefiting From The Resurgence In Restaurant Spending",
-      "description": "Four Corners Property Trust is a REIT with interests in the restaurant and retail industries. See how shifting consumer spending patterns will impact FCPT REIT's share price.",
-      "url": "https://seekingalpha.com/article/4528417-four-corners-property-trust-reit-resurgence-restaurant-spending-buy",
-      "urlToImage": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1326009258/image_1326009258.jpg?io=getty-c-w750",
-      "publishedAt": "2022-08-02T03:26:14Z",
-      "content": "Brett_Hondow\r\nFour Corners Property Trust, Inc (NYSE:FCPT) is a real estate investment trust (\u201cREIT\u201d) with interests in properties that are leased to tenants in the restaurant and retail industries u\u2026 [+11105 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Seeking Alpha"
-      },
-      "author": "SA Transcripts",
-      "title": "Axonics, Inc. (AXNX) CEO Raymond Cohen on Q2 2022 Results - Earnings Call Transcript",
-      "description": "Axonics, Inc. (NASDAQ:NASDAQ:AXNX) Q2 2022 Earnings Conference Call August 1, 2022 4:30 PM ETCompany ParticipantsNeil Bhalodkar - Investor RelationsRaymond Cohen - Chief Executive...",
-      "url": "https://seekingalpha.com/article/4528418-axonics-inc-axnx-ceo-raymond-cohen-on-q2-2022-results-earnings-call-transcript",
-      "urlToImage": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
-      "publishedAt": "2022-08-02T02:30:24Z",
-      "content": "Axonics, Inc. (NASDAQ:AXNX) Q2 2022 Earnings Conference Call August 1, 2022 4:30 PM ET\r\n Company Participants\r\n Neil Bhalodkar - Investor Relations\r\n Raymond Cohen - Chief Executive Officer\r\n Dan Dea\u2026 [+50340 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Seeking Alpha"
-      },
-      "author": "SA Transcripts",
-      "title": "Insperity, Inc. (NSP) CEO Paul Sarvadi on Q2 2022 Results - Earnings Call Transcript",
-      "description": "Insperity, Inc. (NYSE:NYSE:NSP) Q2 2022 Earnings Conference Call August 1, 2022 5:00 PM ETCompany ParticipantsPaul Sarvadi - Chairman and CEODouglas Sharp - SVP, Finance and CFOConference...",
-      "url": "https://seekingalpha.com/article/4528424-insperity-inc-nsp-ceo-paul-sarvadi-on-q2-2022-results-earnings-call-transcript",
-      "urlToImage": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
-      "publishedAt": "2022-08-02T02:50:08Z",
-      "content": "Insperity, Inc. (NYSE:NSP) Q2 2022 Earnings Conference Call August 1, 2022 5:00 PM ET\r\n Company Participants\r\n Paul Sarvadi - Chairman and CEO\r\n Douglas Sharp - SVP, Finance and CFO\r\n Conference Call\u2026 [+31952 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Seeking Alpha"
-      },
-      "author": "SA Transcripts",
-      "title": "Rambus Inc.'s (RMBS) CEO Luc Seraphin on Q2 2022 Results - Earnings Call Transcript",
-      "description": "Rambus Inc. (NASDAQ:NASDAQ:RMBS) Q2 2022 Earnings Conference Call August 1, 2022 5:00 PM ETCompany ParticipantsDesmond Lynch - Chief Financial OfficerLuc Seraphin - Chief Executive...",
-      "url": "https://seekingalpha.com/article/4528422-rambus-inc-s-rmbs-ceo-luc-seraphin-on-q2-2022-results-earnings-call-transcript",
-      "urlToImage": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
-      "publishedAt": "2022-08-02T02:43:04Z",
-      "content": "Rambus Inc. (NASDAQ:RMBS) Q2 2022 Earnings Conference Call August 1, 2022 5:00 PM ET\r\n Company Participants\r\n Desmond Lynch - Chief Financial Officer\r\n Luc Seraphin - Chief Executive Officer\r\n Confer\u2026 [+29009 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Seeking Alpha"
-      },
-      "author": "Luis Manuel Sandberg Haedo",
-      "title": "Cresud: Everything You Need To Know About This Agri Stock",
-      "description": "Cresud is one of the leading agricultural companies in the region. It's a simple yet well-diversified vehicle with tremendous margin of safety and potential upside of 300%+.",
-      "url": "https://seekingalpha.com/article/4528459-cresud-agri-stock-everything-you-need-to-know-about-it",
-      "urlToImage": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1339909004/image_1339909004.jpg?io=getty-c-w750",
-      "publishedAt": "2022-08-02T08:23:11Z",
-      "content": "Thomas Barwick\r\nIntroduction\r\n I published an article about Cresud (NASDAQ:CRESY) over a year ago with a 'buy' rating at a price of USD 6.3 per ADR. The stock later peaked at almost USD 9.7 per ADR (\u2026 [+33879 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Seeking Alpha"
-      },
-      "author": "SA Transcripts",
-      "title": "Sanmina Corporation (SANM) CEO Jure Sola on Q3 2022 Results - Earnings Call Transcript",
-      "description": "Sanmina Corporation (NASDAQ:NASDAQ:SANM) Q3 2022 Earnings Conference Call August 1, 2022 5:00 PM ETCompany ParticipantsPaige Melching - Senior Vice President, Investor CommunicationsJure...",
-      "url": "https://seekingalpha.com/article/4528419-sanmina-corporation-sanm-ceo-jure-sola-on-q3-2022-results-earnings-call-transcript",
-      "urlToImage": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
-      "publishedAt": "2022-08-02T02:34:04Z",
-      "content": "Sanmina Corporation (NASDAQ:SANM) Q3 2022 Earnings Conference Call August 1, 2022 5:00 PM ET\r\n Company Participants\r\n Paige Melching - Senior Vice President, Investor Communications\r\n Jure Sola - Cha\u2026 [+35448 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Seeking Alpha"
-      },
-      "author": "SA Transcripts",
-      "title": "Instructure Holdings, Inc. (INST) CEO Steve Daly on Q2 2022 Results - Earnings Call Transcript",
-      "description": "Instructure Holdings, Inc. (NYSE:NYSE:INST) Q2 2022 Earnings Conference Call August 1, 2022 5:00 PM ETCompany RepresentativesSteve Daly - Chief Executive OfficerDale Bowen - Chief Financial...",
-      "url": "https://seekingalpha.com/article/4528412-instructure-holdings-inc-inst-ceo-steve-daly-on-q2-2022-results-earnings-call-transcript",
-      "urlToImage": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
-      "publishedAt": "2022-08-02T02:07:06Z",
-      "content": "Instructure Holdings, Inc. (NYSE:INST) Q2 2022 Earnings Conference Call August 1, 2022 5:00 PM ET\r\n Company Representatives\r\n Steve Daly - Chief Executive Officer\r\n Dale Bowen - Chief Financial Offic\u2026 [+45603 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Seeking Alpha"
-      },
-      "author": "SA Transcripts",
-      "title": "ZoomInfo Technologies Inc. (ZI) CEO Henry Schuck on Q2 2022 Results - Earnings Call Transcript",
-      "description": "ZoomInfo Technologies Inc. (NASDAQ:NASDAQ:ZI) Q2 2022 Results Conference Call August 1, 2022 4:30 PM ETCompany ParticipantsJerry Sisitsky - VP, IRHenry Schuck - Founder, CEOCameron Hyzer -...",
-      "url": "https://seekingalpha.com/article/4528398-zoominfo-technologies-inc-zi-ceo-henry-schuck-on-q2-2022-results-earnings-call-transcript",
-      "urlToImage": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
-      "publishedAt": "2022-08-02T00:35:03Z",
-      "content": "ZoomInfo Technologies Inc. (NASDAQ:ZI) Q2 2022 Results Conference Call August 1, 2022 4:30 PM ET\r\n Company Participants\r\n Jerry Sisitsky - VP, IR\r\n Henry Schuck - Founder, CEO\r\n Cameron Hyzer - CFO\r\n\u2026 [+56995 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "MLB Trade Rumors"
-      },
-      "author": "Anthony Franco",
-      "title": "Tyler Stephenson To Undergo Collarbone Surgery",
-      "description": "Reds catcher\u00a0Tyler Stephenson is undergoing surgery to repair his fractured collarbone, manager David Bell announced this afternoon (via C. Trent Rosecrans of the Athletic). Bell indicated the surgery isn\u2019t expected to affect Stephenson\u2019s timetable, although \u2026",
-      "url": "https://www.mlbtraderumors.com/2022/08/tyler-stephenson-to-undergo-collarbone-surgery.html",
-      "urlToImage": "https://cdn.mlbtraderumors.com/files/2022/07/USATSI_18574826-1024x683.jpg",
-      "publishedAt": "2022-08-02T01:16:28Z",
-      "content": "Reds catcher\u00a0Tyler Stephenson is undergoing surgery to repair his fractured collarbone, manager David Bell announced this afternoon (via C. Trent Rosecrans of the Athletic). Bell indicated the surger\u2026 [+1231 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Askamanager.org"
-      },
-      "author": "Ask a Manager",
-      "title": "friend says we\u2019re not supportive enough of their business idea, my boss sleeps in meetings, and more",
-      "description": "This post, friend says we\u2019re not supportive enough of their business idea, my boss sleeps in meetings, and more , was originally published by Alison Green on Ask a Manager.\nIt\u2019s five answers to five questions. Here we go\u2026 1. My friend says we\u2019re not supportiv\u2026",
-      "url": "https://www.askamanager.org/2022/08/friend-says-were-not-supportive-enough-of-their-business-idea-my-boss-sleeps-in-meetings-and-more.html",
-      "urlToImage": "https://www.askamanager.org/wp-content/uploads/2014/04/bannersmfb.png",
-      "publishedAt": "2022-08-02T04:03:42Z",
-      "content": "Its five answers to five questions. Here we go\r\n1. My friend says were not supportive enough of their business idea\r\nI know someone who wants to start their own business in the hospitality industry a\u2026 [+11798 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Infosecurity Magazine"
-      },
-      "author": "Phil Muncaster",
-      "title": "UK\u2019s Top 10 Universities Failing on DMARC",
-      "description": "Leading US and Aussie unis also sub-par on email security",
-      "url": "https://www.infosecurity-magazine.com/news/uks-top-10-universities-failing-on/",
-      "urlToImage": "https://assets.infosecurity-magazine.com/webpage/og/b8e30937-04e0-4e17-8c58-0d7eb2b7093b.jpg",
-      "publishedAt": "2022-08-02T08:15:00Z",
-      "content": "The UK\u2019s top 10 universities and most of the leading educational institutions in the US and Australia are failing to protect their staff and students from email-borne threats, according to Proofpoint\u2026 [+1891 chars]"
-    },
-    {
-      "source": {
-        "id": "bbc-news",
-        "name": "BBC News"
-      },
-      "author": "https://www.facebook.com/bbcnews",
-      "title": "Cost of living: Withernsea residents penniless and 'struggling to live'",
-      "description": "Teachers and nurses are among those struggling to feed their families, one charity says.",
-      "url": "https://www.bbc.co.uk/news/uk-england-humber-62378410",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/8C42/production/_126160953_mediaitem126160952.jpg",
-      "publishedAt": "2022-08-02T05:23:06Z",
-      "content": "Teachers and nurses in an East Yorkshire seaside resort are among those struggling to feed their families, a charity has said.\r\nJayne Nendick, who has worked at The Shores Centre in Withernsea for 17\u2026 [+3261 chars]"
-    },
-    {
-      "source": {
-        "id": "bbc-news",
-        "name": "BBC News"
-      },
-      "author": "https://www.facebook.com/bbcnews",
-      "title": "Global pandemic fears on islands hit by bird flu",
-      "description": "The manager of a Scottish bird sanctuary says avian flu could return to devastate next spring.",
-      "url": "https://www.bbc.co.uk/news/uk-scotland-62350879",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/2464/production/_126161390_iom_d0038.jpg",
-      "publishedAt": "2022-08-02T05:20:47Z",
-      "content": "By James ShawBBC Scotland correspondent\r\nDavid Steel is usually sad to see the seabirds heading south from the Isle of May, but this year he is glad that at least some are escaping their crowded nest\u2026 [+3802 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Bitcoin Magazine"
-      },
-      "author": "Bitcoin Magazine",
-      "title": "How The Federal Reserve Will Ultimately Fail",
-      "description": "Lawrence Lepard breaks down how the Federal Reserve has gotten us into a huge economic problem and how Bitcoin is going to be the solution moving forward.",
-      "url": "https://bitcoinmagazine.com/markets/how-the-federal-reserve-will-ultimately-fail",
-      "urlToImage": "https://bitcoinmagazine.com/.image/t_share/MTgxMTUzNzAzNDUxOTYwNDA4/the-federal-reserve.jpg",
-      "publishedAt": "2022-08-02T04:00:00Z",
-      "content": "This is a transcribed version of the \u201cBitcoin Magazine Podcast,\u201d hosted by P and Q. In this episode, they are joined by Lawrence Lepard to talk about the hawkish Federal Reserve and how its policy de\u2026 [+55697 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The Economist"
-      },
-      "author": "The Economist",
-      "title": "The death of al-Qaeda\u2019s leader may not halt a jihadist resurgence",
-      "description": "The group and its affiliates will march on, even without Ayman Al-Zawahari",
-      "url": "https://www.economist.com/asia/2022/08/02/the-death-of-al-qaedas-leader-may-not-halt-a-jihadist-resurgence",
-      "urlToImage": "https://www.economist.com/img/b/1280/720/90/media-assets/image/20220806_ASP901.jpg",
-      "publishedAt": "2022-08-02T04:36:08Z",
-      "content": "AYMAN AL-ZAWAHIRI died many times in the decades that he tormented America as chief organiser and ideologue of al-Qaeda, the group that hijacked four airliners and flew them into buildings in New Yor\u2026 [+8688 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "TVLine"
-      },
-      "author": "Nick Caruso",
-      "title": "Industry Season 2 Premiere Recap: Harper Targets an Unattainable New Client, as Yas Weighs Her Options",
-      "description": "It\u2019s been one year since Industry\u2018s Harper survived RIF and secured her desk at Pierpoint, but the pandemic has since shaken up the trading world and all of the economies that surround it. However, making it out of RIF alive won\u2019t keep her safe forever, and i\u2026",
-      "url": "https://tvline.com/2022/08/01/industry-premiere-recap-season-2-episode-1-daddy/",
-      "urlToImage": "https://tvline.com/wp-content/uploads/2022/07/industry-season-2-episode-1-recap.jpg?w=620",
-      "publishedAt": "2022-08-02T01:58:25Z",
-      "content": "It\u2019s been one year since Industry\u2018s Harper survived RIF and secured her desk at Pierpoint, but the pandemic has since shaken up the trading world and all of the economies that surround it. However, m\u2026 [+5924 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Inside Higher Ed"
-      },
-      "author": "Anonymous",
-      "title": "Encouraging faculty research at teaching-focused institutions (opinion)",
-      "description": "Aubrey Westfall and Dana M. Polanichka share advice on how to create a community of scholars at teaching-focused institutions.\r\nJob Tags:\u00a0\r\nAcademic administration\r\nEditorial Tags:\u00a0\r\nFaculty\r\nLiberal arts\r\nResearch\r\nShow on Jobs site:\u00a0\r\nImage Source:\u00a0\r\nJacob \u2026",
-      "url": "https://www.insidehighered.com/advice/2022/08/02/encouraging-faculty-research-teaching-focused-institutions-opinion",
-      "urlToImage": "https://www.insidehighered.com/sites/default/server_files/media/GettyImages-628194838.jpg",
-      "publishedAt": "2022-08-02T07:00:00Z",
-      "content": "The continuing COVID-19 pandemic, rising inflation, attacks on higher education and concerns about the demographic cliff are all causing major revenue shortfalls for colleges and universities. Instit\u2026 [+13896 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "UpperMichigansSource.com"
-      },
-      "author": "Keegan Cooper",
-      "title": "Michigan Tech to Host 2023 US Cross Country Ski Championships - WLUC",
-      "description": "Michigan Tech will host the 2023 Toyota U.S. Cross Country Ski National Championships presented by Hampton Inn & Suites of Houghton at the Tech Trails",
-      "url": "https://www.uppermichiganssource.com/2022/08/02/michigan-tech-host-2023-us-cross-country-ski-championships/",
-      "urlToImage": "https://gray-wluc-prod.cdn.arcpublishing.com/resizer/ugIoRjFuEoXkow_-xl_NW1yRei4=/980x0/smart/filters:quality(85)/cloudfront-us-east-1.images.arcpublishing.com/gray/53MPJZ62DZOMHCDL2EJ3YZQGQU.jpg",
-      "publishedAt": "2022-08-02T01:26:00Z",
-      "content": "MARQUETTE, Mich. (WLUC) - Michigan Tech will host the 2023 Toyota U.S. Cross Country Ski National Championships presented by Hampton Inn &amp; Suites of Houghton at the Tech Trails from January 2-7, \u2026 [+3829 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Vindy.com"
-      },
-      "author": null,
-      "title": "High-tech house in Boardman fosters independent living - Youngstown Vindicator",
-      "description": "BOARDMAN \u2014 In past years, a person with a developmental disability had to have a caregiver on hand to help with daily life. Today, thanks to changing technology, that person can live more independently and still function in a safe environment. That technology\u2026",
-      "url": "https://www.vindy.com/news/local-news/2022/08/high-tech-house-in-boardman-fosters-independent-living/",
-      "urlToImage": "https://ogden_images.s3.amazonaws.com/www.vindy.com/images/2022/08/02002650/webtechhouse-1100x825.jpg",
-      "publishedAt": "2022-08-02T04:38:48Z",
-      "content": "Staff photo / J.T. Whitehouse \r\nGeorge Gabriel, service and support administrator supervisor for the Mahoning County Board of Developmental Disabilities, shows a unique stove safety device that can s\u2026 [+5268 chars]"
     }
   ]
 }

@@ -15,9 +15,18 @@ def news_API_request(covid_terms:str="Covid COVID-19 coronavirus"):
     news_api_request = requests.get(url).json()
     news_articles = open("data/articles.json", "w")
     news_articles.write(json.dumps(news_api_request, sort_keys=False, indent=2))
-    return news_API_request
+    return news_api_request
     
-    
+def articles(news_list:dict) -> list:
+    articles_list = []
+    count = 0
+    while count <10:
+        current_article = news_list["articles"][count]
+        articles_list.append(current_article)
+        count += 1
+    selected_article_files = open("Data/selected_articles", "w")
+    selected_article_files.write(json.dumps(articles_list, indent=2))
+    return articles_list
 
 def update_news():
     news_API_request()
