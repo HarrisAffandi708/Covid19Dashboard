@@ -98,8 +98,9 @@ def parse_covid_data():
     exeter_file.write(json.dumps(exeter_data,indent=2, sort_keys=False))
     national_file = open("data/National_data.json", "w")
     national_file.write(json.dumps(national_data, indent=2,sort_keys=False))
+    return exeter_data, national_data
     
-def process_covid_api_data(exeter_api: dict):
+def process_covid_api_data(exeter_data:dict, national_data:dict):
     exeter_name = "Exeter"
     nation_name = "England"
     exeter_7_day_cases = 0
