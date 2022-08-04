@@ -1,14 +1,84 @@
 {
   "data": [
     {
+      "date": "2022-08-03",
+      "areaName": "England",
+      "areaCode": "E92000001",
+      "newCasesByPublishDate": 57277,
+      "cumCasesByPublishDate": 19699384,
+      "hospitalCases": 9817,
+      "newDeaths28DaysByDeathDate": null,
+      "cumDeaths28DaysByDeathDate": null
+    },
+    {
+      "date": "2022-08-02",
+      "areaName": "England",
+      "areaCode": "E92000001",
+      "newCasesByPublishDate": 0,
+      "cumCasesByPublishDate": 19642180,
+      "hospitalCases": 10177,
+      "newDeaths28DaysByDeathDate": null,
+      "cumDeaths28DaysByDeathDate": null
+    },
+    {
+      "date": "2022-08-01",
+      "areaName": "England",
+      "areaCode": "E92000001",
+      "newCasesByPublishDate": 0,
+      "cumCasesByPublishDate": 19642180,
+      "hospitalCases": 10417,
+      "newDeaths28DaysByDeathDate": 33,
+      "cumDeaths28DaysByDeathDate": 161560
+    },
+    {
+      "date": "2022-07-31",
+      "areaName": "England",
+      "areaCode": "E92000001",
+      "newCasesByPublishDate": 0,
+      "cumCasesByPublishDate": 19642180,
+      "hospitalCases": 10431,
+      "newDeaths28DaysByDeathDate": 73,
+      "cumDeaths28DaysByDeathDate": 161527
+    },
+    {
+      "date": "2022-07-30",
+      "areaName": "England",
+      "areaCode": "E92000001",
+      "newCasesByPublishDate": 0,
+      "cumCasesByPublishDate": 19642180,
+      "hospitalCases": 10529,
+      "newDeaths28DaysByDeathDate": 67,
+      "cumDeaths28DaysByDeathDate": 161454
+    },
+    {
+      "date": "2022-07-29",
+      "areaName": "England",
+      "areaCode": "E92000001",
+      "newCasesByPublishDate": 0,
+      "cumCasesByPublishDate": 19642180,
+      "hospitalCases": 11149,
+      "newDeaths28DaysByDeathDate": 108,
+      "cumDeaths28DaysByDeathDate": 161387
+    },
+    {
+      "date": "2022-07-28",
+      "areaName": "England",
+      "areaCode": "E92000001",
+      "newCasesByPublishDate": 0,
+      "cumCasesByPublishDate": 19642180,
+      "hospitalCases": 11437,
+      "newDeaths28DaysByDeathDate": 136,
+      "cumDeaths28DaysByDeathDate": 161279
+    },
+    {
       "date": "2022-07-27",
       "areaName": "England",
       "areaCode": "E92000001",
       "newCasesByPublishDate": 81951,
       "cumCasesByPublishDate": 19642180,
       "hospitalCases": 11914,
-      "newDeaths28DaysByDeathDate": null,
-      "cumDeaths28DaysByDeathDate": null
+      "newDeaths28DaysByDeathDate": 119,
+      "cumDeaths28DaysByDeathDate": 161143
     },
     {
       "date": "2022-07-26",
@@ -17,8 +87,8 @@
       "newCasesByPublishDate": 0,
       "cumCasesByPublishDate": 19560297,
       "hospitalCases": 12113,
-      "newDeaths28DaysByDeathDate": null,
-      "cumDeaths28DaysByDeathDate": null
+      "newDeaths28DaysByDeathDate": 127,
+      "cumDeaths28DaysByDeathDate": 161024
     },
     {
       "date": "2022-07-25",
@@ -27,8 +97,8 @@
       "newCasesByPublishDate": 0,
       "cumCasesByPublishDate": 19560297,
       "hospitalCases": 12529,
-      "newDeaths28DaysByDeathDate": 30,
-      "cumDeaths28DaysByDeathDate": 160485
+      "newDeaths28DaysByDeathDate": 133,
+      "cumDeaths28DaysByDeathDate": 160897
     },
     {
       "date": "2022-07-24",
@@ -37,8 +107,8 @@
       "newCasesByPublishDate": 0,
       "cumCasesByPublishDate": 19560297,
       "hospitalCases": 12591,
-      "newDeaths28DaysByDeathDate": 100,
-      "cumDeaths28DaysByDeathDate": 160455
+      "newDeaths28DaysByDeathDate": 166,
+      "cumDeaths28DaysByDeathDate": 160764
     },
     {
       "date": "2022-07-23",
@@ -47,8 +117,8 @@
       "newCasesByPublishDate": 0,
       "cumCasesByPublishDate": 19560297,
       "hospitalCases": 12475,
-      "newDeaths28DaysByDeathDate": 80,
-      "cumDeaths28DaysByDeathDate": 160355
+      "newDeaths28DaysByDeathDate": 141,
+      "cumDeaths28DaysByDeathDate": 160598
     },
     {
       "date": "2022-07-22",
@@ -57,8 +127,8 @@
       "newCasesByPublishDate": 0,
       "cumCasesByPublishDate": 19560297,
       "hospitalCases": 13182,
-      "newDeaths28DaysByDeathDate": 95,
-      "cumDeaths28DaysByDeathDate": 160275
+      "newDeaths28DaysByDeathDate": 137,
+      "cumDeaths28DaysByDeathDate": 160457
     },
     {
       "date": "2022-07-21",
@@ -67,8 +137,8 @@
       "newCasesByPublishDate": 0,
       "cumCasesByPublishDate": 19560297,
       "hospitalCases": 13375,
-      "newDeaths28DaysByDeathDate": 110,
-      "cumDeaths28DaysByDeathDate": 160180
+      "newDeaths28DaysByDeathDate": 145,
+      "cumDeaths28DaysByDeathDate": 160320
     },
     {
       "date": "2022-07-20",
@@ -77,8 +147,8 @@
       "newCasesByPublishDate": 123568,
       "cumCasesByPublishDate": 19560297,
       "hospitalCases": 13545,
-      "newDeaths28DaysByDeathDate": 189,
-      "cumDeaths28DaysByDeathDate": 160070
+      "newDeaths28DaysByDeathDate": 205,
+      "cumDeaths28DaysByDeathDate": 160175
     },
     {
       "date": "2022-07-19",
@@ -87,8 +157,8 @@
       "newCasesByPublishDate": 0,
       "cumCasesByPublishDate": 19436864,
       "hospitalCases": 13837,
-      "newDeaths28DaysByDeathDate": 258,
-      "cumDeaths28DaysByDeathDate": 159881
+      "newDeaths28DaysByDeathDate": 293,
+      "cumDeaths28DaysByDeathDate": 159970
     },
     {
       "date": "2022-07-18",
@@ -97,8 +167,8 @@
       "newCasesByPublishDate": 0,
       "cumCasesByPublishDate": 19436864,
       "hospitalCases": 14044,
-      "newDeaths28DaysByDeathDate": 152,
-      "cumDeaths28DaysByDeathDate": 159623
+      "newDeaths28DaysByDeathDate": 156,
+      "cumDeaths28DaysByDeathDate": 159677
     },
     {
       "date": "2022-07-17",
@@ -107,8 +177,8 @@
       "newCasesByPublishDate": 0,
       "cumCasesByPublishDate": 19436864,
       "hospitalCases": 13840,
-      "newDeaths28DaysByDeathDate": 178,
-      "cumDeaths28DaysByDeathDate": 159471
+      "newDeaths28DaysByDeathDate": 189,
+      "cumDeaths28DaysByDeathDate": 159521
     },
     {
       "date": "2022-07-16",
@@ -117,8 +187,8 @@
       "newCasesByPublishDate": 0,
       "cumCasesByPublishDate": 19436864,
       "hospitalCases": 13701,
-      "newDeaths28DaysByDeathDate": 150,
-      "cumDeaths28DaysByDeathDate": 159293
+      "newDeaths28DaysByDeathDate": 157,
+      "cumDeaths28DaysByDeathDate": 159332
     },
     {
       "date": "2022-07-15",
@@ -127,8 +197,8 @@
       "newCasesByPublishDate": 0,
       "cumCasesByPublishDate": 19436864,
       "hospitalCases": 13975,
-      "newDeaths28DaysByDeathDate": 134,
-      "cumDeaths28DaysByDeathDate": 159143
+      "newDeaths28DaysByDeathDate": 139,
+      "cumDeaths28DaysByDeathDate": 159175
     },
     {
       "date": "2022-07-14",
@@ -138,7 +208,7 @@
       "cumCasesByPublishDate": 19436864,
       "hospitalCases": 13807,
       "newDeaths28DaysByDeathDate": 140,
-      "cumDeaths28DaysByDeathDate": 159009
+      "cumDeaths28DaysByDeathDate": 159036
     },
     {
       "date": "2022-07-13",
@@ -148,7 +218,7 @@
       "cumCasesByPublishDate": 19436864,
       "hospitalCases": 13741,
       "newDeaths28DaysByDeathDate": 157,
-      "cumDeaths28DaysByDeathDate": 158869
+      "cumDeaths28DaysByDeathDate": 158896
     },
     {
       "date": "2022-07-12",
@@ -157,8 +227,8 @@
       "newCasesByPublishDate": 0,
       "cumCasesByPublishDate": 19265078,
       "hospitalCases": 13621,
-      "newDeaths28DaysByDeathDate": 154,
-      "cumDeaths28DaysByDeathDate": 158712
+      "newDeaths28DaysByDeathDate": 158,
+      "cumDeaths28DaysByDeathDate": 158739
     },
     {
       "date": "2022-07-11",
@@ -167,8 +237,8 @@
       "newCasesByPublishDate": 0,
       "cumCasesByPublishDate": 19265078,
       "hospitalCases": 13336,
-      "newDeaths28DaysByDeathDate": 147,
-      "cumDeaths28DaysByDeathDate": 158558
+      "newDeaths28DaysByDeathDate": 149,
+      "cumDeaths28DaysByDeathDate": 158581
     },
     {
       "date": "2022-07-10",
@@ -177,8 +247,8 @@
       "newCasesByPublishDate": 0,
       "cumCasesByPublishDate": 19265078,
       "hospitalCases": 12879,
-      "newDeaths28DaysByDeathDate": 145,
-      "cumDeaths28DaysByDeathDate": 158411
+      "newDeaths28DaysByDeathDate": 150,
+      "cumDeaths28DaysByDeathDate": 158432
     },
     {
       "date": "2022-07-09",
@@ -187,8 +257,8 @@
       "newCasesByPublishDate": 0,
       "cumCasesByPublishDate": 19265078,
       "hospitalCases": 12440,
-      "newDeaths28DaysByDeathDate": 140,
-      "cumDeaths28DaysByDeathDate": 158266
+      "newDeaths28DaysByDeathDate": 144,
+      "cumDeaths28DaysByDeathDate": 158282
     },
     {
       "date": "2022-07-08",
@@ -198,7 +268,7 @@
       "cumCasesByPublishDate": 19265078,
       "hospitalCases": 12283,
       "newDeaths28DaysByDeathDate": 131,
-      "cumDeaths28DaysByDeathDate": 158126
+      "cumDeaths28DaysByDeathDate": 158138
     },
     {
       "date": "2022-07-07",
@@ -207,8 +277,8 @@
       "newCasesByPublishDate": 0,
       "cumCasesByPublishDate": 19265078,
       "hospitalCases": 11878,
-      "newDeaths28DaysByDeathDate": 117,
-      "cumDeaths28DaysByDeathDate": 157995
+      "newDeaths28DaysByDeathDate": 118,
+      "cumDeaths28DaysByDeathDate": 158007
     },
     {
       "date": "2022-07-06",
@@ -217,8 +287,8 @@
       "newCasesByPublishDate": 120170,
       "cumCasesByPublishDate": 19265078,
       "hospitalCases": 11465,
-      "newDeaths28DaysByDeathDate": 128,
-      "cumDeaths28DaysByDeathDate": 157878
+      "newDeaths28DaysByDeathDate": 131,
+      "cumDeaths28DaysByDeathDate": 157889
     },
     {
       "date": "2022-07-05",
@@ -227,8 +297,8 @@
       "newCasesByPublishDate": 0,
       "cumCasesByPublishDate": 19144946,
       "hospitalCases": 11049,
-      "newDeaths28DaysByDeathDate": 112,
-      "cumDeaths28DaysByDeathDate": 157750
+      "newDeaths28DaysByDeathDate": 113,
+      "cumDeaths28DaysByDeathDate": 157758
     },
     {
       "date": "2022-07-04",
@@ -237,8 +307,8 @@
       "newCasesByPublishDate": 0,
       "cumCasesByPublishDate": 19144946,
       "hospitalCases": 10658,
-      "newDeaths28DaysByDeathDate": 114,
-      "cumDeaths28DaysByDeathDate": 157638
+      "newDeaths28DaysByDeathDate": 115,
+      "cumDeaths28DaysByDeathDate": 157645
     },
     {
       "date": "2022-07-03",
@@ -248,7 +318,7 @@
       "cumCasesByPublishDate": 19144946,
       "hospitalCases": 9956,
       "newDeaths28DaysByDeathDate": 97,
-      "cumDeaths28DaysByDeathDate": 157524
+      "cumDeaths28DaysByDeathDate": 157530
     },
     {
       "date": "2022-07-02",
@@ -257,8 +327,8 @@
       "newCasesByPublishDate": 0,
       "cumCasesByPublishDate": 19144946,
       "hospitalCases": 9632,
-      "newDeaths28DaysByDeathDate": 104,
-      "cumDeaths28DaysByDeathDate": 157427
+      "newDeaths28DaysByDeathDate": 105,
+      "cumDeaths28DaysByDeathDate": 157433
     },
     {
       "date": "2022-07-01",
@@ -268,7 +338,7 @@
       "cumCasesByPublishDate": 19144946,
       "hospitalCases": 9389,
       "newDeaths28DaysByDeathDate": 92,
-      "cumDeaths28DaysByDeathDate": 157323
+      "cumDeaths28DaysByDeathDate": 157328
     },
     {
       "date": "2022-06-30",
@@ -277,8 +347,8 @@
       "newCasesByPublishDate": 21732,
       "cumCasesByPublishDate": 19124226,
       "hospitalCases": 8928,
-      "newDeaths28DaysByDeathDate": 82,
-      "cumDeaths28DaysByDeathDate": 157231
+      "newDeaths28DaysByDeathDate": 83,
+      "cumDeaths28DaysByDeathDate": 157236
     },
     {
       "date": "2022-06-29",
@@ -288,7 +358,7 @@
       "cumCasesByPublishDate": 19102513,
       "hospitalCases": 8587,
       "newDeaths28DaysByDeathDate": 85,
-      "cumDeaths28DaysByDeathDate": 157149
+      "cumDeaths28DaysByDeathDate": 157153
     },
     {
       "date": "2022-06-28",
@@ -298,7 +368,7 @@
       "cumCasesByPublishDate": 19081094,
       "hospitalCases": 8120,
       "newDeaths28DaysByDeathDate": 68,
-      "cumDeaths28DaysByDeathDate": 157064
+      "cumDeaths28DaysByDeathDate": 157068
     },
     {
       "date": "2022-06-27",
@@ -308,7 +378,7 @@
       "cumCasesByPublishDate": 19059682,
       "hospitalCases": 7822,
       "newDeaths28DaysByDeathDate": 73,
-      "cumDeaths28DaysByDeathDate": 156996
+      "cumDeaths28DaysByDeathDate": 157000
     },
     {
       "date": "2022-06-26",
@@ -318,7 +388,7 @@
       "cumCasesByPublishDate": 19012379,
       "hospitalCases": 7455,
       "newDeaths28DaysByDeathDate": 66,
-      "cumDeaths28DaysByDeathDate": 156923
+      "cumDeaths28DaysByDeathDate": 156927
     },
     {
       "date": "2022-06-25",
@@ -328,7 +398,7 @@
       "cumCasesByPublishDate": 19012379,
       "hospitalCases": 6973,
       "newDeaths28DaysByDeathDate": 71,
-      "cumDeaths28DaysByDeathDate": 156857
+      "cumDeaths28DaysByDeathDate": 156861
     },
     {
       "date": "2022-06-24",
@@ -337,8 +407,8 @@
       "newCasesByPublishDate": 16489,
       "cumCasesByPublishDate": 19012379,
       "hospitalCases": 6752,
-      "newDeaths28DaysByDeathDate": 54,
-      "cumDeaths28DaysByDeathDate": 156786
+      "newDeaths28DaysByDeathDate": 55,
+      "cumDeaths28DaysByDeathDate": 156790
     },
     {
       "date": "2022-06-23",
@@ -348,7 +418,7 @@
       "cumCasesByPublishDate": 18995906,
       "hospitalCases": 6401,
       "newDeaths28DaysByDeathDate": 71,
-      "cumDeaths28DaysByDeathDate": 156732
+      "cumDeaths28DaysByDeathDate": 156735
     },
     {
       "date": "2022-06-22",
@@ -358,7 +428,7 @@
       "cumCasesByPublishDate": 18978435,
       "hospitalCases": 6177,
       "newDeaths28DaysByDeathDate": 65,
-      "cumDeaths28DaysByDeathDate": 156661
+      "cumDeaths28DaysByDeathDate": 156664
     },
     {
       "date": "2022-06-21",
@@ -368,7 +438,7 @@
       "cumCasesByPublishDate": 18961236,
       "hospitalCases": 6002,
       "newDeaths28DaysByDeathDate": 56,
-      "cumDeaths28DaysByDeathDate": 156596
+      "cumDeaths28DaysByDeathDate": 156599
     },
     {
       "date": "2022-06-20",
@@ -378,7 +448,7 @@
       "cumCasesByPublishDate": 18944806,
       "hospitalCases": 5726,
       "newDeaths28DaysByDeathDate": 59,
-      "cumDeaths28DaysByDeathDate": 156540
+      "cumDeaths28DaysByDeathDate": 156543
     },
     {
       "date": "2022-06-19",
@@ -388,7 +458,7 @@
       "cumCasesByPublishDate": 18908381,
       "hospitalCases": 5436,
       "newDeaths28DaysByDeathDate": 59,
-      "cumDeaths28DaysByDeathDate": 156481
+      "cumDeaths28DaysByDeathDate": 156484
     },
     {
       "date": "2022-06-18",
@@ -397,8 +467,8 @@
       "newCasesByPublishDate": 0,
       "cumCasesByPublishDate": 18908381,
       "hospitalCases": 5183,
-      "newDeaths28DaysByDeathDate": 49,
-      "cumDeaths28DaysByDeathDate": 156422
+      "newDeaths28DaysByDeathDate": 50,
+      "cumDeaths28DaysByDeathDate": 156425
     },
     {
       "date": "2022-06-17",
@@ -408,7 +478,7 @@
       "cumCasesByPublishDate": 18908381,
       "hospitalCases": 5037,
       "newDeaths28DaysByDeathDate": 51,
-      "cumDeaths28DaysByDeathDate": 156373
+      "cumDeaths28DaysByDeathDate": 156375
     },
     {
       "date": "2022-06-16",
@@ -418,7 +488,7 @@
       "cumCasesByPublishDate": 18896327,
       "hospitalCases": 5008,
       "newDeaths28DaysByDeathDate": 57,
-      "cumDeaths28DaysByDeathDate": 156322
+      "cumDeaths28DaysByDeathDate": 156324
     },
     {
       "date": "2022-06-15",
@@ -428,7 +498,7 @@
       "cumCasesByPublishDate": 18884257,
       "hospitalCases": 4843,
       "newDeaths28DaysByDeathDate": 46,
-      "cumDeaths28DaysByDeathDate": 156265
+      "cumDeaths28DaysByDeathDate": 156267
     },
     {
       "date": "2022-06-14",
@@ -438,7 +508,7 @@
       "cumCasesByPublishDate": 18870862,
       "hospitalCases": 4722,
       "newDeaths28DaysByDeathDate": 36,
-      "cumDeaths28DaysByDeathDate": 156219
+      "cumDeaths28DaysByDeathDate": 156221
     },
     {
       "date": "2022-06-13",
@@ -448,7 +518,7 @@
       "cumCasesByPublishDate": 18858834,
       "hospitalCases": 4602,
       "newDeaths28DaysByDeathDate": 37,
-      "cumDeaths28DaysByDeathDate": 156183
+      "cumDeaths28DaysByDeathDate": 156185
     },
     {
       "date": "2022-06-12",
@@ -458,7 +528,7 @@
       "cumCasesByPublishDate": 18830603,
       "hospitalCases": 4408,
       "newDeaths28DaysByDeathDate": 31,
-      "cumDeaths28DaysByDeathDate": 156146
+      "cumDeaths28DaysByDeathDate": 156148
     },
     {
       "date": "2022-06-11",
@@ -468,7 +538,7 @@
       "cumCasesByPublishDate": 18830603,
       "hospitalCases": 4257,
       "newDeaths28DaysByDeathDate": 43,
-      "cumDeaths28DaysByDeathDate": 156115
+      "cumDeaths28DaysByDeathDate": 156117
     },
     {
       "date": "2022-06-10",
@@ -478,7 +548,7 @@
       "cumCasesByPublishDate": 18830603,
       "hospitalCases": 4262,
       "newDeaths28DaysByDeathDate": 54,
-      "cumDeaths28DaysByDeathDate": 156072
+      "cumDeaths28DaysByDeathDate": 156074
     },
     {
       "date": "2022-06-09",
@@ -488,7 +558,7 @@
       "cumCasesByPublishDate": 18821397,
       "hospitalCases": 4082,
       "newDeaths28DaysByDeathDate": 36,
-      "cumDeaths28DaysByDeathDate": 156018
+      "cumDeaths28DaysByDeathDate": 156020
     },
     {
       "date": "2022-06-08",
@@ -498,7 +568,7 @@
       "cumCasesByPublishDate": 18811661,
       "hospitalCases": 4096,
       "newDeaths28DaysByDeathDate": 42,
-      "cumDeaths28DaysByDeathDate": 155982
+      "cumDeaths28DaysByDeathDate": 155984
     },
     {
       "date": "2022-06-07",
@@ -508,7 +578,7 @@
       "cumCasesByPublishDate": 18802365,
       "hospitalCases": 4108,
       "newDeaths28DaysByDeathDate": 39,
-      "cumDeaths28DaysByDeathDate": 155940
+      "cumDeaths28DaysByDeathDate": 155942
     },
     {
       "date": "2022-06-06",
@@ -518,7 +588,7 @@
       "cumCasesByPublishDate": 18792128,
       "hospitalCases": 4126,
       "newDeaths28DaysByDeathDate": 51,
-      "cumDeaths28DaysByDeathDate": 155901
+      "cumDeaths28DaysByDeathDate": 155903
     },
     {
       "date": "2022-06-05",
@@ -528,7 +598,7 @@
       "cumCasesByPublishDate": 18762989,
       "hospitalCases": 3965,
       "newDeaths28DaysByDeathDate": 45,
-      "cumDeaths28DaysByDeathDate": 155850
+      "cumDeaths28DaysByDeathDate": 155852
     },
     {
       "date": "2022-06-04",
@@ -538,7 +608,7 @@
       "cumCasesByPublishDate": 18762989,
       "hospitalCases": 3835,
       "newDeaths28DaysByDeathDate": 49,
-      "cumDeaths28DaysByDeathDate": 155805
+      "cumDeaths28DaysByDeathDate": 155807
     },
     {
       "date": "2022-06-03",
@@ -548,7 +618,7 @@
       "cumCasesByPublishDate": 18762989,
       "hospitalCases": 3849,
       "newDeaths28DaysByDeathDate": 34,
-      "cumDeaths28DaysByDeathDate": 155756
+      "cumDeaths28DaysByDeathDate": 155758
     },
     {
       "date": "2022-06-02",
@@ -558,7 +628,7 @@
       "cumCasesByPublishDate": 18762989,
       "hospitalCases": 3841,
       "newDeaths28DaysByDeathDate": 47,
-      "cumDeaths28DaysByDeathDate": 155722
+      "cumDeaths28DaysByDeathDate": 155724
     },
     {
       "date": "2022-06-01",
@@ -568,7 +638,7 @@
       "cumCasesByPublishDate": 18762989,
       "hospitalCases": 3800,
       "newDeaths28DaysByDeathDate": 39,
-      "cumDeaths28DaysByDeathDate": 155675
+      "cumDeaths28DaysByDeathDate": 155677
     },
     {
       "date": "2022-05-31",
@@ -578,7 +648,7 @@
       "cumCasesByPublishDate": 18757683,
       "hospitalCases": 4036,
       "newDeaths28DaysByDeathDate": 57,
-      "cumDeaths28DaysByDeathDate": 155636
+      "cumDeaths28DaysByDeathDate": 155638
     },
     {
       "date": "2022-05-30",
@@ -588,7 +658,7 @@
       "cumCasesByPublishDate": 18751882,
       "hospitalCases": 4091,
       "newDeaths28DaysByDeathDate": 59,
-      "cumDeaths28DaysByDeathDate": 155579
+      "cumDeaths28DaysByDeathDate": 155581
     },
     {
       "date": "2022-05-29",
@@ -598,7 +668,7 @@
       "cumCasesByPublishDate": 18738306,
       "hospitalCases": 4018,
       "newDeaths28DaysByDeathDate": 37,
-      "cumDeaths28DaysByDeathDate": 155520
+      "cumDeaths28DaysByDeathDate": 155522
     },
     {
       "date": "2022-05-28",
@@ -608,7 +678,7 @@
       "cumCasesByPublishDate": 18738306,
       "hospitalCases": 4013,
       "newDeaths28DaysByDeathDate": 52,
-      "cumDeaths28DaysByDeathDate": 155483
+      "cumDeaths28DaysByDeathDate": 155485
     },
     {
       "date": "2022-05-27",
@@ -618,7 +688,7 @@
       "cumCasesByPublishDate": 18738306,
       "hospitalCases": 4197,
       "newDeaths28DaysByDeathDate": 54,
-      "cumDeaths28DaysByDeathDate": 155431
+      "cumDeaths28DaysByDeathDate": 155433
     },
     {
       "date": "2022-05-26",
@@ -628,7 +698,7 @@
       "cumCasesByPublishDate": 18733650,
       "hospitalCases": 4365,
       "newDeaths28DaysByDeathDate": 62,
-      "cumDeaths28DaysByDeathDate": 155377
+      "cumDeaths28DaysByDeathDate": 155379
     },
     {
       "date": "2022-05-25",
@@ -638,7 +708,7 @@
       "cumCasesByPublishDate": 18728368,
       "hospitalCases": 4489,
       "newDeaths28DaysByDeathDate": 44,
-      "cumDeaths28DaysByDeathDate": 155315
+      "cumDeaths28DaysByDeathDate": 155317
     },
     {
       "date": "2022-05-24",
@@ -648,7 +718,7 @@
       "cumCasesByPublishDate": 18722566,
       "hospitalCases": 4639,
       "newDeaths28DaysByDeathDate": 46,
-      "cumDeaths28DaysByDeathDate": 155271
+      "cumDeaths28DaysByDeathDate": 155273
     },
     {
       "date": "2022-05-23",
@@ -658,7 +728,7 @@
       "cumCasesByPublishDate": 18716214,
       "hospitalCases": 5010,
       "newDeaths28DaysByDeathDate": 61,
-      "cumDeaths28DaysByDeathDate": 155225
+      "cumDeaths28DaysByDeathDate": 155227
     },
     {
       "date": "2022-05-22",
@@ -668,7 +738,7 @@
       "cumCasesByPublishDate": 18701642,
       "hospitalCases": 5047,
       "newDeaths28DaysByDeathDate": 63,
-      "cumDeaths28DaysByDeathDate": 155164
+      "cumDeaths28DaysByDeathDate": 155166
     },
     {
       "date": "2022-05-21",
@@ -678,7 +748,7 @@
       "cumCasesByPublishDate": 18701642,
       "hospitalCases": 5065,
       "newDeaths28DaysByDeathDate": 64,
-      "cumDeaths28DaysByDeathDate": 155101
+      "cumDeaths28DaysByDeathDate": 155103
     },
     {
       "date": "2022-05-20",
@@ -688,7 +758,7 @@
       "cumCasesByPublishDate": 18701642,
       "hospitalCases": 5187,
       "newDeaths28DaysByDeathDate": 65,
-      "cumDeaths28DaysByDeathDate": 155037
+      "cumDeaths28DaysByDeathDate": 155039
     },
     {
       "date": "2022-05-19",
@@ -698,7 +768,7 @@
       "cumCasesByPublishDate": 18695641,
       "hospitalCases": 5356,
       "newDeaths28DaysByDeathDate": 58,
-      "cumDeaths28DaysByDeathDate": 154972
+      "cumDeaths28DaysByDeathDate": 154974
     },
     {
       "date": "2022-05-18",
@@ -708,7 +778,7 @@
       "cumCasesByPublishDate": 18688946,
       "hospitalCases": 5425,
       "newDeaths28DaysByDeathDate": 57,
-      "cumDeaths28DaysByDeathDate": 154914
+      "cumDeaths28DaysByDeathDate": 154916
     },
     {
       "date": "2022-05-17",
@@ -718,7 +788,7 @@
       "cumCasesByPublishDate": 18681566,
       "hospitalCases": 5733,
       "newDeaths28DaysByDeathDate": 84,
-      "cumDeaths28DaysByDeathDate": 154857
+      "cumDeaths28DaysByDeathDate": 154859
     },
     {
       "date": "2022-05-16",
@@ -728,7 +798,7 @@
       "cumCasesByPublishDate": 18673471,
       "hospitalCases": 6024,
       "newDeaths28DaysByDeathDate": 67,
-      "cumDeaths28DaysByDeathDate": 154773
+      "cumDeaths28DaysByDeathDate": 154775
     },
     {
       "date": "2022-05-15",
@@ -738,7 +808,7 @@
       "cumCasesByPublishDate": 18656568,
       "hospitalCases": 6158,
       "newDeaths28DaysByDeathDate": 84,
-      "cumDeaths28DaysByDeathDate": 154706
+      "cumDeaths28DaysByDeathDate": 154708
     },
     {
       "date": "2022-05-14",
@@ -748,7 +818,7 @@
       "cumCasesByPublishDate": 18656568,
       "hospitalCases": 6147,
       "newDeaths28DaysByDeathDate": 82,
-      "cumDeaths28DaysByDeathDate": 154622
+      "cumDeaths28DaysByDeathDate": 154624
     },
     {
       "date": "2022-05-13",
@@ -758,7 +828,7 @@
       "cumCasesByPublishDate": 18656568,
       "hospitalCases": 6366,
       "newDeaths28DaysByDeathDate": 90,
-      "cumDeaths28DaysByDeathDate": 154540
+      "cumDeaths28DaysByDeathDate": 154542
     },
     {
       "date": "2022-05-12",
@@ -768,7 +838,7 @@
       "cumCasesByPublishDate": 18650062,
       "hospitalCases": 6602,
       "newDeaths28DaysByDeathDate": 101,
-      "cumDeaths28DaysByDeathDate": 154450
+      "cumDeaths28DaysByDeathDate": 154452
     },
     {
       "date": "2022-05-11",
@@ -778,7 +848,7 @@
       "cumCasesByPublishDate": 18639196,
       "hospitalCases": 7034,
       "newDeaths28DaysByDeathDate": 91,
-      "cumDeaths28DaysByDeathDate": 154349
+      "cumDeaths28DaysByDeathDate": 154351
     },
     {
       "date": "2022-05-10",
@@ -788,7 +858,7 @@
       "cumCasesByPublishDate": 18631175,
       "hospitalCases": 7363,
       "newDeaths28DaysByDeathDate": 107,
-      "cumDeaths28DaysByDeathDate": 154258
+      "cumDeaths28DaysByDeathDate": 154260
     },
     {
       "date": "2022-05-09",
@@ -798,7 +868,7 @@
       "cumCasesByPublishDate": 18621424,
       "hospitalCases": 7647,
       "newDeaths28DaysByDeathDate": 105,
-      "cumDeaths28DaysByDeathDate": 154151
+      "cumDeaths28DaysByDeathDate": 154153
     },
     {
       "date": "2022-05-08",
@@ -808,7 +878,7 @@
       "cumCasesByPublishDate": 18599739,
       "hospitalCases": 7715,
       "newDeaths28DaysByDeathDate": 105,
-      "cumDeaths28DaysByDeathDate": 154046
+      "cumDeaths28DaysByDeathDate": 154048
     },
     {
       "date": "2022-05-07",
@@ -818,7 +888,7 @@
       "cumCasesByPublishDate": 18599739,
       "hospitalCases": 7768,
       "newDeaths28DaysByDeathDate": 118,
-      "cumDeaths28DaysByDeathDate": 153941
+      "cumDeaths28DaysByDeathDate": 153943
     },
     {
       "date": "2022-05-06",
@@ -828,7 +898,7 @@
       "cumCasesByPublishDate": 18599739,
       "hospitalCases": 8170,
       "newDeaths28DaysByDeathDate": 124,
-      "cumDeaths28DaysByDeathDate": 153823
+      "cumDeaths28DaysByDeathDate": 153825
     },
     {
       "date": "2022-05-05",
@@ -838,7 +908,7 @@
       "cumCasesByPublishDate": 18590347,
       "hospitalCases": 8596,
       "newDeaths28DaysByDeathDate": 117,
-      "cumDeaths28DaysByDeathDate": 153699
+      "cumDeaths28DaysByDeathDate": 153701
     },
     {
       "date": "2022-05-04",
@@ -848,7 +918,7 @@
       "cumCasesByPublishDate": 18580049,
       "hospitalCases": 8950,
       "newDeaths28DaysByDeathDate": 122,
-      "cumDeaths28DaysByDeathDate": 153582
+      "cumDeaths28DaysByDeathDate": 153584
     },
     {
       "date": "2022-05-03",
@@ -858,7 +928,7 @@
       "cumCasesByPublishDate": 18565456,
       "hospitalCases": 9243,
       "newDeaths28DaysByDeathDate": 119,
-      "cumDeaths28DaysByDeathDate": 153460
+      "cumDeaths28DaysByDeathDate": 153462
     },
     {
       "date": "2022-05-02",
@@ -868,7 +938,7 @@
       "cumCasesByPublishDate": 18536477,
       "hospitalCases": 9326,
       "newDeaths28DaysByDeathDate": 139,
-      "cumDeaths28DaysByDeathDate": 153341
+      "cumDeaths28DaysByDeathDate": 153343
     },
     {
       "date": "2022-05-01",
@@ -878,7 +948,7 @@
       "cumCasesByPublishDate": 18536477,
       "hospitalCases": 9355,
       "newDeaths28DaysByDeathDate": 156,
-      "cumDeaths28DaysByDeathDate": 153202
+      "cumDeaths28DaysByDeathDate": 153204
     },
     {
       "date": "2022-04-30",
@@ -888,7 +958,7 @@
       "cumCasesByPublishDate": 18536477,
       "hospitalCases": 9499,
       "newDeaths28DaysByDeathDate": 164,
-      "cumDeaths28DaysByDeathDate": 153046
+      "cumDeaths28DaysByDeathDate": 153048
     },
     {
       "date": "2022-04-29",
@@ -898,7 +968,7 @@
       "cumCasesByPublishDate": 18536477,
       "hospitalCases": 9938,
       "newDeaths28DaysByDeathDate": 153,
-      "cumDeaths28DaysByDeathDate": 152882
+      "cumDeaths28DaysByDeathDate": 152884
     },
     {
       "date": "2022-04-28",
@@ -908,7 +978,7 @@
       "cumCasesByPublishDate": 18526781,
       "hospitalCases": 10432,
       "newDeaths28DaysByDeathDate": 169,
-      "cumDeaths28DaysByDeathDate": 152729
+      "cumDeaths28DaysByDeathDate": 152731
     },
     {
       "date": "2022-04-27",
@@ -918,7 +988,7 @@
       "cumCasesByPublishDate": 18515847,
       "hospitalCases": 10965,
       "newDeaths28DaysByDeathDate": 162,
-      "cumDeaths28DaysByDeathDate": 152560
+      "cumDeaths28DaysByDeathDate": 152562
     },
     {
       "date": "2022-04-26",
@@ -928,7 +998,7 @@
       "cumCasesByPublishDate": 18502386,
       "hospitalCases": 11320,
       "newDeaths28DaysByDeathDate": 154,
-      "cumDeaths28DaysByDeathDate": 152398
+      "cumDeaths28DaysByDeathDate": 152400
     },
     {
       "date": "2022-04-25",
@@ -938,7 +1008,7 @@
       "cumCasesByPublishDate": 18489342,
       "hospitalCases": 11992,
       "newDeaths28DaysByDeathDate": 164,
-      "cumDeaths28DaysByDeathDate": 152244
+      "cumDeaths28DaysByDeathDate": 152246
     },
     {
       "date": "2022-04-24",
@@ -948,7 +1018,7 @@
       "cumCasesByPublishDate": 18453469,
       "hospitalCases": 12083,
       "newDeaths28DaysByDeathDate": 159,
-      "cumDeaths28DaysByDeathDate": 152080
+      "cumDeaths28DaysByDeathDate": 152082
     },
     {
       "date": "2022-04-23",
@@ -958,7 +1028,7 @@
       "cumCasesByPublishDate": 18453469,
       "hospitalCases": 12156,
       "newDeaths28DaysByDeathDate": 177,
-      "cumDeaths28DaysByDeathDate": 151921
+      "cumDeaths28DaysByDeathDate": 151923
     },
     {
       "date": "2022-04-22",
@@ -968,7 +1038,7 @@
       "cumCasesByPublishDate": 18453469,
       "hospitalCases": 12883,
       "newDeaths28DaysByDeathDate": 191,
-      "cumDeaths28DaysByDeathDate": 151744
+      "cumDeaths28DaysByDeathDate": 151746
     },
     {
       "date": "2022-04-21",
@@ -978,7 +1048,7 @@
       "cumCasesByPublishDate": 18437668,
       "hospitalCases": 13392,
       "newDeaths28DaysByDeathDate": 184,
-      "cumDeaths28DaysByDeathDate": 151553
+      "cumDeaths28DaysByDeathDate": 151555
     },
     {
       "date": "2022-04-20",
@@ -988,7 +1058,7 @@
       "cumCasesByPublishDate": 18419203,
       "hospitalCases": 14164,
       "newDeaths28DaysByDeathDate": 206,
-      "cumDeaths28DaysByDeathDate": 151369
+      "cumDeaths28DaysByDeathDate": 151371
     },
     {
       "date": "2022-04-19",
@@ -998,7 +1068,7 @@
       "cumCasesByPublishDate": 18398440,
       "hospitalCases": 14607,
       "newDeaths28DaysByDeathDate": 176,
-      "cumDeaths28DaysByDeathDate": 151163
+      "cumDeaths28DaysByDeathDate": 151165
     },
     {
       "date": "2022-04-18",
@@ -1008,7 +1078,7 @@
       "cumCasesByPublishDate": 18305250,
       "hospitalCases": 14183,
       "newDeaths28DaysByDeathDate": 225,
-      "cumDeaths28DaysByDeathDate": 150987
+      "cumDeaths28DaysByDeathDate": 150989
     },
     {
       "date": "2022-04-17",
@@ -1018,7 +1088,7 @@
       "cumCasesByPublishDate": 18305250,
       "hospitalCases": 14254,
       "newDeaths28DaysByDeathDate": 223,
-      "cumDeaths28DaysByDeathDate": 150762
+      "cumDeaths28DaysByDeathDate": 150764
     },
     {
       "date": "2022-04-16",
@@ -1028,7 +1098,7 @@
       "cumCasesByPublishDate": 18305250,
       "hospitalCases": 14335,
       "newDeaths28DaysByDeathDate": 227,
-      "cumDeaths28DaysByDeathDate": 150539
+      "cumDeaths28DaysByDeathDate": 150541
     },
     {
       "date": "2022-04-15",
@@ -1038,7 +1108,7 @@
       "cumCasesByPublishDate": 18305250,
       "hospitalCases": 14394,
       "newDeaths28DaysByDeathDate": 216,
-      "cumDeaths28DaysByDeathDate": 150312
+      "cumDeaths28DaysByDeathDate": 150314
     },
     {
       "date": "2022-04-14",
@@ -1048,7 +1118,7 @@
       "cumCasesByPublishDate": 18305250,
       "hospitalCases": 14955,
       "newDeaths28DaysByDeathDate": 238,
-      "cumDeaths28DaysByDeathDate": 150096
+      "cumDeaths28DaysByDeathDate": 150098
     },
     {
       "date": "2022-04-13",
@@ -1058,7 +1128,7 @@
       "cumCasesByPublishDate": 18277995,
       "hospitalCases": 15399,
       "newDeaths28DaysByDeathDate": 259,
-      "cumDeaths28DaysByDeathDate": 149858
+      "cumDeaths28DaysByDeathDate": 149860
     },
     {
       "date": "2022-04-12",
@@ -1068,7 +1138,7 @@
       "cumCasesByPublishDate": 18248680,
       "hospitalCases": 16131,
       "newDeaths28DaysByDeathDate": 255,
-      "cumDeaths28DaysByDeathDate": 149599
+      "cumDeaths28DaysByDeathDate": 149601
     },
     {
       "date": "2022-04-11",
@@ -1078,7 +1148,7 @@
       "cumCasesByPublishDate": 18217512,
       "hospitalCases": 16442,
       "newDeaths28DaysByDeathDate": 237,
-      "cumDeaths28DaysByDeathDate": 149344
+      "cumDeaths28DaysByDeathDate": 149346
     },
     {
       "date": "2022-04-10",
@@ -1088,7 +1158,7 @@
       "cumCasesByPublishDate": 18142371,
       "hospitalCases": 16039,
       "newDeaths28DaysByDeathDate": 245,
-      "cumDeaths28DaysByDeathDate": 149107
+      "cumDeaths28DaysByDeathDate": 149109
     },
     {
       "date": "2022-04-09",
@@ -1098,7 +1168,7 @@
       "cumCasesByPublishDate": 18142371,
       "hospitalCases": 15876,
       "newDeaths28DaysByDeathDate": 239,
-      "cumDeaths28DaysByDeathDate": 148862
+      "cumDeaths28DaysByDeathDate": 148864
     },
     {
       "date": "2022-04-08",
@@ -1108,7 +1178,7 @@
       "cumCasesByPublishDate": 18142371,
       "hospitalCases": 16366,
       "newDeaths28DaysByDeathDate": 268,
-      "cumDeaths28DaysByDeathDate": 148623
+      "cumDeaths28DaysByDeathDate": 148625
     },
     {
       "date": "2022-04-07",
@@ -1118,7 +1188,7 @@
       "cumCasesByPublishDate": 18108626,
       "hospitalCases": 16600,
       "newDeaths28DaysByDeathDate": 248,
-      "cumDeaths28DaysByDeathDate": 148355
+      "cumDeaths28DaysByDeathDate": 148357
     },
     {
       "date": "2022-04-06",
@@ -1128,7 +1198,7 @@
       "cumCasesByPublishDate": 18070000,
       "hospitalCases": 16587,
       "newDeaths28DaysByDeathDate": 244,
-      "cumDeaths28DaysByDeathDate": 148107
+      "cumDeaths28DaysByDeathDate": 148109
     },
     {
       "date": "2022-04-05",
@@ -1138,7 +1208,7 @@
       "cumCasesByPublishDate": 18027644,
       "hospitalCases": 16552,
       "newDeaths28DaysByDeathDate": 225,
-      "cumDeaths28DaysByDeathDate": 147863
+      "cumDeaths28DaysByDeathDate": 147865
     },
     {
       "date": "2022-04-04",
@@ -1148,7 +1218,7 @@
       "cumCasesByPublishDate": 17986241,
       "hospitalCases": 16466,
       "newDeaths28DaysByDeathDate": 212,
-      "cumDeaths28DaysByDeathDate": 147638
+      "cumDeaths28DaysByDeathDate": 147640
     },
     {
       "date": "2022-04-03",
@@ -1158,7 +1228,7 @@
       "cumCasesByPublishDate": 17864687,
       "hospitalCases": 15989,
       "newDeaths28DaysByDeathDate": 232,
-      "cumDeaths28DaysByDeathDate": 147426
+      "cumDeaths28DaysByDeathDate": 147428
     },
     {
       "date": "2022-04-02",
@@ -1168,7 +1238,7 @@
       "cumCasesByPublishDate": 17864687,
       "hospitalCases": 15739,
       "newDeaths28DaysByDeathDate": 254,
-      "cumDeaths28DaysByDeathDate": 147194
+      "cumDeaths28DaysByDeathDate": 147196
     },
     {
       "date": "2022-04-01",
@@ -1178,7 +1248,7 @@
       "cumCasesByPublishDate": 17864687,
       "hospitalCases": 15966,
       "newDeaths28DaysByDeathDate": 216,
-      "cumDeaths28DaysByDeathDate": 146940
+      "cumDeaths28DaysByDeathDate": 146942
     },
     {
       "date": "2022-03-31",
@@ -1188,7 +1258,7 @@
       "cumCasesByPublishDate": 17804704,
       "hospitalCases": 15648,
       "newDeaths28DaysByDeathDate": 226,
-      "cumDeaths28DaysByDeathDate": 146724
+      "cumDeaths28DaysByDeathDate": 146726
     },
     {
       "date": "2022-03-30",
@@ -1198,7 +1268,7 @@
       "cumCasesByPublishDate": 17742075,
       "hospitalCases": 15632,
       "newDeaths28DaysByDeathDate": 214,
-      "cumDeaths28DaysByDeathDate": 146498
+      "cumDeaths28DaysByDeathDate": 146500
     },
     {
       "date": "2022-03-29",
@@ -1208,7 +1278,7 @@
       "cumCasesByPublishDate": 17667861,
       "hospitalCases": 15411,
       "newDeaths28DaysByDeathDate": 203,
-      "cumDeaths28DaysByDeathDate": 146284
+      "cumDeaths28DaysByDeathDate": 146286
     },
     {
       "date": "2022-03-28",
@@ -1218,7 +1288,7 @@
       "cumCasesByPublishDate": 17603000,
       "hospitalCases": 15170,
       "newDeaths28DaysByDeathDate": 187,
-      "cumDeaths28DaysByDeathDate": 146081
+      "cumDeaths28DaysByDeathDate": 146083
     },
     {
       "date": "2022-03-27",
@@ -1228,7 +1298,7 @@
       "cumCasesByPublishDate": 17419944,
       "hospitalCases": 14465,
       "newDeaths28DaysByDeathDate": 186,
-      "cumDeaths28DaysByDeathDate": 145894
+      "cumDeaths28DaysByDeathDate": 145896
     },
     {
       "date": "2022-03-26",
@@ -1238,7 +1308,7 @@
       "cumCasesByPublishDate": 17419944,
       "hospitalCases": 13796,
       "newDeaths28DaysByDeathDate": 186,
-      "cumDeaths28DaysByDeathDate": 145708
+      "cumDeaths28DaysByDeathDate": 145710
     },
     {
       "date": "2022-03-25",
@@ -1248,7 +1318,7 @@
       "cumCasesByPublishDate": 17419944,
       "hospitalCases": 13842,
       "newDeaths28DaysByDeathDate": 180,
-      "cumDeaths28DaysByDeathDate": 145522
+      "cumDeaths28DaysByDeathDate": 145524
     },
     {
       "date": "2022-03-24",
@@ -1258,7 +1328,7 @@
       "cumCasesByPublishDate": 17356644,
       "hospitalCases": 13602,
       "newDeaths28DaysByDeathDate": 174,
-      "cumDeaths28DaysByDeathDate": 145342
+      "cumDeaths28DaysByDeathDate": 145344
     },
     {
       "date": "2022-03-23",
@@ -1268,7 +1338,7 @@
       "cumCasesByPublishDate": 17277446,
       "hospitalCases": 13248,
       "newDeaths28DaysByDeathDate": 163,
-      "cumDeaths28DaysByDeathDate": 145168
+      "cumDeaths28DaysByDeathDate": 145170
     },
     {
       "date": "2022-03-22",
@@ -1278,7 +1348,7 @@
       "cumCasesByPublishDate": 17191749,
       "hospitalCases": 13060,
       "newDeaths28DaysByDeathDate": 187,
-      "cumDeaths28DaysByDeathDate": 145005
+      "cumDeaths28DaysByDeathDate": 145007
     },
     {
       "date": "2022-03-21",
@@ -1288,7 +1358,7 @@
       "cumCasesByPublishDate": 17117061,
       "hospitalCases": 12753,
       "newDeaths28DaysByDeathDate": 146,
-      "cumDeaths28DaysByDeathDate": 144818
+      "cumDeaths28DaysByDeathDate": 144820
     },
     {
       "date": "2022-03-20",
@@ -1298,7 +1368,7 @@
       "cumCasesByPublishDate": 16928787,
       "hospitalCases": 12070,
       "newDeaths28DaysByDeathDate": 158,
-      "cumDeaths28DaysByDeathDate": 144672
+      "cumDeaths28DaysByDeathDate": 144674
     },
     {
       "date": "2022-03-19",
@@ -1308,7 +1378,7 @@
       "cumCasesByPublishDate": 16928787,
       "hospitalCases": 11638,
       "newDeaths28DaysByDeathDate": 151,
-      "cumDeaths28DaysByDeathDate": 144514
+      "cumDeaths28DaysByDeathDate": 144516
     },
     {
       "date": "2022-03-18",
@@ -1318,7 +1388,7 @@
       "cumCasesByPublishDate": 16928787,
       "hospitalCases": 11595,
       "newDeaths28DaysByDeathDate": 162,
-      "cumDeaths28DaysByDeathDate": 144363
+      "cumDeaths28DaysByDeathDate": 144365
     },
     {
       "date": "2022-03-17",
@@ -1328,7 +1398,7 @@
       "cumCasesByPublishDate": 16860551,
       "hospitalCases": 11346,
       "newDeaths28DaysByDeathDate": 163,
-      "cumDeaths28DaysByDeathDate": 144201
+      "cumDeaths28DaysByDeathDate": 144203
     },
     {
       "date": "2022-03-16",
@@ -1338,7 +1408,7 @@
       "cumCasesByPublishDate": 16785149,
       "hospitalCases": 11010,
       "newDeaths28DaysByDeathDate": 145,
-      "cumDeaths28DaysByDeathDate": 144038
+      "cumDeaths28DaysByDeathDate": 144040
     },
     {
       "date": "2022-03-15",
@@ -1348,7 +1418,7 @@
       "cumCasesByPublishDate": 16709007,
       "hospitalCases": 10877,
       "newDeaths28DaysByDeathDate": 136,
-      "cumDeaths28DaysByDeathDate": 143893
+      "cumDeaths28DaysByDeathDate": 143895
     },
     {
       "date": "2022-03-14",
@@ -1358,7 +1428,7 @@
       "cumCasesByPublishDate": 16644795,
       "hospitalCases": 10576,
       "newDeaths28DaysByDeathDate": 160,
-      "cumDeaths28DaysByDeathDate": 143757
+      "cumDeaths28DaysByDeathDate": 143759
     },
     {
       "date": "2022-03-13",
@@ -1368,7 +1438,7 @@
       "cumCasesByPublishDate": 16481364,
       "hospitalCases": 9908,
       "newDeaths28DaysByDeathDate": 127,
-      "cumDeaths28DaysByDeathDate": 143597
+      "cumDeaths28DaysByDeathDate": 143599
     },
     {
       "date": "2022-03-12",
@@ -1378,7 +1448,7 @@
       "cumCasesByPublishDate": 16481364,
       "hospitalCases": 9618,
       "newDeaths28DaysByDeathDate": 128,
-      "cumDeaths28DaysByDeathDate": 143470
+      "cumDeaths28DaysByDeathDate": 143472
     },
     {
       "date": "2022-03-11",
@@ -1388,7 +1458,7 @@
       "cumCasesByPublishDate": 16481364,
       "hospitalCases": 9369,
       "newDeaths28DaysByDeathDate": 121,
-      "cumDeaths28DaysByDeathDate": 143342
+      "cumDeaths28DaysByDeathDate": 143344
     },
     {
       "date": "2022-03-10",
@@ -1398,7 +1468,7 @@
       "cumCasesByPublishDate": 16425663,
       "hospitalCases": 9241,
       "newDeaths28DaysByDeathDate": 128,
-      "cumDeaths28DaysByDeathDate": 143221
+      "cumDeaths28DaysByDeathDate": 143223
     },
     {
       "date": "2022-03-09",
@@ -1408,7 +1478,7 @@
       "cumCasesByPublishDate": 16373115,
       "hospitalCases": 9163,
       "newDeaths28DaysByDeathDate": 125,
-      "cumDeaths28DaysByDeathDate": 143093
+      "cumDeaths28DaysByDeathDate": 143095
     },
     {
       "date": "2022-03-08",
@@ -1418,7 +1488,7 @@
       "cumCasesByPublishDate": 16321911,
       "hospitalCases": 9176,
       "newDeaths28DaysByDeathDate": 131,
-      "cumDeaths28DaysByDeathDate": 142968
+      "cumDeaths28DaysByDeathDate": 142970
     },
     {
       "date": "2022-03-07",
@@ -1428,7 +1498,7 @@
       "cumCasesByPublishDate": 16277054,
       "hospitalCases": 8923,
       "newDeaths28DaysByDeathDate": 119,
-      "cumDeaths28DaysByDeathDate": 142837
+      "cumDeaths28DaysByDeathDate": 142839
     },
     {
       "date": "2022-03-06",
@@ -1438,7 +1508,7 @@
       "cumCasesByPublishDate": 16182092,
       "hospitalCases": 8502,
       "newDeaths28DaysByDeathDate": 107,
-      "cumDeaths28DaysByDeathDate": 142718
+      "cumDeaths28DaysByDeathDate": 142720
     },
     {
       "date": "2022-03-05",
@@ -1448,7 +1518,7 @@
       "cumCasesByPublishDate": 16182092,
       "hospitalCases": 8400,
       "newDeaths28DaysByDeathDate": 108,
-      "cumDeaths28DaysByDeathDate": 142611
+      "cumDeaths28DaysByDeathDate": 142613
     },
     {
       "date": "2022-03-04",
@@ -1458,7 +1528,7 @@
       "cumCasesByPublishDate": 16182092,
       "hospitalCases": 8403,
       "newDeaths28DaysByDeathDate": 110,
-      "cumDeaths28DaysByDeathDate": 142503
+      "cumDeaths28DaysByDeathDate": 142505
     },
     {
       "date": "2022-03-03",
@@ -1468,7 +1538,7 @@
       "cumCasesByPublishDate": 16150464,
       "hospitalCases": 8210,
       "newDeaths28DaysByDeathDate": 137,
-      "cumDeaths28DaysByDeathDate": 142393
+      "cumDeaths28DaysByDeathDate": 142395
     },
     {
       "date": "2022-03-02",
@@ -1478,7 +1548,7 @@
       "cumCasesByPublishDate": 16117745,
       "hospitalCases": 8402,
       "newDeaths28DaysByDeathDate": 129,
-      "cumDeaths28DaysByDeathDate": 142256
+      "cumDeaths28DaysByDeathDate": 142258
     },
     {
       "date": "2022-03-01",
@@ -1488,7 +1558,7 @@
       "cumCasesByPublishDate": 16085841,
       "hospitalCases": 8486,
       "newDeaths28DaysByDeathDate": 109,
-      "cumDeaths28DaysByDeathDate": 142127
+      "cumDeaths28DaysByDeathDate": 142129
     },
     {
       "date": "2022-02-28",
@@ -1498,7 +1568,7 @@
       "cumCasesByPublishDate": 16059214,
       "hospitalCases": 8538,
       "newDeaths28DaysByDeathDate": 119,
-      "cumDeaths28DaysByDeathDate": 142018
+      "cumDeaths28DaysByDeathDate": 142020
     },
     {
       "date": "2022-02-27",
@@ -1508,7 +1578,7 @@
       "cumCasesByPublishDate": 15998983,
       "hospitalCases": 8305,
       "newDeaths28DaysByDeathDate": 107,
-      "cumDeaths28DaysByDeathDate": 141899
+      "cumDeaths28DaysByDeathDate": 141901
     },
     {
       "date": "2022-02-26",
@@ -1518,7 +1588,7 @@
       "cumCasesByPublishDate": 15998983,
       "hospitalCases": 8197,
       "newDeaths28DaysByDeathDate": 117,
-      "cumDeaths28DaysByDeathDate": 141792
+      "cumDeaths28DaysByDeathDate": 141794
     },
     {
       "date": "2022-02-25",
@@ -1528,7 +1598,7 @@
       "cumCasesByPublishDate": 15998983,
       "hospitalCases": 8498,
       "newDeaths28DaysByDeathDate": 120,
-      "cumDeaths28DaysByDeathDate": 141675
+      "cumDeaths28DaysByDeathDate": 141677
     },
     {
       "date": "2022-02-24",
@@ -1538,7 +1608,7 @@
       "cumCasesByPublishDate": 15975718,
       "hospitalCases": 8645,
       "newDeaths28DaysByDeathDate": 140,
-      "cumDeaths28DaysByDeathDate": 141555
+      "cumDeaths28DaysByDeathDate": 141557
     },
     {
       "date": "2022-02-23",
@@ -1548,7 +1618,7 @@
       "cumCasesByPublishDate": 15947871,
       "hospitalCases": 8868,
       "newDeaths28DaysByDeathDate": 121,
-      "cumDeaths28DaysByDeathDate": 141415
+      "cumDeaths28DaysByDeathDate": 141417
     },
     {
       "date": "2022-02-22",
@@ -1558,7 +1628,7 @@
       "cumCasesByPublishDate": 15918472,
       "hospitalCases": 8948,
       "newDeaths28DaysByDeathDate": 117,
-      "cumDeaths28DaysByDeathDate": 141294
+      "cumDeaths28DaysByDeathDate": 141296
     },
     {
       "date": "2022-02-21",
@@ -1568,7 +1638,7 @@
       "cumCasesByPublishDate": 15888557,
       "hospitalCases": 9229,
       "newDeaths28DaysByDeathDate": 123,
-      "cumDeaths28DaysByDeathDate": 141177
+      "cumDeaths28DaysByDeathDate": 141179
     },
     {
       "date": "2022-02-20",
@@ -1578,7 +1648,7 @@
       "cumCasesByPublishDate": 15859074,
       "hospitalCases": 9058,
       "newDeaths28DaysByDeathDate": 144,
-      "cumDeaths28DaysByDeathDate": 141054
+      "cumDeaths28DaysByDeathDate": 141056
     },
     {
       "date": "2022-02-19",
@@ -1588,7 +1658,7 @@
       "cumCasesByPublishDate": 15835403,
       "hospitalCases": 9187,
       "newDeaths28DaysByDeathDate": 136,
-      "cumDeaths28DaysByDeathDate": 140910
+      "cumDeaths28DaysByDeathDate": 140912
     },
     {
       "date": "2022-02-18",
@@ -1598,7 +1668,7 @@
       "cumCasesByPublishDate": 15803539,
       "hospitalCases": 9258,
       "newDeaths28DaysByDeathDate": 129,
-      "cumDeaths28DaysByDeathDate": 140774
+      "cumDeaths28DaysByDeathDate": 140776
     },
     {
       "date": "2022-02-17",
@@ -1608,7 +1678,7 @@
       "cumCasesByPublishDate": 15767071,
       "hospitalCases": 9600,
       "newDeaths28DaysByDeathDate": 141,
-      "cumDeaths28DaysByDeathDate": 140645
+      "cumDeaths28DaysByDeathDate": 140647
     },
     {
       "date": "2022-02-16",
@@ -1618,7 +1688,7 @@
       "cumCasesByPublishDate": 15727107,
       "hospitalCases": 9804,
       "newDeaths28DaysByDeathDate": 152,
-      "cumDeaths28DaysByDeathDate": 140504
+      "cumDeaths28DaysByDeathDate": 140506
     },
     {
       "date": "2022-02-15",
@@ -1628,7 +1698,7 @@
       "cumCasesByPublishDate": 15684719,
       "hospitalCases": 10019,
       "newDeaths28DaysByDeathDate": 149,
-      "cumDeaths28DaysByDeathDate": 140352
+      "cumDeaths28DaysByDeathDate": 140354
     },
     {
       "date": "2022-02-14",
@@ -1638,7 +1708,7 @@
       "cumCasesByPublishDate": 15648433,
       "hospitalCases": 10273,
       "newDeaths28DaysByDeathDate": 168,
-      "cumDeaths28DaysByDeathDate": 140203
+      "cumDeaths28DaysByDeathDate": 140205
     },
     {
       "date": "2022-02-13",
@@ -1648,7 +1718,7 @@
       "cumCasesByPublishDate": 15616753,
       "hospitalCases": 10049,
       "newDeaths28DaysByDeathDate": 155,
-      "cumDeaths28DaysByDeathDate": 140035
+      "cumDeaths28DaysByDeathDate": 140037
     },
     {
       "date": "2022-02-12",
@@ -1658,7 +1728,7 @@
       "cumCasesByPublishDate": 15584863,
       "hospitalCases": 10010,
       "newDeaths28DaysByDeathDate": 150,
-      "cumDeaths28DaysByDeathDate": 139880
+      "cumDeaths28DaysByDeathDate": 139882
     },
     {
       "date": "2022-02-11",
@@ -1668,7 +1738,7 @@
       "cumCasesByPublishDate": 15547597,
       "hospitalCases": 10367,
       "newDeaths28DaysByDeathDate": 149,
-      "cumDeaths28DaysByDeathDate": 139730
+      "cumDeaths28DaysByDeathDate": 139732
     },
     {
       "date": "2022-02-10",
@@ -1678,7 +1748,7 @@
       "cumCasesByPublishDate": 15501331,
       "hospitalCases": 10734,
       "newDeaths28DaysByDeathDate": 164,
-      "cumDeaths28DaysByDeathDate": 139581
+      "cumDeaths28DaysByDeathDate": 139583
     },
     {
       "date": "2022-02-09",
@@ -1688,7 +1758,7 @@
       "cumCasesByPublishDate": 15447906,
       "hospitalCases": 11071,
       "newDeaths28DaysByDeathDate": 161,
-      "cumDeaths28DaysByDeathDate": 139417
+      "cumDeaths28DaysByDeathDate": 139419
     },
     {
       "date": "2022-02-08",
@@ -1698,7 +1768,7 @@
       "cumCasesByPublishDate": 15389601,
       "hospitalCases": 11471,
       "newDeaths28DaysByDeathDate": 165,
-      "cumDeaths28DaysByDeathDate": 139256
+      "cumDeaths28DaysByDeathDate": 139258
     },
     {
       "date": "2022-02-07",
@@ -1708,7 +1778,7 @@
       "cumCasesByPublishDate": 15331148,
       "hospitalCases": 11710,
       "newDeaths28DaysByDeathDate": 156,
-      "cumDeaths28DaysByDeathDate": 139091
+      "cumDeaths28DaysByDeathDate": 139093
     },
     {
       "date": "2022-02-06",
@@ -1718,7 +1788,7 @@
       "cumCasesByPublishDate": 15282993,
       "hospitalCases": 11529,
       "newDeaths28DaysByDeathDate": 189,
-      "cumDeaths28DaysByDeathDate": 138935
+      "cumDeaths28DaysByDeathDate": 138937
     },
     {
       "date": "2022-02-05",
@@ -1728,7 +1798,7 @@
       "cumCasesByPublishDate": 15234229,
       "hospitalCases": 11604,
       "newDeaths28DaysByDeathDate": 196,
-      "cumDeaths28DaysByDeathDate": 138746
+      "cumDeaths28DaysByDeathDate": 138748
     },
     {
       "date": "2022-02-04",
@@ -1738,7 +1808,7 @@
       "cumCasesByPublishDate": 15177316,
       "hospitalCases": 12032,
       "newDeaths28DaysByDeathDate": 179,
-      "cumDeaths28DaysByDeathDate": 138550
+      "cumDeaths28DaysByDeathDate": 138552
     },
     {
       "date": "2022-02-03",
@@ -1748,7 +1818,7 @@
       "cumCasesByPublishDate": 15106124,
       "hospitalCases": 12423,
       "newDeaths28DaysByDeathDate": 204,
-      "cumDeaths28DaysByDeathDate": 138371
+      "cumDeaths28DaysByDeathDate": 138373
     },
     {
       "date": "2022-02-02",
@@ -1758,7 +1828,7 @@
       "cumCasesByPublishDate": 15028951,
       "hospitalCases": 12577,
       "newDeaths28DaysByDeathDate": 229,
-      "cumDeaths28DaysByDeathDate": 138167
+      "cumDeaths28DaysByDeathDate": 138169
     },
     {
       "date": "2022-02-01",
@@ -1768,7 +1838,7 @@
       "cumCasesByPublishDate": 14948735,
       "hospitalCases": 12896,
       "newDeaths28DaysByDeathDate": 228,
-      "cumDeaths28DaysByDeathDate": 137938
+      "cumDeaths28DaysByDeathDate": 137940
     },
     {
       "date": "2022-01-31",
@@ -1778,7 +1848,7 @@
       "cumCasesByPublishDate": 14845382,
       "hospitalCases": 13331,
       "newDeaths28DaysByDeathDate": 232,
-      "cumDeaths28DaysByDeathDate": 137710
+      "cumDeaths28DaysByDeathDate": 137712
     },
     {
       "date": "2022-01-30",
@@ -1788,7 +1858,7 @@
       "cumCasesByPublishDate": 14023177,
       "hospitalCases": 12992,
       "newDeaths28DaysByDeathDate": 217,
-      "cumDeaths28DaysByDeathDate": 137478
+      "cumDeaths28DaysByDeathDate": 137480
     },
     {
       "date": "2022-01-29",
@@ -1798,7 +1868,7 @@
       "cumCasesByPublishDate": 13963618,
       "hospitalCases": 12672,
       "newDeaths28DaysByDeathDate": 238,
-      "cumDeaths28DaysByDeathDate": 137261
+      "cumDeaths28DaysByDeathDate": 137263
     },
     {
       "date": "2022-01-28",
@@ -1808,7 +1878,7 @@
       "cumCasesByPublishDate": 13895065,
       "hospitalCases": 13462,
       "newDeaths28DaysByDeathDate": 223,
-      "cumDeaths28DaysByDeathDate": 137023
+      "cumDeaths28DaysByDeathDate": 137025
     },
     {
       "date": "2022-01-27",
@@ -1818,7 +1888,7 @@
       "cumCasesByPublishDate": 13817017,
       "hospitalCases": 13651,
       "newDeaths28DaysByDeathDate": 264,
-      "cumDeaths28DaysByDeathDate": 136800
+      "cumDeaths28DaysByDeathDate": 136802
     },
     {
       "date": "2022-01-26",
@@ -1828,7 +1898,7 @@
       "cumCasesByPublishDate": 13732435,
       "hospitalCases": 13948,
       "newDeaths28DaysByDeathDate": 239,
-      "cumDeaths28DaysByDeathDate": 136536
+      "cumDeaths28DaysByDeathDate": 136538
     },
     {
       "date": "2022-01-25",
@@ -1838,7 +1908,7 @@
       "cumCasesByPublishDate": 13642522,
       "hospitalCases": 14088,
       "newDeaths28DaysByDeathDate": 212,
-      "cumDeaths28DaysByDeathDate": 136297
+      "cumDeaths28DaysByDeathDate": 136299
     },
     {
       "date": "2022-01-24",
@@ -1848,7 +1918,7 @@
       "cumCasesByPublishDate": 13558510,
       "hospitalCases": 14563,
       "newDeaths28DaysByDeathDate": 250,
-      "cumDeaths28DaysByDeathDate": 136085
+      "cumDeaths28DaysByDeathDate": 136087
     },
     {
       "date": "2022-01-23",
@@ -1858,7 +1928,7 @@
       "cumCasesByPublishDate": 13482354,
       "hospitalCases": 14334,
       "newDeaths28DaysByDeathDate": 225,
-      "cumDeaths28DaysByDeathDate": 135835
+      "cumDeaths28DaysByDeathDate": 135837
     },
     {
       "date": "2022-01-22",
@@ -1868,7 +1938,7 @@
       "cumCasesByPublishDate": 13413441,
       "hospitalCases": 14320,
       "newDeaths28DaysByDeathDate": 255,
-      "cumDeaths28DaysByDeathDate": 135610
+      "cumDeaths28DaysByDeathDate": 135612
     },
     {
       "date": "2022-01-21",
@@ -1878,7 +1948,7 @@
       "cumCasesByPublishDate": 13341488,
       "hospitalCases": 14865,
       "newDeaths28DaysByDeathDate": 272,
-      "cumDeaths28DaysByDeathDate": 135355
+      "cumDeaths28DaysByDeathDate": 135357
     },
     {
       "date": "2022-01-20",
@@ -1888,7 +1958,7 @@
       "cumCasesByPublishDate": 13255586,
       "hospitalCases": 15302,
       "newDeaths28DaysByDeathDate": 230,
-      "cumDeaths28DaysByDeathDate": 135083
+      "cumDeaths28DaysByDeathDate": 135085
     },
     {
       "date": "2022-01-19",
@@ -1898,7 +1968,7 @@
       "cumCasesByPublishDate": 13160429,
       "hospitalCases": 15742,
       "newDeaths28DaysByDeathDate": 243,
-      "cumDeaths28DaysByDeathDate": 134853
+      "cumDeaths28DaysByDeathDate": 134855
     },
     {
       "date": "2022-01-18",
@@ -1907,8 +1977,8 @@
       "newCasesByPublishDate": 84987,
       "cumCasesByPublishDate": 13064494,
       "hospitalCases": 16218,
-      "newDeaths28DaysByDeathDate": 254,
-      "cumDeaths28DaysByDeathDate": 134610
+      "newDeaths28DaysByDeathDate": 255,
+      "cumDeaths28DaysByDeathDate": 134612
     },
     {
       "date": "2022-01-17",
@@ -1918,7 +1988,7 @@
       "cumCasesByPublishDate": 12979908,
       "hospitalCases": 16621,
       "newDeaths28DaysByDeathDate": 260,
-      "cumDeaths28DaysByDeathDate": 134356
+      "cumDeaths28DaysByDeathDate": 134357
     },
     {
       "date": "2022-01-16",
@@ -1928,7 +1998,7 @@
       "cumCasesByPublishDate": 12906041,
       "hospitalCases": 16372,
       "newDeaths28DaysByDeathDate": 250,
-      "cumDeaths28DaysByDeathDate": 134096
+      "cumDeaths28DaysByDeathDate": 134097
     },
     {
       "date": "2022-01-15",
@@ -1938,7 +2008,7 @@
       "cumCasesByPublishDate": 12840532,
       "hospitalCases": 16281,
       "newDeaths28DaysByDeathDate": 256,
-      "cumDeaths28DaysByDeathDate": 133846
+      "cumDeaths28DaysByDeathDate": 133847
     },
     {
       "date": "2022-01-14",
@@ -1948,7 +2018,7 @@
       "cumCasesByPublishDate": 12766944,
       "hospitalCases": 16537,
       "newDeaths28DaysByDeathDate": 252,
-      "cumDeaths28DaysByDeathDate": 133590
+      "cumDeaths28DaysByDeathDate": 133591
     },
     {
       "date": "2022-01-13",
@@ -1958,7 +2028,7 @@
       "cumCasesByPublishDate": 12680151,
       "hospitalCases": 16716,
       "newDeaths28DaysByDeathDate": 234,
-      "cumDeaths28DaysByDeathDate": 133338
+      "cumDeaths28DaysByDeathDate": 133339
     },
     {
       "date": "2022-01-12",
@@ -1968,7 +2038,7 @@
       "cumCasesByPublishDate": 12585787,
       "hospitalCases": 16881,
       "newDeaths28DaysByDeathDate": 225,
-      "cumDeaths28DaysByDeathDate": 133104
+      "cumDeaths28DaysByDeathDate": 133105
     },
     {
       "date": "2022-01-11",
@@ -1978,7 +2048,7 @@
       "cumCasesByPublishDate": 12469614,
       "hospitalCases": 16939,
       "newDeaths28DaysByDeathDate": 247,
-      "cumDeaths28DaysByDeathDate": 132879
+      "cumDeaths28DaysByDeathDate": 132880
     },
     {
       "date": "2022-01-10",
@@ -1987,8 +2057,8 @@
       "newCasesByPublishDate": 115998,
       "cumCasesByPublishDate": 12370121,
       "hospitalCases": 17120,
-      "newDeaths28DaysByDeathDate": 248,
-      "cumDeaths28DaysByDeathDate": 132632
+      "newDeaths28DaysByDeathDate": 249,
+      "cumDeaths28DaysByDeathDate": 132633
     },
     {
       "date": "2022-01-09",
@@ -9091,7 +9161,7 @@
       "cumDeaths28DaysByDeathDate": null
     }
   ],
-  "lastUpdate": "2022-07-27T15:00:01.000000Z",
-  "length": 909,
+  "lastUpdate": "2022-08-03T15:45:24.000000Z",
+  "length": 916,
   "totalPages": 1
 }

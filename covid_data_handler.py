@@ -101,8 +101,8 @@ def parse_covid_data():
     return exeter_data, national_data
     
 def process_covid_api_data(exeter_data:dict, national_data:dict):
-    exeter_name = "Exeter"
-    nation_name = "England"
+    exeter_name = loadConfigFile["Covid Data Configuration"]["Location"]
+    nation_name = loadConfigFile["Covid Data Configuration"]["Nation"]
     exeter_7_day_cases = 0
     exeter_deaths = 0
     national_7_day_cases = 0
@@ -138,8 +138,6 @@ def process_covid_api_data(exeter_data:dict, national_data:dict):
                 hospital_cases = national_data["data"][i]["hospitalCases"]
                 break
         
-    return exeter_name,exeter_7_day_cases, exeter_deaths,nation_name,national_7_day_cases,national_deaths,hospital_cases
-
-
+    return (exeter_name,exeter_7_day_cases, exeter_deaths,nation_name,national_7_day_cases,national_deaths,hospital_cases)
 
     
