@@ -2,7 +2,7 @@
     "Covid Data Configuration": {
         "Location": "Exeter",
         "Location_type": "ltla",
-        "Nation": "england",
+        "Nation": "England",
 
         "API Output Structure":{
             "date": "date",

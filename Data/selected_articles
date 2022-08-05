@@ -1,16 +1,55 @@
 [
   {
     "source": {
+      "id": "wired",
+      "name": "Wired"
+    },
+    "author": "Steven Levy",
+    "title": "Larry Brilliant Says Covid Rapid Tests Are Bad for Public Health",
+    "description": "The epidemiologist who helped quash smallpox talks about what we're doing wrong on monkeypox, vaccines, and antigen tests.",
+    "url": "https://www.wired.com/story/larry-brilliant-says-covid-rapid-tests-are-bad-for-public-health/",
+    "urlToImage": "https://media.wired.com/photos/62ec4b526f48e5c6d48d6edc/191:100/w_1280,c_limit/test_larry_brilliant_science_GettyImages-1238159897.jpg",
+    "publishedAt": "2022-08-05T12:00:00Z",
+    "content": "Second, the longer this virus continues, the more variants were going to have. We dont know exactly what forms a variant, but for sure one factor is immunocompromised people who have the virus putter\u2026 [+3755 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "New York Times"
+    },
+    "author": "Cristal Duhaime, Stephanie Joyce, Larissa Anderson, Lisa Tobin, Kaari Pitkin, Anita Badejo, Isaac Jones, Carole Sabouraud, Chris Wood and Corey Schreppel",
+    "title": "Vacationing in the Time of Covid",
+    "description": "The story of one man\u2019s determination to resume traveling \u2014 despite the particular risks to his health.",
+    "url": "https://www.nytimes.com/2022/08/05/podcasts/the-daily/covid-vacation-cruise-ships.html",
+    "urlToImage": "https://static01.nyt.com/images/2022/07/14/opinion/05daily-1/14fp-cruises-image-audioapp-facebookJumbo-v2.jpg",
+    "publishedAt": "2022-08-05T10:45:00Z",
+    "content": "Fact-checking by Mary Marge Locker.\r\nSpecial thanks to Lulu Garcia Navarro, Courtney Stein, Christine Djossa, Olivia Natt, Derek Arthur and Jason Pagano.\r\nThe Daily is made by Lisa Tobin, Rachel Ques\u2026 [+929 chars]"
+  },
+  {
+    "source": {
+      "id": "bbc-news",
+      "name": "BBC News"
+    },
+    "author": "https://www.facebook.com/bbcnews",
+    "title": "Covid-19: North Korea claims to have recovered from outbreak",
+    "description": "There is widespread scepticism over North Korea's claim to have the world's lowest Covid death rate.",
+    "url": "https://www.bbc.co.uk/news/world-asia-62435809",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1375F/production/_126211797_mediaitem126211793.jpg",
+    "publishedAt": "2022-08-05T11:33:54Z",
+    "content": "By George WrightBBC News\r\nNorth Korea says everyone who fell sick since the country confirmed its first Covid-19 infections has recovered.\r\nOn Friday state media reported zero fever cases for a seven\u2026 [+1667 chars]"
+  },
+  {
+    "source": {
       "id": "reuters",
       "name": "Reuters"
     },
-    "author": null,
-    "title": "Australia's winter COVID wave may have peaked early, health minister says - Reuters",
-    "description": "Australia's COVID-19 winter outbreak fuelled by the new Omicron sub-variants BA.4/5 may have peaked early, Health Minister Mark Butler said on Thursday, as hospitals reported a steady fall in admissions over the past week.",
-    "url": "https://www.reuters.com/world/asia-pacific/australias-winter-covid-wave-may-have-peaked-early-health-minister-says-2022-08-04/",
-    "urlToImage": "https://www.reuters.com/resizer/fwPbXB0oCiar8lI2Xkj7XzZeTnc=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/ZFC3EPIQXRJN7PP2CMXUJJULFA.jpg",
-    "publishedAt": "2022-08-04T02:12:00Z",
-    "content": "SYDNEY, Aug 4 (Reuters) - Australia's COVID-19 winter outbreak fuelled by the new Omicron sub-variants BA.4/5 may have peaked early, Health Minister Mark Butler said on Thursday, as hospitals reporte\u2026 [+2044 chars]"
+    "author": "Reuters Editorial",
+    "title": "North Korea says its first COVID-19 wave is over - Reuters",
+    "description": "North Korea on Friday said all of its fever patients have recovered, marking the end of its first wave of the coronavirus pandemic.",
+    "url": "https://www.reuters.com/video/watch/idOV667905082022RP1",
+    "urlToImage": "https://static.reuters.com/resources/r/?d=20220805&i=OV667905082022RP1&r=OV667905082022RP1&t=2",
+    "publishedAt": "2022-08-05T08:49:21Z",
+    "content": "Posted \r\nNorth Korea on Friday said all of its fever patients have recovered, marking the end of its first wave of the coronavirus pandemic."
   },
   {
     "source": {
@@ -18,12 +57,12 @@
       "name": "Reuters"
     },
     "author": null,
-    "title": "Foreigners turn sellers of Chinese shares in July on COVID worries - Reuters",
-    "description": "Overseas investors turned net sellers of Chinese stocks in July, as mainland stock prices tumbled on concerns that COVID-19 flare-ups and ensuing lockdowns would further disrupt economic activity.",
-    "url": "https://www.reuters.com/markets/europe/foreigners-turn-sellers-chinese-shares-july-covid-worries-2022-08-04/",
-    "urlToImage": "https://www.reuters.com/resizer/369mpgp_IFWwDGT4TFZ3p7W0u-o=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/4IGJKJEO4VJULGFPX3EDXM55WY.jpg",
-    "publishedAt": "2022-08-04T05:43:00Z",
-    "content": "Aug 4 (Reuters) - Overseas investors turned net sellers of Chinese stocks in July, as mainland stock prices tumbled on concerns that COVID-19 flare-ups and ensuing lockdowns would further disrupt eco\u2026 [+2487 chars]"
+    "title": "Work stoppages and no chatting at lunch: Japan Inc grapples with COVID - Reuters",
+    "description": "Japanese companies are temporarily shutting offices or suspending production as they battle a record wave of COVID-19, disrupting businesses in a country that has until now weathered the pandemic better than most advanced economies.",
+    "url": "https://www.reuters.com/business/work-stoppages-no-chatting-lunch-japan-inc-grapples-with-covid-2022-08-05/",
+    "urlToImage": "https://www.reuters.com/resizer/n7GsrpxpbFOZiwLc_9Vu43R9vX0=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/ZI4RF2HAGJLJLP3OKKYEMYM2KU.jpg",
+    "publishedAt": "2022-08-05T05:36:00Z",
+    "content": "TOKYO, Aug 5 (Reuters) - Japanese companies are temporarily shutting offices or suspending production as they battle a record wave of COVID-19, disrupting businesses in a country that has until now w\u2026 [+4958 chars]"
   },
   {
     "source": {
@@ -31,12 +70,12 @@
       "name": "Reuters"
     },
     "author": null,
-    "title": "Hong Kong reports 5020 new COVID cases on Thursday - Reuters",
-    "description": "Hong Kong reported more than 5,000 new COVID-19 infections on Thursday and three new deaths, as daily infections continue to rise.",
-    "url": "https://www.reuters.com/world/china/hong-kong-reports-5020-new-covid-cases-thursday-2022-08-04/",
-    "urlToImage": "https://www.reuters.com/resizer/4hs6QOjiHey7d0mnS6MAcIoaW4M=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/BCOZMXSO4BIHPKA7HJGXV4MTXY.jpg",
-    "publishedAt": "2022-08-04T09:07:00Z",
-    "content": "HONG KONG, Aug 4 (Reuters) - Hong Kong reported more than 5,000 new COVID-19 infections on Thursday and three new deaths, as daily infections continue to rise.\r\nThe Chinese-ruled city, which enforces\u2026 [+373 chars]"
+    "title": "China's Sanya holiday hotspot shuts duty-free malls, venues to curb COVID - Reuters",
+    "description": "Sanya, a top tropical holiday destination on China's southern Hainan island, began closing its duty free malls on Friday in response to a worsening COVID-19 outbreak.",
+    "url": "https://www.reuters.com/world/china/chinas-sanya-holiday-hotspot-shuts-duty-free-malls-venues-curb-covid-2022-08-05/",
+    "urlToImage": "https://www.reuters.com/resizer/96yMRL9rIQIlLPSgRN0aT_1c7f8=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/KYZNSVI5A5JDHDAR5AYAJOPYZI.jpg",
+    "publishedAt": "2022-08-05T07:15:00Z",
+    "content": "SHANGHAI, Aug 5 (Reuters) - Sanya, a top tropical holiday destination on China's southern Hainan island, began closing its duty free malls on Friday in response to a worsening COVID-19 outbreak.\r\nSin\u2026 [+2374 chars]"
   },
   {
     "source": {
@@ -44,12 +83,12 @@
       "name": "Reuters"
     },
     "author": null,
-    "title": "New COVID case numbers in New Zealand trending lower, signs wave peaked - Reuters",
-    "description": "New Zealand's health ministry sees strong signs that the country's latest COVID-19 wave has peaked, as new cases continue to trend lower.",
-    "url": "https://www.reuters.com/world/asia-pacific/new-covid-case-numbers-new-zealand-trending-lower-signs-wave-peaked-2022-08-04/",
-    "urlToImage": "https://www.reuters.com/resizer/BGz1U6AtDrczxm0m8iGCAsLHjGo=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/FPEWUW7RSNPMLHLCY4HXILK62E.jpg",
-    "publishedAt": "2022-08-04T03:46:00Z",
-    "content": "WELLINGTON, Aug 4 (Reuters) - New Zealand's health ministry sees strong signs that the country's latest COVID-19 wave has peaked, as new cases continue to trend lower.\r\nThe number of people in hospit\u2026 [+1361 chars]"
+    "title": "Japan's economy likely rebounded in Q2 with unleashing of consumers: Reuters poll - Reuters",
+    "description": "Japan's economy likely rebounded in April-June from contraction in the previous quarter thanks to solid consumer spending in face-to-face services no longer hindered by coronavirus curbs, a Reuters poll showed on Friday.",
+    "url": "https://www.reuters.com/markets/asia/japans-economy-likely-rebounded-q2-with-unleashing-consumers-2022-08-05/",
+    "urlToImage": "https://www.reuters.com/resizer/sSWmpOF4-6hELsjv2q4GhPKZ19c=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/ERUS6X7O3BI4JHX4OY6KYDVNBQ.jpg",
+    "publishedAt": "2022-08-05T05:26:00Z",
+    "content": "TOKYO, Aug 5 (Reuters) - Japan's economy likely rebounded in April-June from contraction in the previous quarter thanks to solid consumer spending in face-to-face services no longer hindered by coron\u2026 [+2277 chars]"
   },
   {
     "source": {
@@ -57,12 +96,12 @@
       "name": "Reuters"
     },
     "author": null,
-    "title": "South Africa reports first death causally linked to COVID vaccine - Reuters",
-    "description": "South Africa's health regulator reported on Thursday a causal link between the death of an individual and Johnson & Johnson's (J&J) <a href=\"https://www.reuters.com/companies/JNJ.N\" target=\"_blank\">(JNJ.N)</a> COVID-19 vaccine, the first time such a direct li\u2026",
-    "url": "https://www.reuters.com/world/africa/south-africa-reports-first-death-causally-linked-covid-vaccine-2022-08-04/",
-    "urlToImage": "https://www.reuters.com/resizer/iB_W3LWF3o6sPz4o3ePlJPIH1I8=/800x419/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/RX4Q5P2465MHNH3MC2LE6EXCU4.jpg",
-    "publishedAt": "2022-08-04T09:50:00Z",
-    "content": "JOHANNESBURG, Aug 4 (Reuters) - South Africa's health regulator reported on Thursday a causal link between the death of an individual and Johnson &amp; Johnson's (J&amp;J) (JNJ.N) COVID-19 vaccine, t\u2026 [+2623 chars]"
+    "title": "Britain's Pets At Home first-quarter revenue rises on sustained demand - Reuters",
+    "description": "Pets At Home Plc <a href=\"https://www.reuters.com/companies/PETSP.L\" target=\"_blank\">(PETSP.L)</a> posted a 7.1% rise in first-quarter revenue on Friday and maintained its full-year profit outlook, as UK's largest pet supplies retailer saw sustained demand ac\u2026",
+    "url": "https://www.reuters.com/business/britains-pets-home-first-quarter-revenue-rises-sustained-demand-2022-08-05/",
+    "urlToImage": "https://www.reuters.com/resizer/kns5LYclFx0AAr-q6lzDwczzXj4=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/2LA2LNNW5FO7HLDO3YPQQOPJHU.jpg",
+    "publishedAt": "2022-08-05T06:09:00Z",
+    "content": "A pet groomer tends to a dog at The Groom Room, at pets at home in Milton Keynes, following the outbreak of the coronavirus disease (COVID-19), Milton Keynes, Britain, June 8, 2020. REUTERS/Andrew Bo\u2026 [+1374 chars]"
   },
   {
     "source": {
@@ -70,12 +109,12 @@
       "name": "Reuters"
     },
     "author": null,
-    "title": "Alibaba revenue beats despite flat growth due to COVID lockdown - Reuters",
-    "description": "China's Alibaba Group Holding Ltd <a href=\"https://www.reuters.com/companies/9988.HK\" target=\"_blank\">(9988.HK)</a>, on Thursday beat market expectations for revenue in the quarter ending late June, even though growth was flat for the first time ever due to t\u2026",
-    "url": "https://www.reuters.com/technology/alibaba-revenue-remains-flat-beats-market-expectations-2022-08-04/",
-    "urlToImage": "https://www.reuters.com/resizer/sASiDa-IlA-N2n_u9L29NNbKfvo=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/F2K3UMTYPVN7JJNPJMYX47GE3U.jpg",
-    "publishedAt": "2022-08-04T10:48:00Z",
-    "content": "Aug 4 (Reuters) - China's Alibaba Group Holding Ltd (9988.HK), on Thursday beat market expectations for revenue in the quarter ending late June, even though growth was flat for the first time ever du\u2026 [+1691 chars]"
+    "title": "Italy's right-wing frontrunner party won't jeopardize recovery plan funds - founder tells paper - Reuters",
+    "description": "The right-wing Brothers of Italy party, leading in polls ahead of next month's election, will not jeopardize Italy's access to a European Union-funded investment programme, the party's founder was quoted as saying on Friday.",
+    "url": "https://www.reuters.com/world/europe/italys-right-wing-frontrunner-party-wont-jeopardize-recovery-plan-funds-founder-2022-08-05/",
+    "urlToImage": "https://www.reuters.com/resizer/JTYViG1jhV8V57Es3si0J4LLK48=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/OAAMAWKHSNODVHHLZLIMILVOOY.jpg",
+    "publishedAt": "2022-08-05T07:08:00Z",
+    "content": "MILAN, Aug 5 (Reuters) - The right-wing Brothers of Italy party, leading in polls ahead of next month's election, will not jeopardize Italy's access to a European Union-funded investment programme, t\u2026 [+1706 chars]"
   },
   {
     "source": {
@@ -83,50 +122,11 @@
       "name": "Reuters"
     },
     "author": null,
-    "title": "ABA annual meeting kicks off in Chicago with abortion, democracy on the agenda - Reuters",
-    "description": "The American Bar Association's first in-person annual meeting since the start of the COVID-19 pandemic is gearing up in Chicago, with an agenda that will tackle hot-button issues like the U.S. Supreme Court's decision overturning a constitutional right to abo\u2026",
-    "url": "https://www.reuters.com/legal/legalindustry/aba-annual-meeting-kicks-off-chicago-with-abortion-democracy-agenda-2022-08-04/",
-    "urlToImage": "https://www.reuters.com/resizer/MDZiPF9I0FOxCJezqy0FDEi0Ke8=/728x381/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/Z3HDIZ3V7RNAPASKMLLPXPMX74.jpg",
-    "publishedAt": "2022-08-04T09:10:00Z",
-    "content": "(Reuters) - The American Bar Association's first in-person annual meeting since the start of the COVID-19 pandemic is gearing up in Chicago, with an agenda that will tackle hot-button issues like the\u2026 [+1774 chars]"
-  },
-  {
-    "source": {
-      "id": "reuters",
-      "name": "Reuters"
-    },
-    "author": null,
-    "title": "Adidas posts 28% decline in Q2 operating profit despite sales increase - Reuters",
-    "description": "Adidas <a href=\"https://www.reuters.com/companies/ADSGn.DE\" target=\"_blank\">(ADSGn.DE)</a> on Thursday said operating profit fell by 28% in the second quarter to 392 million euros ($398.43 million), as results suffered from suspending business in Russia, high\u2026",
-    "url": "https://www.reuters.com/business/retail-consumer/adidas-posts-28-decline-q2-operating-profit-despite-sales-increase-2022-08-04/",
-    "urlToImage": "https://www.reuters.com/resizer/eT1Auvi6x4GDEnAdvTIALabU7cU=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/LKZKP7GB5FNQ3OLTINC5O4PLQI.jpg",
-    "publishedAt": "2022-08-04T05:53:00Z",
-    "content": "BERLIN, Aug 4 (Reuters) - Adidas (ADSGn.DE) on Thursday said operating profit fell by 28% in the second quarter to 392 million euros ($398.43 million), as results suffered from suspending business in\u2026 [+669 chars]"
-  },
-  {
-    "source": {
-      "id": "reuters",
-      "name": "Reuters"
-    },
-    "author": null,
-    "title": "Toyota Q1 profit slides 42%, falls far short of estimates - Reuters",
-    "description": "Japan's Toyota Motor Corp <a href=\"https://www.reuters.com/companies/7203.T\" target=\"_blank\">(7203.T)</a> on Thursday posted a worse-than-expected 42% drop in first-quarter operating profit, as auto production was curbed by COVID-19 restrictions on factories \u2026",
-    "url": "https://www.reuters.com/business/autos-transportation/toyota-q1-profit-slides-42-falls-short-estimates-2022-08-04/",
-    "urlToImage": "https://www.reuters.com/resizer/PJTkO9eo64jjAxSzJSRLBKDe0dE=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/2RC55CNRQVP5ZJA74MUI3EHCXI.jpg",
-    "publishedAt": "2022-08-04T04:37:00Z",
-    "content": "TOKYO, Aug 4 (Reuters) - Japan's Toyota Motor Corp (7203.T) on Thursday posted a worse-than-expected 42% drop in first-quarter operating profit, as auto production was curbed by COVID-19 restrictions\u2026 [+1142 chars]"
-  },
-  {
-    "source": {
-      "id": "reuters",
-      "name": "Reuters"
-    },
-    "author": null,
-    "title": "Southern Chinese tourism city Sanya imposes lockdown measures, restricts businesses - Reuters",
-    "description": "The southern Chinese city of Sanya, a tourism hotspot, imposed lockdown measures from Thursday in most parts of the city, ordering residents to reduce their trips outside to shop for daily necessities to once every two days and confining some strictly to thei\u2026",
-    "url": "https://www.reuters.com/world/china/southern-chinese-tourism-city-sanya-imposes-lockdown-measures-restricts-2022-08-04/",
-    "urlToImage": "https://www.reuters.com/pf/resources/images/reuters/reuters-default.png?d=106",
-    "publishedAt": "2022-08-04T00:57:00Z",
-    "content": "BEIJING, Aug 4 (Reuters) - The southern Chinese city of Sanya, a tourism hotspot, imposed lockdown measures from Thursday in most parts of the city, ordering residents to reduce their trips outside t\u2026 [+525 chars]"
+    "title": "Japan's households raise spending for first time in 4 months - Reuters",
+    "description": "Japan's households increased spending for the first time in four months in June, as demand for travel services rose in a positive sign for broader economic recovery prospects.",
+    "url": "https://www.reuters.com/markets/asia/japans-households-raise-spending-first-time-4-months-2022-08-05/",
+    "urlToImage": "https://www.reuters.com/resizer/aFIhv0neeZfmtrAfpQrr8byTuro=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/6NW57ORQCVIHZPKDILZK2WNPWY.jpg",
+    "publishedAt": "2022-08-05T00:14:00Z",
+    "content": "TOKYO, Aug 5 (Reuters) - Japan's households increased spending for the first time in four months in June, as demand for travel services rose in a positive sign for broader economic recovery prospects\u2026 [+1688 chars]"
   }
 ]

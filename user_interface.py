@@ -68,6 +68,8 @@ def update_data_news():
 
 def sched_data_update(update_name, update_time, update_repeat):
     data_update_time = time_difference(update_time)
+    #with open("config/config.json" 'W'):
+        
     if update_time not in data_update_info:
         data_update_info.append({"update_name":update_name,"update_time":update_time,"update_repeat": update_repeat})
         sched_data_update = data_sched.enterabs(data_update_time,1,update_data)
@@ -99,10 +101,9 @@ def sched_data_news_update(update_name,update_time,update_repeat):
     return double_update_info
 
 
-@app.route('/', methods=['GET','POST'])
+@app.route('/index', methods=["POST", "GET"])
 def index():
     #retreives the keywords from the url when an action from the user is made, e.g updating name
-    cancel_update = request.args.get('update_item')
     update_time = request.args.get('update')
     update_name = request.args.get('two')
     repeat_update = request.args.get('repeat')
@@ -121,12 +122,12 @@ def index():
         elif update_news =="news":
             sched_news_update(update_name,update_time,repeat_update)
     
-    if removed_article != None:
-        removed_article_title = str(removed_article).replace("+","")
+    if cancel_news != None:
+        removed_article_title = str(cancel_news).replace("+","")
         if removed_article_title not in removed_article:
             removed_article.append(removed_article_title)
         for i in news:
-            if i["title"] ==removed_article:
+            if i["title"] ==removed_article_title:
                 news.remove(i)
                 logging.info("news article removed")
                 add_news()
@@ -138,7 +139,7 @@ def index():
     deaths_total= national_deaths)
 
 if __name__ == '__main__':
-    removed_article = []
+    
     try:
         exeter_data, national_data= parse_covid_data()
         exeter_name,exeter_7_day_cases, exeter_deaths,nation_name,national_7_day_cases,national_deaths,hospital_cases = process_covid_api_data(exeter_data, national_data)
@@ -149,5 +150,6 @@ if __name__ == '__main__':
         news = articles(news_request)
     except:
         logging.critical("Unable to retrive news from news api")
+    removed_article = []
     app.run(debug=True)
 

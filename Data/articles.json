@@ -1,19 +1,58 @@
 {
   "status": "ok",
-  "totalResults": 1793,
+  "totalResults": 1366,
   "articles": [
     {
       "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Steven Levy",
+      "title": "Larry Brilliant Says Covid Rapid Tests Are Bad for Public Health",
+      "description": "The epidemiologist who helped quash smallpox talks about what we're doing wrong on monkeypox, vaccines, and antigen tests.",
+      "url": "https://www.wired.com/story/larry-brilliant-says-covid-rapid-tests-are-bad-for-public-health/",
+      "urlToImage": "https://media.wired.com/photos/62ec4b526f48e5c6d48d6edc/191:100/w_1280,c_limit/test_larry_brilliant_science_GettyImages-1238159897.jpg",
+      "publishedAt": "2022-08-05T12:00:00Z",
+      "content": "Second, the longer this virus continues, the more variants were going to have. We dont know exactly what forms a variant, but for sure one factor is immunocompromised people who have the virus putter\u2026 [+3755 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "New York Times"
+      },
+      "author": "Cristal Duhaime, Stephanie Joyce, Larissa Anderson, Lisa Tobin, Kaari Pitkin, Anita Badejo, Isaac Jones, Carole Sabouraud, Chris Wood and Corey Schreppel",
+      "title": "Vacationing in the Time of Covid",
+      "description": "The story of one man\u2019s determination to resume traveling \u2014 despite the particular risks to his health.",
+      "url": "https://www.nytimes.com/2022/08/05/podcasts/the-daily/covid-vacation-cruise-ships.html",
+      "urlToImage": "https://static01.nyt.com/images/2022/07/14/opinion/05daily-1/14fp-cruises-image-audioapp-facebookJumbo-v2.jpg",
+      "publishedAt": "2022-08-05T10:45:00Z",
+      "content": "Fact-checking by Mary Marge Locker.\r\nSpecial thanks to Lulu Garcia Navarro, Courtney Stein, Christine Djossa, Olivia Natt, Derek Arthur and Jason Pagano.\r\nThe Daily is made by Lisa Tobin, Rachel Ques\u2026 [+929 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "https://www.facebook.com/bbcnews",
+      "title": "Covid-19: North Korea claims to have recovered from outbreak",
+      "description": "There is widespread scepticism over North Korea's claim to have the world's lowest Covid death rate.",
+      "url": "https://www.bbc.co.uk/news/world-asia-62435809",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1375F/production/_126211797_mediaitem126211793.jpg",
+      "publishedAt": "2022-08-05T11:33:54Z",
+      "content": "By George WrightBBC News\r\nNorth Korea says everyone who fell sick since the country confirmed its first Covid-19 infections has recovered.\r\nOn Friday state media reported zero fever cases for a seven\u2026 [+1667 chars]"
+    },
+    {
+      "source": {
         "id": "reuters",
         "name": "Reuters"
       },
-      "author": null,
-      "title": "Australia's winter COVID wave may have peaked early, health minister says - Reuters",
-      "description": "Australia's COVID-19 winter outbreak fuelled by the new Omicron sub-variants BA.4/5 may have peaked early, Health Minister Mark Butler said on Thursday, as hospitals reported a steady fall in admissions over the past week.",
-      "url": "https://www.reuters.com/world/asia-pacific/australias-winter-covid-wave-may-have-peaked-early-health-minister-says-2022-08-04/",
-      "urlToImage": "https://www.reuters.com/resizer/fwPbXB0oCiar8lI2Xkj7XzZeTnc=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/ZFC3EPIQXRJN7PP2CMXUJJULFA.jpg",
-      "publishedAt": "2022-08-04T02:12:00Z",
-      "content": "SYDNEY, Aug 4 (Reuters) - Australia's COVID-19 winter outbreak fuelled by the new Omicron sub-variants BA.4/5 may have peaked early, Health Minister Mark Butler said on Thursday, as hospitals reporte\u2026 [+2044 chars]"
+      "author": "Reuters Editorial",
+      "title": "North Korea says its first COVID-19 wave is over - Reuters",
+      "description": "North Korea on Friday said all of its fever patients have recovered, marking the end of its first wave of the coronavirus pandemic.",
+      "url": "https://www.reuters.com/video/watch/idOV667905082022RP1",
+      "urlToImage": "https://static.reuters.com/resources/r/?d=20220805&i=OV667905082022RP1&r=OV667905082022RP1&t=2",
+      "publishedAt": "2022-08-05T08:49:21Z",
+      "content": "Posted \r\nNorth Korea on Friday said all of its fever patients have recovered, marking the end of its first wave of the coronavirus pandemic."
     },
     {
       "source": {
@@ -21,12 +60,12 @@
         "name": "Reuters"
       },
       "author": null,
-      "title": "Foreigners turn sellers of Chinese shares in July on COVID worries - Reuters",
-      "description": "Overseas investors turned net sellers of Chinese stocks in July, as mainland stock prices tumbled on concerns that COVID-19 flare-ups and ensuing lockdowns would further disrupt economic activity.",
-      "url": "https://www.reuters.com/markets/europe/foreigners-turn-sellers-chinese-shares-july-covid-worries-2022-08-04/",
-      "urlToImage": "https://www.reuters.com/resizer/369mpgp_IFWwDGT4TFZ3p7W0u-o=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/4IGJKJEO4VJULGFPX3EDXM55WY.jpg",
-      "publishedAt": "2022-08-04T05:43:00Z",
-      "content": "Aug 4 (Reuters) - Overseas investors turned net sellers of Chinese stocks in July, as mainland stock prices tumbled on concerns that COVID-19 flare-ups and ensuing lockdowns would further disrupt eco\u2026 [+2487 chars]"
+      "title": "Work stoppages and no chatting at lunch: Japan Inc grapples with COVID - Reuters",
+      "description": "Japanese companies are temporarily shutting offices or suspending production as they battle a record wave of COVID-19, disrupting businesses in a country that has until now weathered the pandemic better than most advanced economies.",
+      "url": "https://www.reuters.com/business/work-stoppages-no-chatting-lunch-japan-inc-grapples-with-covid-2022-08-05/",
+      "urlToImage": "https://www.reuters.com/resizer/n7GsrpxpbFOZiwLc_9Vu43R9vX0=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/ZI4RF2HAGJLJLP3OKKYEMYM2KU.jpg",
+      "publishedAt": "2022-08-05T05:36:00Z",
+      "content": "TOKYO, Aug 5 (Reuters) - Japanese companies are temporarily shutting offices or suspending production as they battle a record wave of COVID-19, disrupting businesses in a country that has until now w\u2026 [+4958 chars]"
     },
     {
       "source": {
@@ -34,12 +73,12 @@
         "name": "Reuters"
       },
       "author": null,
-      "title": "Hong Kong reports 5020 new COVID cases on Thursday - Reuters",
-      "description": "Hong Kong reported more than 5,000 new COVID-19 infections on Thursday and three new deaths, as daily infections continue to rise.",
-      "url": "https://www.reuters.com/world/china/hong-kong-reports-5020-new-covid-cases-thursday-2022-08-04/",
-      "urlToImage": "https://www.reuters.com/resizer/4hs6QOjiHey7d0mnS6MAcIoaW4M=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/BCOZMXSO4BIHPKA7HJGXV4MTXY.jpg",
-      "publishedAt": "2022-08-04T09:07:00Z",
-      "content": "HONG KONG, Aug 4 (Reuters) - Hong Kong reported more than 5,000 new COVID-19 infections on Thursday and three new deaths, as daily infections continue to rise.\r\nThe Chinese-ruled city, which enforces\u2026 [+373 chars]"
+      "title": "China's Sanya holiday hotspot shuts duty-free malls, venues to curb COVID - Reuters",
+      "description": "Sanya, a top tropical holiday destination on China's southern Hainan island, began closing its duty free malls on Friday in response to a worsening COVID-19 outbreak.",
+      "url": "https://www.reuters.com/world/china/chinas-sanya-holiday-hotspot-shuts-duty-free-malls-venues-curb-covid-2022-08-05/",
+      "urlToImage": "https://www.reuters.com/resizer/96yMRL9rIQIlLPSgRN0aT_1c7f8=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/KYZNSVI5A5JDHDAR5AYAJOPYZI.jpg",
+      "publishedAt": "2022-08-05T07:15:00Z",
+      "content": "SHANGHAI, Aug 5 (Reuters) - Sanya, a top tropical holiday destination on China's southern Hainan island, began closing its duty free malls on Friday in response to a worsening COVID-19 outbreak.\r\nSin\u2026 [+2374 chars]"
     },
     {
       "source": {
@@ -47,12 +86,12 @@
         "name": "Reuters"
       },
       "author": null,
-      "title": "New COVID case numbers in New Zealand trending lower, signs wave peaked - Reuters",
-      "description": "New Zealand's health ministry sees strong signs that the country's latest COVID-19 wave has peaked, as new cases continue to trend lower.",
-      "url": "https://www.reuters.com/world/asia-pacific/new-covid-case-numbers-new-zealand-trending-lower-signs-wave-peaked-2022-08-04/",
-      "urlToImage": "https://www.reuters.com/resizer/BGz1U6AtDrczxm0m8iGCAsLHjGo=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/FPEWUW7RSNPMLHLCY4HXILK62E.jpg",
-      "publishedAt": "2022-08-04T03:46:00Z",
-      "content": "WELLINGTON, Aug 4 (Reuters) - New Zealand's health ministry sees strong signs that the country's latest COVID-19 wave has peaked, as new cases continue to trend lower.\r\nThe number of people in hospit\u2026 [+1361 chars]"
+      "title": "Japan's economy likely rebounded in Q2 with unleashing of consumers: Reuters poll - Reuters",
+      "description": "Japan's economy likely rebounded in April-June from contraction in the previous quarter thanks to solid consumer spending in face-to-face services no longer hindered by coronavirus curbs, a Reuters poll showed on Friday.",
+      "url": "https://www.reuters.com/markets/asia/japans-economy-likely-rebounded-q2-with-unleashing-consumers-2022-08-05/",
+      "urlToImage": "https://www.reuters.com/resizer/sSWmpOF4-6hELsjv2q4GhPKZ19c=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/ERUS6X7O3BI4JHX4OY6KYDVNBQ.jpg",
+      "publishedAt": "2022-08-05T05:26:00Z",
+      "content": "TOKYO, Aug 5 (Reuters) - Japan's economy likely rebounded in April-June from contraction in the previous quarter thanks to solid consumer spending in face-to-face services no longer hindered by coron\u2026 [+2277 chars]"
     },
     {
       "source": {
@@ -60,12 +99,12 @@
         "name": "Reuters"
       },
       "author": null,
-      "title": "South Africa reports first death causally linked to COVID vaccine - Reuters",
-      "description": "South Africa's health regulator reported on Thursday a causal link between the death of an individual and Johnson & Johnson's (J&J) <a href=\"https://www.reuters.com/companies/JNJ.N\" target=\"_blank\">(JNJ.N)</a> COVID-19 vaccine, the first time such a direct li\u2026",
-      "url": "https://www.reuters.com/world/africa/south-africa-reports-first-death-causally-linked-covid-vaccine-2022-08-04/",
-      "urlToImage": "https://www.reuters.com/resizer/iB_W3LWF3o6sPz4o3ePlJPIH1I8=/800x419/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/RX4Q5P2465MHNH3MC2LE6EXCU4.jpg",
-      "publishedAt": "2022-08-04T09:50:00Z",
-      "content": "JOHANNESBURG, Aug 4 (Reuters) - South Africa's health regulator reported on Thursday a causal link between the death of an individual and Johnson &amp; Johnson's (J&amp;J) (JNJ.N) COVID-19 vaccine, t\u2026 [+2623 chars]"
+      "title": "Britain's Pets At Home first-quarter revenue rises on sustained demand - Reuters",
+      "description": "Pets At Home Plc <a href=\"https://www.reuters.com/companies/PETSP.L\" target=\"_blank\">(PETSP.L)</a> posted a 7.1% rise in first-quarter revenue on Friday and maintained its full-year profit outlook, as UK's largest pet supplies retailer saw sustained demand ac\u2026",
+      "url": "https://www.reuters.com/business/britains-pets-home-first-quarter-revenue-rises-sustained-demand-2022-08-05/",
+      "urlToImage": "https://www.reuters.com/resizer/kns5LYclFx0AAr-q6lzDwczzXj4=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/2LA2LNNW5FO7HLDO3YPQQOPJHU.jpg",
+      "publishedAt": "2022-08-05T06:09:00Z",
+      "content": "A pet groomer tends to a dog at The Groom Room, at pets at home in Milton Keynes, following the outbreak of the coronavirus disease (COVID-19), Milton Keynes, Britain, June 8, 2020. REUTERS/Andrew Bo\u2026 [+1374 chars]"
     },
     {
       "source": {
@@ -73,12 +112,12 @@
         "name": "Reuters"
       },
       "author": null,
-      "title": "Alibaba revenue beats despite flat growth due to COVID lockdown - Reuters",
-      "description": "China's Alibaba Group Holding Ltd <a href=\"https://www.reuters.com/companies/9988.HK\" target=\"_blank\">(9988.HK)</a>, on Thursday beat market expectations for revenue in the quarter ending late June, even though growth was flat for the first time ever due to t\u2026",
-      "url": "https://www.reuters.com/technology/alibaba-revenue-remains-flat-beats-market-expectations-2022-08-04/",
-      "urlToImage": "https://www.reuters.com/resizer/sASiDa-IlA-N2n_u9L29NNbKfvo=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/F2K3UMTYPVN7JJNPJMYX47GE3U.jpg",
-      "publishedAt": "2022-08-04T10:48:00Z",
-      "content": "Aug 4 (Reuters) - China's Alibaba Group Holding Ltd (9988.HK), on Thursday beat market expectations for revenue in the quarter ending late June, even though growth was flat for the first time ever du\u2026 [+1691 chars]"
+      "title": "Italy's right-wing frontrunner party won't jeopardize recovery plan funds - founder tells paper - Reuters",
+      "description": "The right-wing Brothers of Italy party, leading in polls ahead of next month's election, will not jeopardize Italy's access to a European Union-funded investment programme, the party's founder was quoted as saying on Friday.",
+      "url": "https://www.reuters.com/world/europe/italys-right-wing-frontrunner-party-wont-jeopardize-recovery-plan-funds-founder-2022-08-05/",
+      "urlToImage": "https://www.reuters.com/resizer/JTYViG1jhV8V57Es3si0J4LLK48=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/OAAMAWKHSNODVHHLZLIMILVOOY.jpg",
+      "publishedAt": "2022-08-05T07:08:00Z",
+      "content": "MILAN, Aug 5 (Reuters) - The right-wing Brothers of Italy party, leading in polls ahead of next month's election, will not jeopardize Italy's access to a European Union-funded investment programme, t\u2026 [+1706 chars]"
     },
     {
       "source": {
@@ -86,12 +125,12 @@
         "name": "Reuters"
       },
       "author": null,
-      "title": "ABA annual meeting kicks off in Chicago with abortion, democracy on the agenda - Reuters",
-      "description": "The American Bar Association's first in-person annual meeting since the start of the COVID-19 pandemic is gearing up in Chicago, with an agenda that will tackle hot-button issues like the U.S. Supreme Court's decision overturning a constitutional right to abo\u2026",
-      "url": "https://www.reuters.com/legal/legalindustry/aba-annual-meeting-kicks-off-chicago-with-abortion-democracy-agenda-2022-08-04/",
-      "urlToImage": "https://www.reuters.com/resizer/MDZiPF9I0FOxCJezqy0FDEi0Ke8=/728x381/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/Z3HDIZ3V7RNAPASKMLLPXPMX74.jpg",
-      "publishedAt": "2022-08-04T09:10:00Z",
-      "content": "(Reuters) - The American Bar Association's first in-person annual meeting since the start of the COVID-19 pandemic is gearing up in Chicago, with an agenda that will tackle hot-button issues like the\u2026 [+1774 chars]"
+      "title": "Japan's households raise spending for first time in 4 months - Reuters",
+      "description": "Japan's households increased spending for the first time in four months in June, as demand for travel services rose in a positive sign for broader economic recovery prospects.",
+      "url": "https://www.reuters.com/markets/asia/japans-households-raise-spending-first-time-4-months-2022-08-05/",
+      "urlToImage": "https://www.reuters.com/resizer/aFIhv0neeZfmtrAfpQrr8byTuro=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/6NW57ORQCVIHZPKDILZK2WNPWY.jpg",
+      "publishedAt": "2022-08-05T00:14:00Z",
+      "content": "TOKYO, Aug 5 (Reuters) - Japan's households increased spending for the first time in four months in June, as demand for travel services rose in a positive sign for broader economic recovery prospects\u2026 [+1688 chars]"
     },
     {
       "source": {
@@ -99,12 +138,12 @@
         "name": "Reuters"
       },
       "author": null,
-      "title": "Adidas posts 28% decline in Q2 operating profit despite sales increase - Reuters",
-      "description": "Adidas <a href=\"https://www.reuters.com/companies/ADSGn.DE\" target=\"_blank\">(ADSGn.DE)</a> on Thursday said operating profit fell by 28% in the second quarter to 392 million euros ($398.43 million), as results suffered from suspending business in Russia, high\u2026",
-      "url": "https://www.reuters.com/business/retail-consumer/adidas-posts-28-decline-q2-operating-profit-despite-sales-increase-2022-08-04/",
-      "urlToImage": "https://www.reuters.com/resizer/eT1Auvi6x4GDEnAdvTIALabU7cU=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/LKZKP7GB5FNQ3OLTINC5O4PLQI.jpg",
-      "publishedAt": "2022-08-04T05:53:00Z",
-      "content": "BERLIN, Aug 4 (Reuters) - Adidas (ADSGn.DE) on Thursday said operating profit fell by 28% in the second quarter to 392 million euros ($398.43 million), as results suffered from suspending business in\u2026 [+669 chars]"
+      "title": "UK house prices fall for first time in 13 months, Halifax says - Reuters",
+      "description": "House prices in Britain fell the first time in more than a year in July in monthly terms and the market is likely to weaken further as interest rates go up and the cost-of-living squeeze tightens, mortgage lender Halifax said on Friday.",
+      "url": "https://www.reuters.com/markets/europe/uk-house-prices-fall-first-time-13-months-halifax-says-2022-08-05/",
+      "urlToImage": "https://www.reuters.com/resizer/7jFw9Ul-Jj57OOnWJhonApofn24=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/HUCTIYXALZITBA62WC7MZL753I.jpg",
+      "publishedAt": "2022-08-05T06:11:00Z",
+      "content": "LONDON, Aug 5 (Reuters) - House prices in Britain fell the first time in more than a year in July in monthly terms and the market is likely to weaken further as interest rates go up and the cost-of-l\u2026 [+1676 chars]"
     },
     {
       "source": {
@@ -112,12 +151,12 @@
         "name": "Reuters"
       },
       "author": null,
-      "title": "Toyota Q1 profit slides 42%, falls far short of estimates - Reuters",
-      "description": "Japan's Toyota Motor Corp <a href=\"https://www.reuters.com/companies/7203.T\" target=\"_blank\">(7203.T)</a> on Thursday posted a worse-than-expected 42% drop in first-quarter operating profit, as auto production was curbed by COVID-19 restrictions on factories \u2026",
-      "url": "https://www.reuters.com/business/autos-transportation/toyota-q1-profit-slides-42-falls-short-estimates-2022-08-04/",
-      "urlToImage": "https://www.reuters.com/resizer/PJTkO9eo64jjAxSzJSRLBKDe0dE=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/2RC55CNRQVP5ZJA74MUI3EHCXI.jpg",
-      "publishedAt": "2022-08-04T04:37:00Z",
-      "content": "TOKYO, Aug 4 (Reuters) - Japan's Toyota Motor Corp (7203.T) on Thursday posted a worse-than-expected 42% drop in first-quarter operating profit, as auto production was curbed by COVID-19 restrictions\u2026 [+1142 chars]"
+      "title": "Indonesia GDP growth beats forecast in Q2, fastest in a year - Reuters",
+      "description": "Indonesia's economic growth accelerated in the April-June quarter amid an export boom driven by rising commodity prices, official data showed on Friday, but monetary tightening, rising inflation and a global recession risk threaten the outlook.",
+      "url": "https://www.reuters.com/markets/asia/indonesia-gdp-growth-beats-forecast-q2-fastest-year-2022-08-05/",
+      "urlToImage": "https://www.reuters.com/resizer/i56zz0dvTOD9FQ0w0grbex0u5d4=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/DKHTZHZUKRO6XAXQEXAZLZ2YYI.jpg",
+      "publishedAt": "2022-08-05T02:43:00Z",
+      "content": "JAKARTA, Aug 5 (Reuters) - Indonesia's economic growth accelerated in the April-June quarter amid an export boom driven by rising commodity prices, official data showed on Friday, but monetary tighte\u2026 [+1683 chars]"
     },
     {
       "source": {
@@ -125,12 +164,12 @@
         "name": "Reuters"
       },
       "author": null,
-      "title": "Southern Chinese tourism city Sanya imposes lockdown measures, restricts businesses - Reuters",
-      "description": "The southern Chinese city of Sanya, a tourism hotspot, imposed lockdown measures from Thursday in most parts of the city, ordering residents to reduce their trips outside to shop for daily necessities to once every two days and confining some strictly to thei\u2026",
-      "url": "https://www.reuters.com/world/china/southern-chinese-tourism-city-sanya-imposes-lockdown-measures-restricts-2022-08-04/",
-      "urlToImage": "https://www.reuters.com/pf/resources/images/reuters/reuters-default.png?d=106",
-      "publishedAt": "2022-08-04T00:57:00Z",
-      "content": "BEIJING, Aug 4 (Reuters) - The southern Chinese city of Sanya, a tourism hotspot, imposed lockdown measures from Thursday in most parts of the city, ordering residents to reduce their trips outside t\u2026 [+525 chars]"
+      "title": "Futures steady ahead of monthly jobs data - Reuters",
+      "description": "U.S. stock index futures were steady on Friday ahead of data expected to show the pace of job growth slowed in July, but stayed strong enough to keep the Federal Reserve on its policy tightening path.",
+      "url": "https://www.reuters.com/markets/europe/futures-steady-ahead-monthly-jobs-data-2022-08-05/",
+      "urlToImage": "https://www.reuters.com/resizer/QqhzaUy1BG_Ids6TTjn-AzROyMk=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/P4ORNX4B7FKZBGDU5PMQE2WZOQ.jpg",
+      "publishedAt": "2022-08-05T10:48:00Z",
+      "content": "Aug 5 (Reuters) - U.S. stock index futures were steady on Friday ahead of data expected to show the pace of job growth slowed in July, but stayed strong enough to keep the Federal Reserve on its poli\u2026 [+2469 chars]"
     },
     {
       "source": {
@@ -138,12 +177,12 @@
         "name": "Reuters"
       },
       "author": null,
-      "title": "UK outsourcer Serco raises dividend, profit forecast after robust H1 - Reuters",
-      "description": "British outsourcing firm Serco Group Plc <a href=\"https://www.reuters.com/companies/SRP.L\" target=\"_blank\">(SRP.L)</a> raised its annual profit forecast and dividend on Thursday, encouraged by a better-than-expected first-half performance partly driven by mor\u2026",
-      "url": "https://www.reuters.com/business/uk-outsourcer-serco-raises-dividend-profit-forecast-after-robust-h1-2022-08-04/",
-      "urlToImage": "https://www.reuters.com/pf/resources/images/reuters/reuters-default.png?d=106",
-      "publishedAt": "2022-08-04T08:27:00Z",
-      "content": "Aug 4 (Reuters) - British outsourcing firm Serco Group Plc (SRP.L) raised its annual profit forecast and dividend on Thursday, encouraged by a better-than-expected first-half performance partly drive\u2026 [+1272 chars]"
+      "title": "Analysis: S.Africa's Ramaphosa on a knife edge as crises spur leadership contest - Reuters",
+      "description": "South Africa's Cyril Ramaphosa is beset by crises that have cast doubt on his presidency and left him vulnerable to a leadership challenge as his party begins the process of selecting candidates for the next national election.",
+      "url": "https://www.reuters.com/world/africa/safricas-ramaphosa-knife-edge-crises-spur-leadership-contest-2022-08-05/",
+      "urlToImage": "https://www.reuters.com/resizer/JV1HqtOh0ep0Aazv26kgKGqKQkQ=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/YUTSQDZEEJLMZM3SXRJXEO6EMI.jpg",
+      "publishedAt": "2022-08-05T05:03:00Z",
+      "content": "JOHANNESBURG, Aug 5 (Reuters) - South Africa's Cyril Ramaphosa is beset by crises that have cast doubt on his presidency and left him vulnerable to a leadership challenge as his party begins the proc\u2026 [+5812 chars]"
     },
     {
       "source": {
@@ -151,12 +190,12 @@
         "name": "Reuters"
       },
       "author": null,
-      "title": "Uniqlo owner Fast Retailing to open first GU discount clothing store in U.S. - Reuters",
-      "description": "Japan's Fast Retailing <a href=\"https://www.reuters.com/companies/9983.T\" target=\"_blank\">(9983.T)</a>, the owner of global clothing chain Uniqlo, said on Thursday it would open its first discount brand GU store in the United States this autumn.",
-      "url": "https://www.reuters.com/business/retail-consumer/uniqlo-owner-fast-retailing-open-first-gu-discount-clothing-store-us-2022-08-04/",
-      "urlToImage": "https://www.reuters.com/resizer/Idzwe4dXVP_beVRQKqG6hkGHBlE=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/LZK5ETWGRJLRRC26PUPVHJYSUE.jpg",
-      "publishedAt": "2022-08-04T07:45:00Z",
-      "content": "TOKYO, Aug 4 (Reuters) - Japan's Fast Retailing (9983.T), the owner of global clothing chain Uniqlo, said on Thursday it would open its first discount brand GU store in the United States this autumn.\u2026 [+578 chars]"
+      "title": "Indonesian GDP growth accelerates in Q2, beats forecast - Reuters",
+      "description": "Indonesia's economic growth accelerated in the April-June quarter amid an export boom driven by rising commodity prices, official data showed on Friday, but monetary tightening, rising inflation and a global recession risk threaten the outlook.",
+      "url": "https://www.reuters.com/markets/asia/indonesian-gdp-growth-accelerates-q2-beats-forecast-2022-08-05/",
+      "urlToImage": "https://www.reuters.com/resizer/i56zz0dvTOD9FQ0w0grbex0u5d4=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/DKHTZHZUKRO6XAXQEXAZLZ2YYI.jpg",
+      "publishedAt": "2022-08-05T03:29:00Z",
+      "content": "JAKARTA, Aug 5 (Reuters) - Indonesia's economic growth accelerated in the April-June quarter amid an export boom driven by rising commodity prices, official data showed on Friday, but monetary tighte\u2026 [+2543 chars]"
     },
     {
       "source": {
@@ -164,12 +203,12 @@
         "name": "Reuters"
       },
       "author": null,
-      "title": "Foreigners cut China debt, dump equities in July - IIF - Reuters",
-      "description": "Foreign investors continued to cut holdings in Chinese bonds in July and dumped equities for the first time in four months, according to a report by the Institute of International Finance (IIF).",
-      "url": "https://www.reuters.com/markets/europe/foreigners-cut-china-debt-dump-equities-july-iif-2022-08-04/",
-      "urlToImage": "https://www.reuters.com/resizer/UyXdcpu5H-e0nFqyQnTRnozIpCA=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/2W3AQL6WZJJKDKO3QW4XBCGQSE.jpg",
-      "publishedAt": "2022-08-04T05:08:00Z",
-      "content": "SHANGHAI, Aug 4 (Reuters) - Foreign investors continued to cut holdings in Chinese bonds in July and dumped equities for the first time in four months, according to a report by the Institute of Inter\u2026 [+2133 chars]"
+      "title": "Tiger Global underestimated inflation impact as flagship fund drops 50% - Reuters",
+      "description": "Tiger Global, one of the world's largest hedge funds, saw its flagship fund fall by 50% in the first half of the year after it underestimated the impact of a surge in global inflation on markets, according to letter to investors.",
+      "url": "https://www.reuters.com/business/finance/tiger-global-underestimated-inflation-impact-flagship-fund-drops-50-2022-08-05/",
+      "urlToImage": "https://www.reuters.com/resizer/Lg4vlxSm7y0u2q8vhzUJFvNn5ug=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/4CGK2JMLKZNZDFIQ66UQ5SENMQ.jpg",
+      "publishedAt": "2022-08-05T09:10:00Z",
+      "content": "HONG KONG, Aug 5 (Reuters) - Tiger Global, one of the world's largest hedge funds, saw its flagship fund fall by 50% in the first half of the year after it underestimated the impact of a surge in glo\u2026 [+2237 chars]"
     },
     {
       "source": {
@@ -177,12 +216,12 @@
         "name": "Reuters"
       },
       "author": null,
-      "title": "DBS Q2 profit tops estimates as banks benefit from rising interest rates - Reuters",
-      "description": "Singapore's DBS Group <a href=\"https://www.reuters.com/companies/DBSM.SI\" target=\"_blank\">(DBSM.SI)</a> reported a 7% rise in quarterly net profit that came in slightly above market estimates and gave a robust outlook as Southeast Asia's largest lender gains \u2026",
-      "url": "https://www.reuters.com/markets/asia/dbs-q2-profit-tops-estimates-banks-benefit-rising-interest-rates-2022-08-04/",
-      "urlToImage": "https://www.reuters.com/resizer/T0uDU3YnaXd252nVjyDQySYy38c=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/BEOB62GLZFMGRCUB27VEM7KTMU.jpg",
-      "publishedAt": "2022-08-04T01:52:00Z",
-      "content": "SINGAPORE, Aug 4 (Reuters) - Singapore's DBS Group (DBSM.SI) reported a 7% rise in quarterly net profit that came in slightly above market estimates and gave a robust outlook as Southeast Asia's larg\u2026 [+2001 chars]"
+      "title": "Tensions with U.S. spur Chinese buying of chipmaking stocks - Reuters",
+      "description": "Chinese chipmakers' shares jumped by the most in two years this week as House of Representatives Speaker Nancy Pelosi's visit to Taiwan heightened tensions with the U.S., driving patriotic bets on a sector Beijing sees as key to its rivalry with Washington.",
+      "url": "https://www.reuters.com/technology/tensions-with-us-spur-chinese-buying-chipmaking-stocks-2022-08-05/",
+      "urlToImage": "https://www.reuters.com/resizer/ERbp9DKoyDt6XL39oGCbNcvCulo=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/KLT3S5YWSBNTFE3UA24IAVWEOM.jpg",
+      "publishedAt": "2022-08-05T10:41:00Z",
+      "content": "SHANGHAI, Aug 5 (Reuters) - Chinese chipmakers' shares jumped by the most in two years this week as House of Representatives Speaker Nancy Pelosi's visit to Taiwan heightened tensions with the U.S., \u2026 [+2165 chars]"
     },
     {
       "source": {
@@ -190,12 +229,12 @@
         "name": "Reuters"
       },
       "author": null,
-      "title": "Bank of England aims to sell 10 bln pounds of gilts a quarter from September - Reuters",
-      "description": "LONDON, Aug 4 (Reuters) - The Bank of England said on Thursday that it intends to start active government bond sales worth around 10 billion pounds a quarter from next month, subject to a final go-ahead from policymakers.",
-      "url": "https://www.reuters.com/markets/europe/bank-england-aims-sell-10-bln-pounds-gilts-quarter-september-2022-08-04/",
-      "urlToImage": "https://www.reuters.com/resizer/QkSoIwSYUmCS8iRCnPmoIdtOeOE=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/KJ3KADEMTFJIRHBHUMJTBFZTJM.jpg",
-      "publishedAt": "2022-08-04T11:04:00Z",
-      "content": "LONDON, Aug 4 (Reuters) - The Bank of England said on Thursday that it intends to start active government bond sales worth around 10 billion pounds a quarter from next month, subject to a final go-ah\u2026 [+2143 chars]"
+      "title": "Suzuki Motor says demand strong despite economic concerns - Reuters",
+      "description": "Japan's Suzuki Motor <a href=\"https://www.reuters.com/companies/7269.T\" target=\"_blank\">(7269.T)</a> said on Friday it did not see demand for vehicles slowing at home or in its key market of India amid growing concerns about a global economic downturn.",
+      "url": "https://www.reuters.com/business/autos-transportation/suzuki-motor-says-demand-strong-despite-economic-concerns-2022-08-05/",
+      "urlToImage": "https://www.reuters.com/resizer/227vjgLVKR2sI_OUXikNmtFisr4=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/VNKPVI2ZHRMTROAO6J33V3K6HM.jpg",
+      "publishedAt": "2022-08-05T09:40:00Z",
+      "content": "TOKYO, Aug 5 (Reuters) - Japan's Suzuki Motor (7269.T) said on Friday it did not see demand for vehicles slowing at home or in its key market of India amid growing concerns about a global economic do\u2026 [+2172 chars]"
     },
     {
       "source": {
@@ -203,12 +242,12 @@
         "name": "Reuters"
       },
       "author": null,
-      "title": "Futures steady after rally with all eyes on labor market data - Reuters",
-      "description": "U.S. stock index futures were trading flat on Thursday after a rally that made the previous session the best in a week, with investors looking forward to weekly jobless claims data for clues about the state of the labor market.",
-      "url": "https://www.reuters.com/markets/europe/futures-steady-after-rally-with-all-eyes-labor-market-data-2022-08-04/",
-      "urlToImage": "https://www.reuters.com/resizer/3yIQM9KTFxYRki_TK0RsBdJBa8A=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/EU5EYMQGGNKB7AP456G2XCS44Q.jpg",
-      "publishedAt": "2022-08-04T11:51:00Z",
-      "content": "Aug 4 (Reuters) - U.S. stock index futures were trading flat on Thursday after a rally that made the previous session the best in a week, with investors looking forward to weekly jobless claims data \u2026 [+2140 chars]"
+      "title": "Dire performance of new Hong Kong listings clouds prospects for IPO pickup - Reuters",
+      "description": "The majority of stocks listed in Hong Kong since the start of last year are trading well below their initial selling prices, data showed, leaving investors out of pocket and dimming prospects for a pick up in share sales for rest of 2022.",
+      "url": "https://www.reuters.com/business/finance/dire-performance-new-hong-kong-listings-clouds-prospects-ipo-pickup-2022-08-05/",
+      "urlToImage": "https://www.reuters.com/resizer/ShppV12UBPZWC1lAEJSxzAbweyk=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/RUI7LFZEUVKM7PXTMUMUNGMY5M.jpg",
+      "publishedAt": "2022-08-05T06:06:00Z",
+      "content": "HONG KONG, Aug 5 (Reuters) - The majority of stocks listed in Hong Kong since the start of last year are trading well below their initial selling prices, data showed, leaving investors out of pocket \u2026 [+2973 chars]"
     },
     {
       "source": {
@@ -216,12 +255,12 @@
         "name": "Reuters"
       },
       "author": null,
-      "title": "UK construction activity falls by most in over two years - PMI - Reuters UK",
-      "description": "British construction companies reported their biggest fall in activity in more than two years last month, as house-builders scaled back work and civil engineering firms faced a dearth of new contracts, a survey showed on Thursday.",
-      "url": "https://www.reuters.com/world/uk/uk-construction-activity-falls-by-most-over-two-years-pmi-2022-08-04/",
-      "urlToImage": "https://www.reuters.com/resizer/Ev3FbBuwRCuHLAci59Sp-jCfyaE=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/MK5KJK5GGRP5RENUNY4DJQQYOM.jpg",
-      "publishedAt": "2022-08-04T08:36:00Z",
-      "content": "LONDON, Aug 4 (Reuters) - British construction companies reported their biggest fall in activity in more than two years last month, as house-builders scaled back work and civil engineering firms face\u2026 [+2068 chars]"
+      "title": "China's military drills near Taiwan disrupt key shipping lanes - Reuters",
+      "description": "China's military exercises in the waters around Taiwan have prompted some ships to navigate around the Taiwan Strait and give the island a wide berth, disrupting key trading routes for cargo and commodities sailing around the world, analysts said.",
+      "url": "https://www.reuters.com/world/asia-pacific/chinas-military-drills-near-taiwan-disrupt-key-shipping-lanes-2022-08-05/",
+      "urlToImage": "https://www.reuters.com/resizer/68o45CBs5mgdeYHgCpUXh9oiX4o=/1080x565/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/6YGJEL4OSFLGVGNERHNCO7MIKI.jpg",
+      "publishedAt": "2022-08-05T06:15:00Z",
+      "content": "SINGAPORE, Aug 5 (Reuters) - China's military exercises in the waters around Taiwan have prompted some ships to navigate around the Taiwan Strait and give the island a wide berth, disrupting key trad\u2026 [+3096 chars]"
     },
     {
       "source": {
@@ -229,12 +268,12 @@
         "name": "Reuters"
       },
       "author": null,
-      "title": "Top U.S. diplomat to arrive in Pacific amid battle for influence with China - Reuters",
-      "description": "A senior U.S. diplomat will travel to Samoa on Thursday on a multi-leg trip to Pacific Island countries intended to demonstrate re-engagement by the United States with a region in which China has been extending its influence.",
-      "url": "https://www.reuters.com/world/asia-pacific/top-us-diplomat-arrive-pacific-amid-battle-influence-with-china-2022-08-04/",
-      "urlToImage": "https://www.reuters.com/resizer/oWiddfBQECqZWLsjB9NNIDzpzfU=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/KOK3V5HZ7RMXLJANEJUEA7TCKI.jpg",
-      "publishedAt": "2022-08-04T04:48:00Z",
-      "content": "SYDNEY, Aug 4 (Reuters) - A senior U.S. diplomat will travel to Samoa on Thursday on a multi-leg trip to Pacific Island countries intended to demonstrate re-engagement by the United States with a reg\u2026 [+2680 chars]"
+      "title": "Analysis: Global rice supplies at risk as harsh weather hits top exporters - Reuters",
+      "description": "Adverse weather across top rice suppliers in Asia, including the biggest exporter India, is threatening to reduce the output of the world's most important food staple and stoke food inflation that is already near record highs.",
+      "url": "https://www.reuters.com/business/environment/global-rice-supplies-risk-harsh-weather-hits-top-exporters-2022-08-05/",
+      "urlToImage": "https://www.reuters.com/resizer/H_2XAoEloQubUji_dTCPLBslifo=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/SAWNDUESOBPJLKFKN7W2HY2SVM.jpg",
+      "publishedAt": "2022-08-05T04:58:00Z",
+      "content": "SINGAPORE/MUMBAI, Aug 5 (Reuters) - Adverse weather across top rice suppliers in Asia, including the biggest exporter India, is threatening to reduce the output of the world's most important food sta\u2026 [+4796 chars]"
     },
     {
       "source": {
@@ -242,12 +281,12 @@
         "name": "Reuters"
       },
       "author": null,
-      "title": "Bank of England raises rates by most since 1995 even as long recession looms - Reuters",
-      "description": "The Bank of England raised interest rates by the most in 27 years on Thursday, despite warning that a long recession is on its way, as it rushed to smother a rise in inflation which is now set to top 13%.",
-      "url": "https://www.reuters.com/markets/europe/bank-england-raises-rates-by-most-since-1995-even-long-recession-looms-2022-08-04/",
-      "urlToImage": "https://www.reuters.com/resizer/nuRlWnbTkSfvJEVPWRuY35jKuuc=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/MSE4VYBWUBJKNGUSBLJOVW36MY.jpg",
-      "publishedAt": "2022-08-04T11:42:00Z",
-      "content": "LONDON, Aug 4 (Reuters) - The Bank of England raised interest rates by the most in 27 years on Thursday, despite warning that a long recession is on its way, as it rushed to smother a rise in inflati\u2026 [+4364 chars]"
+      "title": "Analysis: East Europe's party is over as double-digit inflation bites - Reuters",
+      "description": "In the weeks that followed Russia's invasion of Ukraine, western Europe's big economies began to falter. But further east it was still boom-time thanks to double-digit wage hikes and generous state handouts in some countries.",
+      "url": "https://www.reuters.com/markets/europe/east-europes-party-is-over-double-digit-inflation-bites-2022-08-05/",
+      "urlToImage": "https://www.reuters.com/resizer/KSxSW9eUpyd20zxiViTiDCIXKPw=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/6FOWV2TVGVPLPDHEKLGELNPSR4.jpg",
+      "publishedAt": "2022-08-05T11:43:00Z",
+      "content": "ESZTERGOM, Hungary, Aug 5 (Reuters) - In the weeks that followed Russia's invasion of Ukraine, western Europe's big economies began to falter. But further east it was still boom-time thanks to double\u2026 [+5594 chars]"
     },
     {
       "source": {
@@ -255,12 +294,12 @@
         "name": "Reuters"
       },
       "author": null,
-      "title": "One and done? Some Democrats say Biden should not seek second term - Reuters",
-      "description": "A few Democrats in the U.S. Congress have begun to voice what many have mulled privately: whether President Joe Biden, the oldest person to ever occupy the Oval Office, ought to choose retirement over re-election in 2024.",
-      "url": "https://www.reuters.com/world/us/one-done-some-democrats-say-biden-should-not-seek-second-term-2022-08-04/",
-      "urlToImage": "https://www.reuters.com/resizer/uDL4Ik7CNDLT0QvFICLdvAT9Q9U=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/6EH6DPUCURONPEUS6GERB4OR3M.jpg",
-      "publishedAt": "2022-08-04T10:06:00Z",
-      "content": "WASHINGTON, Aug 4 (Reuters) - A few Democrats in the U.S. Congress have begun to voice what many have mulled privately: whether President Joe Biden, the oldest person to ever occupy the Oval Office, \u2026 [+4580 chars]"
+      "title": "Germany wants clearer EU debt rules to rein in spending - govt sources - Reuters",
+      "description": "Germany wants European Union rules on member states' debt to be enforced more rigorously, government sources said on Friday, setting out reforms sought by Berlin.",
+      "url": "https://www.reuters.com/markets/europe/germany-wants-clearer-eu-debt-rules-rein-spending-govt-sources-2022-08-05/",
+      "urlToImage": "https://www.reuters.com/resizer/Z8T_ZyuBd_HoiEVJmlLYo7xWTBE=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/QHTAG6Y2LFLDTA3NUNPLJWBJHM.jpg",
+      "publishedAt": "2022-08-05T11:45:00Z",
+      "content": "BERLIN, Aug 5 (Reuters) - Germany wants European Union rules on member states' debt to be enforced more rigorously, government sources said on Friday, setting out reforms sought by Berlin.\r\nThe rules\u2026 [+1562 chars]"
     },
     {
       "source": {
@@ -268,12 +307,12 @@
         "name": "Reuters"
       },
       "author": null,
-      "title": "Column: OPEC+'s tiny boost to oil output may show its waning influence - Reuters",
-      "description": "The almost inconsequential increase in oil output announced by the OPEC+ group has highlighted an emerging dynamic in global crude markets, namely that the producer group is no longer in the driving seat.",
-      "url": "https://www.reuters.com/markets/commodities/opecs-tiny-boost-oil-output-may-show-its-waning-influence-2022-08-04/",
-      "urlToImage": "https://www.reuters.com/pf/resources/images/reuters/reuters-default.png?d=106",
-      "publishedAt": "2022-08-04T08:00:00Z",
-      "content": "LAUNCESTON, Australia, Aug 4 (Reuters) - The almost inconsequential increase in oil output announced by the OPEC+ group has highlighted an emerging dynamic in global crude markets, namely that the pr\u2026 [+4257 chars]"
+      "title": "Factbox: Putin and Erdogan contacts underline complex Russia-Turkey ties - Reuters",
+      "description": "Vladimir Putin and Tayyip Erdogan meet on Friday for the second time in just over two weeks, after Turkey helped broker a deal to resume Ukraine's Black Sea grain exports which were blocked by Russia's invasion.",
+      "url": "https://www.reuters.com/world/putin-erdogan-contacts-underline-complex-russia-turkey-ties-2022-08-05/",
+      "urlToImage": "https://www.reuters.com/resizer/ecqKGEnaZSYpeGK0v3kZ2tQfKI8=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/WJDHT4G7LRNH3FQ56NKISW7AVI.jpg",
+      "publishedAt": "2022-08-05T11:07:00Z",
+      "content": "Aug 5 (Reuters) - Vladimir Putin and Tayyip Erdogan meet on Friday for the second time in just over two weeks, after Turkey helped broker a deal to resume Ukraine's Black Sea grain exports which were\u2026 [+4538 chars]"
     },
     {
       "source": {
@@ -281,12 +320,12 @@
         "name": "Reuters"
       },
       "author": null,
-      "title": "Britain lifts rates by most since 1995, latest to deliver aggressive hikes - Reuters",
-      "description": "The Bank of England raised interest rates on Thursday by half-a-point in its biggest move in 27 years to tame inflation.",
-      "url": "https://www.reuters.com/markets/europe/britain-lifts-rates-by-most-since-1995-latest-deliver-aggressive-hikes-2022-08-04/",
-      "urlToImage": "https://www.reuters.com/resizer/yMwTxvxA51h6YXoJDYRTkkBkMB0=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/Y6QKX6IEMJN5XOT6M54QHNYWNI.jpg",
-      "publishedAt": "2022-08-04T12:03:00Z",
-      "content": "Aug 4 (Reuters) - The Bank of England raised interest rates on Thursday by half-a-point in its biggest move in 27 years to tame inflation.\r\nCentral banks in the United States, Canada, Australia, Swit\u2026 [+4561 chars]"
+      "title": "Take Five: Inflation still the name of the game - Reuters",
+      "description": "Latest U.S. inflation numbers are in markets' sight, especially since Federal Reserve policymakers have come out in force to correct any misconception about their determination to slay decades-high inflation with big rate hikes.",
+      "url": "https://www.reuters.com/business/take-five/global-markets-themes-graphic-2022-08-05/",
+      "urlToImage": "https://www.reuters.com/resizer/d6VglJU25q9lSvsJt7xGYnOw6Rc=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/7NOYGTQAOJNW3M3NZISJL72BRE.jpg",
+      "publishedAt": "2022-08-05T06:27:00Z",
+      "content": "(Reuters) - Latest U.S. inflation numbers are in markets' sight, especially since Federal Reserve policymakers have come out in force to correct any misconception about their determination to slay de\u2026 [+4709 chars]"
     },
     {
       "source": {
@@ -294,12 +333,12 @@
         "name": "Reuters"
       },
       "author": null,
-      "title": "SBM Offshore upgrades annual outlook, sets new climate targets - Reuters",
-      "description": "SBM Offshore <a href=\"https://www.reuters.com/companies/SBMO.AS\" target=\"_blank\">(SBMO.AS)</a> raised its annual outlook on Thursday and set new greenhouse gas-related targets as a global rush to secure more oil and gas after Russia's invasion of Ukraine is r\u2026",
-      "url": "https://www.reuters.com/business/energy/sbm-offshore-upgrades-annual-outlook-sets-new-climate-targets-2022-08-04/",
-      "urlToImage": "https://www.reuters.com/pf/resources/images/reuters/reuters-default.png?d=106",
-      "publishedAt": "2022-08-04T07:36:00Z",
-      "content": "Aug 4 (Reuters) - SBM Offshore (SBMO.AS) raised its annual outlook on Thursday and set new greenhouse gas-related targets as a global rush to secure more oil and gas after Russia's invasion of Ukrain\u2026 [+2042 chars]"
+      "title": "Oil prices extend losses on demand worries - Reuters",
+      "description": "Oil prices extended losses on Friday, after hitting their lowest since before Russia's February invasion of Ukraine in the previous session, as the market fretted over the impact of inflation on global economic growth and demand.",
+      "url": "https://www.reuters.com/markets/europe/oil-prices-extend-losses-demand-worries-2022-08-05/",
+      "urlToImage": "https://www.reuters.com/resizer/8taSwj3y-bOWa8DxxIOcLQGPo8g=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/5L7A5E5CCBIGJBV4BXGODRBF3Q.jpg",
+      "publishedAt": "2022-08-05T01:39:00Z",
+      "content": "SINGAPORE, Aug 5 (Reuters) - Oil prices extended losses on Friday, after hitting their lowest since before Russia's February invasion of Ukraine in the previous session, as the market fretted over th\u2026 [+2284 chars]"
     },
     {
       "source": {
@@ -307,51 +346,51 @@
         "name": "Reuters"
       },
       "author": null,
-      "title": "Analysis: Rocketing tanker freight rates send Mexico's fuel costs soaring - Reuters",
-      "description": "High rates worldwide for moving oil are driving up Mexico's fuel costs as importers face tanker fees on North America's busiest maritime route that are more than double levels seen in recent years, traders and shippers said.",
-      "url": "https://www.reuters.com/business/energy/rocketing-tanker-freight-rates-send-mexicos-fuel-costs-soaring-2022-08-04/",
-      "urlToImage": "https://www.reuters.com/resizer/b6TkyZrzUR0ceBV42ldqDJlyYSE=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/RI3K4WECHFNLZBKF5E3S5X6GY4.jpg",
-      "publishedAt": "2022-08-04T10:03:00Z",
-      "content": "HOUSTON/MEXICO CITY, Aug 4 (Reuters) - High rates worldwide for moving oil are driving up Mexico's fuel costs as importers face tanker fees on North America's busiest maritime route that are more tha\u2026 [+4337 chars]"
+      "title": "China July export growth seen cooling, imports likely to rise: Reuters poll - Reuters",
+      "description": "China's export growth is expected to have slowed in July, adding to signs of weakening global demand, while imports likely picked up slightly, a Reuters poll showed on Friday.",
+      "url": "https://www.reuters.com/markets/asia/china-july-export-growth-seen-cooling-imports-likely-rise-2022-08-05/",
+      "urlToImage": "https://www.reuters.com/resizer/0S8ayUFSKG5DSB3UsUQ6hul1eKo=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/BTLHLAQR4ZPJVGYGURQMAPIBAQ.jpg",
+      "publishedAt": "2022-08-05T03:54:00Z",
+      "content": "BEIJING, Aug 5 (Reuters) - China's export growth is expected to have slowed in July, adding to signs of weakening global demand, while imports likely picked up slightly, a Reuters poll showed on Frid\u2026 [+2099 chars]"
+    },
+    {
+      "source": {
+        "id": "reuters",
+        "name": "Reuters"
+      },
+      "author": null,
+      "title": "MLB roundup: Angels hit 7 home runs, lose 8-7 to A's - Reuters",
+      "description": "Ramon Laureano drove in four runs and the Oakland Athletics survived seven solo home runs by the Los Angeles Angels -- two by Shohei Ohtani -- to win 8-7 in Anaheim, Calif., on Thursday.",
+      "url": "https://www.reuters.com/lifestyle/sports/mlb-roundup-angels-hit-7-home-runs-lose-8-7-as-2022-08-05/",
+      "urlToImage": "https://www.reuters.com/resizer/ckTeFeukxk1G5awbrhCL-dOHUu4=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/75ZH2FTQKJMLBMW5SCFBTQWSKE.jpg",
+      "publishedAt": "2022-08-05T05:59:00Z",
+      "content": "August 5 - Ramon Laureano drove in four runs and the Oakland Athletics survived seven solo home runs by the Los Angeles Angels -- two by Shohei Ohtani -- to win 8-7 in Anaheim, Calif., on Thursday.\r\n\u2026 [+8648 chars]"
     },
     {
       "source": {
         "id": null,
         "name": "The Guardian"
       },
-      "author": "Mark Sweney",
-      "title": "Gordon Ramsay\u2019s restaurant group reports \u00a312m in pandemic losses",
-      "description": "Staff cut by almost 300 in year to August 2021 as celebrity chef\u2019s company warns of tough trading conditions in cost of living crisisGordon Ramsay\u2019s restaurant empire has reported almost \u00a312m in losses and cut almost 300 staff because of closures and restrict\u2026",
-      "url": "https://amp.theguardian.com/business/2022/aug/04/gordon-ramsay-restaurant-group-reports-losses-covid-pandemic",
-      "urlToImage": "https://i.guim.co.uk/img/media/b65fe3168dc21f2f5f28a95d91427d0f20352159/0_93_3500_2100/master/3500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4716469b9e4f8b8f03d93669e921bf6d",
-      "publishedAt": "2022-08-04T13:25:23Z",
-      "content": "Gordon Ramsays restaurant empire has reported almost \u00a312m in losses and cut almost 300 staff because of closures and restrictions during the Covid-19 pandemic as the businessman warned of the potenti\u2026 [+2875 chars]"
+      "author": "Guardian community team",
+      "title": "Tell us about your highlights from the Edinburgh fringe festival",
+      "description": "We\u2019d like to hear about your favourite moments from the festival this yearThe Edinburgh fringe festival has returned to a full programme of events for first time since the coronavirus pandemic.After two years, the arts festival is back with more than 3,000 sh\u2026",
+      "url": "https://amp.theguardian.com/culture/2022/aug/05/tell-us-about-your-highlights-from-the-edinburgh-fringe-festival",
+      "urlToImage": "https://i.guim.co.uk/img/media/4d3555846a4feeb6e6eee292f959829d23cda2b6/0_169_5071_3043/master/5071.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=838754e1f1f87900f7669366bd563aae",
+      "publishedAt": "2022-08-05T10:06:23Z",
+      "content": "The Edinburgh fringe festival has returned to a full programme of events for first time since the coronavirus pandemic.\r\nAfter two years, the arts festival is back with more than 3,000 shows and acts\u2026 [+781 chars]"
     },
     {
       "source": {
         "id": null,
         "name": "The Guardian"
       },
-      "author": "Jasper Jolly",
-      "title": "Rolls-Royce blames pandemic supply chain woes and hit to aviation for \u00a3111m loss",
-      "description": "Shares fall 10% as outgoing chief Warren East says jet-engine manufacturer has \u2018post-Covid indigestion\u2019Rolls-Royce chief executive Warren East has warned of supply chain problems and inflation in his final results announcement, saying the jet engine maker is \u2026",
-      "url": "https://amp.theguardian.com/business/2022/aug/04/rolls-royce-blames-pandemic-supply-chain-woes-and-hit-to-aviation-for-111m-loss",
-      "urlToImage": "https://i.guim.co.uk/img/media/af29835148d47625be40475585e5174cfab749dc/0_103_3500_2100/master/3500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=88ea7e9d0993d85568c3b9fbd3c95c7f",
-      "publishedAt": "2022-08-04T12:11:40Z",
-      "content": "Rolls-Royce chief executive Warren East has warned of supply chain problems and inflation in his final results announcement, saying the jet engine maker is suffering post-Covid indigestion.\r\nThe shar\u2026 [+2963 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The Guardian"
-      },
-      "author": "Julia Kollewe",
-      "title": "Next raises annual profit forecast to \u00a3860m after sales boost",
-      "description": "Retailer points to hot weather and return of social events, but warns of slowdown in coming monthsNext has raised its annual profit forecast after sales were boosted by the warm weather and people buying outfits for weddings and other social events, but warne\u2026",
-      "url": "https://amp.theguardian.com/business/2022/aug/04/next-raises-annual-profit-forecast-pounds-860m-sales-boost-hot-weather-social-events",
-      "urlToImage": "https://i.guim.co.uk/img/media/3b01d666da13427e2b2bded2ac300e824e9cddd8/0_9_4315_2588/master/4315.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=da513bae4ab72277de79e91aa42c7a3a",
-      "publishedAt": "2022-08-04T08:56:50Z",
-      "content": "Next has raised its annual profit forecast after sales were boosted by the warm weather and people buying outfits for weddings and other social events, but warned of a slowdown in the coming months c\u2026 [+2979 chars]"
+      "author": "Frances Ryan",
+      "title": "Why is Starmer peddling the Tory \u2018magic money tree\u2019 line on public spending? It\u2019s just bad economics | Frances Ryan",
+      "description": "Labour\u2019s use of the phrase plays into the right\u2019s hands. In such times of crisis, smart state investment is to be welcomed, not fearedAfter a barren winter, accusations of \u201cmagic money trees\u201d are taking root once again. In light of tens of billions of pounds \u2026",
+      "url": "https://amp.theguardian.com/commentisfree/2022/aug/05/magic-money-tree-tory-line-labour-keir-starmer-tax",
+      "urlToImage": "https://i.guim.co.uk/img/media/0832c9ce3f0a86a5201dfbd505342d26fce82baf/0_0_2560_1536/master/2560.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=6abafa78e185b97dce0801871e42e183",
+      "publishedAt": "2022-08-05T12:19:25Z",
+      "content": "After a barren winter, accusations of magic money trees are taking root once again. In light of tens of billions of pounds of uncosted tax pledges in the Tory leadership campaign, the Labour leader, \u2026 [+5536 chars]"
     },
     {
       "source": {
@@ -359,103 +398,116 @@
         "name": "The Guardian"
       },
       "author": "Emma Brockes",
-      "title": "Is this the summer I\u2019ll learn to fight the capitalist urge to \u2018do\u2019 something? | Emma Brockes",
-      "description": "The maddening impulse to be productive on holiday has given way to having fun \u2013 and I\u2019m enjoying every minuteIt has been the same story every summer for the past 20 years: a conflict between the desire to kick back and chill out, and the guilt triggered by ta\u2026",
-      "url": "https://amp.theguardian.com/commentisfree/2022/aug/04/summer-holiday-work-children-productive-do-nothing",
-      "urlToImage": "https://i.guim.co.uk/img/media/b0e87a2f9d4308fd204511bb4ef714200fb08676/0_0_4000_2400/master/4000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=cd2388bfedf037d799e2bd9ddf382197",
-      "publishedAt": "2022-08-04T12:00:07Z",
-      "content": "It has been the same story every summer for the past 20 years: a conflict between the desire to kick back and chill out, and the guilt triggered by taking time off. (When I lived in Britain, I could \u2026 [+4059 chars]"
+      "title": "Digested week: New York faces triple plague of rats, flies and racist mascots | Emma Brockes",
+      "description": "While pest populations soar in the city, kids\u2019 venue mascots face accusations of discriminationThere\u2019s the heat, the smell, and the lingering risk of Covid, but the real menace of summer in New York City this year is the twin plague of rats and lantern flies.\u2026",
+      "url": "https://amp.theguardian.com/uk-news/2022/aug/05/digested-week-new-york-faces-triple-plague-of-rats-flies-and-racist-mascots",
+      "urlToImage": "https://i.guim.co.uk/img/media/a07a06688b9afb12db4e0d8073a1cf9c70b779f8/0_0_3000_1800/master/3000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=133338bfbf1ea426ddcca2a0921ebc64",
+      "publishedAt": "2022-08-05T10:42:49Z",
+      "content": "Monday\r\nTheres the heat, the smell, and the lingering risk of Covid, but the real menace of summer in New York City this year is the twin plague of rats and lantern flies. Lets start with the rats. D\u2026 [+6361 chars]"
     },
     {
       "source": {
         "id": null,
         "name": "The Guardian"
       },
-      "author": "Simon Usborne",
-      "title": "Dining across the divide: \u2018I was bewildered when she said Donald Trump was intelligent\u2019",
-      "description": "They differed on Brexit and how much the wealthy should be taxed \u2013 and then there was the issue of a certain former US presidentAlix, 58, Royston, HertfordshireOccupation Semi-retired teacher and company director Continue reading...",
-      "url": "https://amp.theguardian.com/lifeandstyle/2022/aug/04/dining-across-the-divide-alix-suzy",
-      "urlToImage": "https://i.guim.co.uk/img/media/82a7c5568581afe8f675eb72582d67434337c9c7/925_1343_5781_3471/master/5781.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=420f7a0dad24b114ceafcb6fad0d9fd7",
-      "publishedAt": "2022-08-04T11:30:06Z",
-      "content": "Alix, 58, Royston, Hertfordshire\r\nOccupationSemi-retired teacher and company director\r\nVoting record Mostly Green, or Labour if theres no Green and Lib Dem to support friends who are local councillor\u2026 [+4268 chars]"
+      "author": "Presented by Nosheen Iqbal; produced by Lucy Hough and Rudi Zygadlo; executive producers are Elizabeth Cassin, Phil Maynard and Sami Kent",
+      "title": "The deadly consequences of Britain\u2019s lockdown drinking \u2013 podcast",
+      "description": "What will the cost be of our lockdown drinking habits? A University of Sheffield study has estimated England could have up to 25,000 excess deaths over the next 20 yearsKathy Edge was always a social drinker, but didn\u2019t think she had a problem with alcohol. I\u2026",
+      "url": "https://www.theguardian.com/society/audio/2022/aug/05/britain-lockdown-drinking-consequences-podcast",
+      "urlToImage": "https://i.guim.co.uk/img/media/a61f49aa06493ff0c9a0cc69531cac29bb7c9bb2/0_180_3500_2099/master/3500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b551449302e314cc412a637c72699db4",
+      "publishedAt": "2022-08-05T02:00:32Z",
+      "content": "Kathy Edge was always a social drinker, but didnt think she had a problem with alcohol. In the early days of the Covid lockdown, she thought she was coping well and that her drinking was no worse tha\u2026 [+1169 chars]"
     },
     {
       "source": {
         "id": null,
         "name": "The Guardian"
       },
-      "author": "Simar Bajaj",
-      "title": "Pig to human heart transplants are the future. Are we ready for it?",
-      "description": "Xenotransplantation promises to solve organ shortage and to reshape how we think about human longevity, but it also raises a host of questionsShards of electricity burned through Mr P\u2019s flesh. Layers upon layers of subcutaneous fat unraveled, filling the oper\u2026",
-      "url": "https://amp.theguardian.com/science/2022/aug/04/pig-to-human-heart-transplants-are-the-future-are-we-ready-for-it",
-      "urlToImage": "https://i.guim.co.uk/img/media/8c5458a00c99a017c028ca6d5c951ae4f6a143e9/0_0_3500_2101/master/3500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a5a333f72f4076d4050ff8bde8937b84",
-      "publishedAt": "2022-08-04T06:00:01Z",
-      "content": "Shards of electricity burned through Mr Ps flesh. Layers upon layers of subcutaneous fat unraveled, filling the operating room with a pungent, metallic odor, like singed hair at the neighborhood barb\u2026 [+24249 chars]"
+      "author": "Mark Sweney",
+      "title": "UK house prices fall for first time since June 2021, says Halifax",
+      "description": "Market cools in July as lender warns of impact of higher interest rates and cost of living crisisUK house prices fell for the first time in more than a year in July, as the country\u2019s largest lender warned of the impact of higher interest rates and the broader\u2026",
+      "url": "https://amp.theguardian.com/business/2022/aug/05/uk-house-prices-fall-for-first-time-since-june-2021-says-halifax",
+      "urlToImage": "https://i.guim.co.uk/img/media/ab578bf8e29bbea27d3a21764fbfa2b9ad00d384/13_19_1636_982/master/1636.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=623307e4992deb23915e01d43c97f992",
+      "publishedAt": "2022-08-05T07:01:08Z",
+      "content": "UK house prices fell for the first time in more than a year in July, as the countrys largest lender warned of the impact of higher interest rates and the broader cost of living crisis.\r\nThe average p\u2026 [+2393 chars]"
     },
     {
       "source": {
         "id": null,
         "name": "The Guardian"
       },
-      "author": "Amy Fleming",
-      "title": "\u2018Don\u2019t take it out on our staff!\u2019: How did Britain become so angry?",
-      "description": "Shopworkers, GP surgeries and call centres have all reported an alarming rise in abusive behaviour directed toward them. How can we calm this national rage?In November 2019, a customer made a complaint to the insurance firm Ageas. Repairs had been carried out\u2026",
-      "url": "https://amp.theguardian.com/society/2022/aug/04/britain-angry-abusive-behaviour-staff",
-      "urlToImage": "https://i.guim.co.uk/img/media/d7e74387da8a9ea38ce6e308233b9e8c365713dd/629_1179_1851_1111/master/1851.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=0d130f96355e8759638894bff4685040",
-      "publishedAt": "2022-08-04T05:00:48Z",
-      "content": "In November 2019, a customer made a complaint to the insurance firm Ageas. Repairs had been carried out on his car after it was damaged in an accident, but he felt necessary work had been missed. Age\u2026 [+13137 chars]"
+      "author": "David Hills",
+      "title": "New referees, \u2018pioneering\u2019 kits and Robin Hood: Premier League is back | David Hills",
+      "description": "The 2022-23 season promises migraine-inducing kits, a host of inspirational quotes and the return of a breakdancing badgerSold at the time as a short-term Covid welfare measure, it was never going to be permanent \u2013 because a permanent change would favour the \u2026",
+      "url": "https://amp.theguardian.com/football/2022/aug/05/new-referees-pioneering-kits-and-robin-hood-premier-league-is-back",
+      "urlToImage": "https://i.guim.co.uk/img/media/8fd77e84e748fad912f9b9fdcec85c93ec5ca307/0_0_2438_1463/master/2438.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=dab8b407b26fbb60a1f7bfe669855297",
+      "publishedAt": "2022-08-05T09:00:41Z",
+      "content": "1) The five subs rule\r\nSold at the time as a short-term Covid welfare measure, it was never going to be permanent because a permanent change would favour the rich clubs, and thats not what the Premie\u2026 [+4584 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Guardian"
+      },
+      "author": "Guardian sport",
+      "title": "Premier League: 10 things to look out for on the opening weekend",
+      "description": "Arsenal look to avoid another opening-day stinker, Everton look toothless and will J\u00fcrgen Klopp start Darwin N\u00fa\u00f1ez?It has become traditional that Arsenal look somewhat undercooked going into a season, but this time their hosts harbour more question marks. Whi\u2026",
+      "url": "https://amp.theguardian.com/football/2022/aug/05/premier-league-10-things-to-look-out-for-on-the-opening-weekend",
+      "urlToImage": "https://i.guim.co.uk/img/media/ec1b8162a5d56411e1e462fd82c692a263643065/1_0_3022_1814/master/3022.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=71a484dcc85a974dd9776919730b0637",
+      "publishedAt": "2022-08-05T07:00:39Z",
+      "content": "1) Arsenal to avoid opening night encore\r\nIt has become traditional that Arsenal look somewhat undercooked going into a season, but this time their hosts harbour more question marks. While Crystal Pa\u2026 [+9283 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Guardian"
+      },
+      "author": "Ed Ram",
+      "title": "Mozart Group: the western ex-military training Ukrainian recruits",
+      "description": "Volunteers deliver crash courses in battlefield tactics that should take six months to teach<ul><li>Russia-Ukraine war: latest updates</li></ul>\u201cStand by,\u201d shouts a former US Marine. \u201cThreat!\u201d comes the next call and a volley of gunshots echoes around a disus\u2026",
+      "url": "https://amp.theguardian.com/world/2022/aug/05/mozart-group-western-ex-military-training-ukrainian-recruits",
+      "urlToImage": "https://i.guim.co.uk/img/media/eda47e68a44c57b2640033b89a93bdb240ec8aa9/1206_302_6930_4160/master/6930.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=fbfbb3e912157335b9b741e5f7231a31",
+      "publishedAt": "2022-08-05T06:00:38Z",
+      "content": "Stand by, shouts a former US Marine. Threat! comes the next call and a volley of gunshots echoes around a disused quarry, in a Ukrainian hillside, just a few miles from the frontline of the war.\r\nDus\u2026 [+9567 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNET"
+      },
+      "author": "Jessica Rendall",
+      "title": "Even Beyond the Disease, COVID Has Impacted Our Heart Health - CNET",
+      "description": "Many Americans have experienced a heart-related issue since the pandemic started.",
+      "url": "https://www.cnet.com/health/medical/even-beyond-the-disease-covid-has-impacted-our-heart-health/",
+      "urlToImage": "https://www.cnet.com/a/img/resize/05788e5b4024cfe388a2e1b119cede1997665af3/2022/03/23/97627579-5723-43bd-907f-35b6eddb0510/how-the-pandemic-has-taken-a-toll-on-heart-health-2022-003.jpg?auto=webp&fit=crop&height=630&width=1200",
+      "publishedAt": "2022-08-05T03:00:03Z",
+      "content": "Our hearts have a big job. Despite their impressive task of keeping us alive every second of every day, they, too, have felt the consequences of the COVID-19 pandemic. They may have been damaged by t\u2026 [+9675 chars]"
     },
     {
       "source": {
         "id": null,
         "name": "NPR"
       },
-      "author": "Wynne Davis",
-      "title": "He lived in Oregon and she lived in England. A drawing of a cat brought them together",
-      "description": "When Grant Schroeder commissioned a drawing of his cat, Luna, he figured that was it. But he got a lot more when Emma Ferguson, who also had a cat named Luna, took notice. Soon a romance bloomed.",
-      "url": "https://www.npr.org/2022/08/04/1115471035/he-lived-in-oregon-and-she-lived-in-england-a-drawing-of-a-cat-brought-them-toge",
-      "urlToImage": "https://media.npr.org/assets/img/2022/08/03/4_wide-322e9f10271827e456e627bbdc806a8678499b52.jpg?s=1400",
-      "publishedAt": "2022-08-04T10:00:48Z",
-      "content": "Two cats and one popular Twitter artist helped unite a man and woman separated by more than 4,600 miles.\r\nIt all started on Twitter specifically, with the account called \"poorly drawn cats.\" The acco\u2026 [+3566 chars]"
+      "author": "The Associated Press",
+      "title": "The Bank of England predicts a lengthy recession at the end of the year",
+      "description": "Soaring natural gas prices are likely to drive consumer price inflation to 13.3% in October, the bank said. That will push Britain into recession later this year, bank forecasts show.",
+      "url": "https://www.npr.org/2022/08/05/1115854623/the-bank-of-england-predicts-a-lengthy-recession-at-the-end-of-the-year",
+      "urlToImage": "https://media.npr.org/assets/img/2022/08/05/ap22216390323588_wide-b3273f98d36a2331aeffc86e462e61a8c6637fa6.jpg?s=1400",
+      "publishedAt": "2022-08-05T05:50:59Z",
+      "content": "People wait at the Bank of England in London, Thursday, Aug. 4, 2022.\r\nFrank Augstein/AP\r\nLONDON The Bank of England announced its biggest interest rate increase in 27 years on Thursday as it forecas\u2026 [+5351 chars]"
     },
     {
       "source": {
         "id": "business-insider",
         "name": "Business Insider"
       },
-      "author": "bnolan@insider.com (Beatrice Nolan)",
-      "title": "A flight attendant says crew members have to sprint through airports amid delays and worry they will be met with angry passengers",
-      "description": "Delayed planes mean that flight crews have to sprint from job to job and passengers sometimes blame them for delays, the airline worker told CNN.",
-      "url": "https://www.businessinsider.com/flight-travel-chaos-delays-flight-crew-staffing-issues-angry-passengers-2022-8",
-      "urlToImage": "https://i.insider.com/62ebb0af05c1fd001846fb0e?width=1200&format=jpeg",
-      "publishedAt": "2022-08-04T11:50:17Z",
-      "content": "A US flight attendant said that crews have to sprint through airports when incoming flights are delayed and worry they will be met with angry passengers, CNN reported.\r\nAllie Malis said these situati\u2026 [+1176 chars]"
-    },
-    {
-      "source": {
-        "id": "business-insider",
-        "name": "Business Insider"
-      },
-      "author": "mjankowicz@businessinsider.com (Mia Jankowicz)",
-      "title": "3 senators missed the vote on Sweden and Finland joining NATO \u2014 but all were in favor, leaving Josh Hawley as a lone dissenter",
-      "description": "Sens. John Cornyn, Jeff Merkley, and Patrick Leahy all support Finland and Sweden joining NATO, but didn't show for the vote. They all gave reasons.",
-      "url": "https://www.businessinsider.com/3-senators-skipped-nato-vote-finland-sweden-hawley-lone-dissent-2022-8",
-      "urlToImage": "https://i.insider.com/62eb8a557a747800188d64b5?width=1200&format=jpeg",
-      "publishedAt": "2022-08-04T09:56:12Z",
-      "content": "Three US senators were absent for Wednesday vote on Sweden and Finland joining NATO, which passed overwhelmingly with only one senator voting against it.\r\nRepublican Sen. Josh Hawley was the only no \u2026 [+2164 chars]"
-    },
-    {
-      "source": {
-        "id": "business-insider",
-        "name": "Business Insider"
-      },
-      "author": "gdean@insider.com (Grace Dean)",
-      "title": "A flight attendant says sickness and fatigue levels have gone 'through the roof' amid the current travel chaos",
-      "description": "Flight crew are exhausted and overworked as they take on extra hours during the current airport chaos, airline staff told CNN.",
-      "url": "https://www.businessinsider.com/travel-chaos-flight-crew-airlines-workers-sickness-fatigue-wellbeing-work-2022-8",
-      "urlToImage": "https://i.insider.com/62eba8e859282400185a5b5d?width=1200&format=jpeg",
-      "publishedAt": "2022-08-04T11:28:22Z",
-      "content": "Flight crews are exhausted and overworked as they take on extra hours during the current airport chaos, airline staff told CNN.\r\nUnpredictable schedules and stressful situations are straining the phy\u2026 [+2705 chars]"
+      "author": "gglover@insider.com (George Glover)",
+      "title": "'Big Short' investor Michael Burry warns that 'silliness is back' in markets despite the recent rebound",
+      "description": "Burry drew a comparison between the current market outlook and major crashes that occurred in 1929, 2001, and 2008.",
+      "url": "https://markets.businessinsider.com/news/stocks/big-short-investor-michael-burry-warns-market-silliness-is-back-2022-8",
+      "urlToImage": "https://i.insider.com/60ddb4d4a08b100012b41ae0?width=1200&format=jpeg",
+      "publishedAt": "2022-08-05T09:36:13Z",
+      "content": "Markets are starting to behave irrationally again, according to Michael Burry.\r\nThe investor and hedge fund manager warned of a rise in 'silliness' after the S&amp;P 500 rallied 8.6% to bounce back f\u2026 [+938 chars]"
     },
     {
       "source": {
@@ -463,142 +515,51 @@
         "name": "Business Insider"
       },
       "author": "sjones@insider.com (Stephen Jones)",
-      "title": "An engineer at one of Europe's busiest airports says they're 'ashamed' to work there amid a summer of 'crying little kids' and endless lines",
-      "description": "The engineer was one of several Heathrow airport staff who told the Financial Times about their experience of labor shortages and summer travel chaos.",
-      "url": "https://www.businessinsider.com/travel-chaos-heathrow-airport-worker-ashamed-at-long-queues-delays-2022-8",
-      "urlToImage": "https://i.insider.com/62dfc086bd18c30019d1ce76?width=1200&format=jpeg",
-      "publishedAt": "2022-08-04T10:12:16Z",
-      "content": "An engineer employed at London Heathrow, one of Europe's busiest flight hubs, said that the summer travel chaos has made them ashamed to work at the airport.\r\n\"When I started working here, on an appr\u2026 [+2520 chars]"
+      "title": "Elon Musk said Tesla could build 10 or 12 new Gigafactories to reach his goal of making 20 million cars a year by 2030",
+      "description": "Tesla might be able to announce the location of a new factory later this year, Musk told stockholders at Teslas 2022 Cyber Roundup.",
+      "url": "https://www.businessinsider.com/elon-musk-tesla-could-build-dozen-new-gigafactories-2022-8",
+      "urlToImage": "https://i.insider.com/62eceee9a1c9b90019804df6?width=1200&format=jpeg",
+      "publishedAt": "2022-08-05T12:12:59Z",
+      "content": "Elon Musk hinted at plans to expand Tesla's network of Gigafactories as the company aims to meet his ambition to build as many as 20 million electric cars a year.\r\nAddressing stockholders at the firm\u2026 [+1844 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Entrepreneur"
+        "name": "Calendar.com"
       },
-      "author": "Matthew North",
-      "title": "Does Amarin Deserve a Spot in Your Portfolio after Earnings ?",
-      "description": "Amarin recently announced its earnings for Q2'22 with mixed results. Here we'll examine the pros and cons of having this penny stock in your portfolio.",
-      "url": "https://www.entrepreneur.com/article/432726",
-      "urlToImage": "https://assets.entrepreneur.com/providers/marketbeat/hero-image-marketbeat-432726.jpeg",
-      "publishedAt": "2022-08-04T10:00:00Z",
-      "content": "Amarin (NASDAQ: AMRN), a penny stock that has caught the attention of speculators and serious investors alike has recently reported its Q2'22 earnings card that came with mixed results. The company's\u2026 [+3759 chars]"
+      "author": "Calendar",
+      "title": "The Pros and Cons of a 4-Day Workweek",
+      "description": "Henry Ford\u2019s five-day work week was seen in 1926 as a revolution when it gave his employees Saturdays off. How gracious of him, right? And a short time later, in 1932, the five-day week was officially codified for all workers in the United States. But, after \u2026",
+      "url": "https://www.calendar.com/blog/the-pros-and-cons-of-a-4-day-workweek/",
+      "urlToImage": "https://images.readwrite.com/wp-content/uploads/2022/08/4-day-workweek.jpg",
+      "publishedAt": "2022-08-05T11:01:15Z",
+      "content": "Henry Fords five-day work week was seen in 1926 as a revolution when it gave his employees Saturdays off. How gracious of him, right? And a short time later, in 1932, the five-day week was officially\u2026 [+13772 chars]"
+    },
+    {
+      "source": {
+        "id": "time",
+        "name": "Time"
+      },
+      "author": "Tara Law",
+      "title": "Extreme Heat Makes It Hard for Kids To Be Active. But Exercise Is Crucial In a Warming World",
+      "description": "Sweltering weather is another formidable barrier to kids getting enough physical activity, finds a new scientific review.",
+      "url": "https://time.com/6203849/kids-exercise-climate-change/",
+      "urlToImage": "https://api.time.com/wp-content/uploads/2022/08/Children-playing-on-hot-day-in-Ukraine.jpg?quality=85&w=1024&h=628&crop=1",
+      "publishedAt": "2022-08-05T04:01:27Z",
+      "content": "Getting kids to be active in a modern world is a tough sell. It can be hard to compete with indoor comforts like video games, television, and air conditioning.\r\nSweltering weather is another formidab\u2026 [+5055 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Entrepreneur"
+        "name": "Thewalrus.ca"
       },
-      "author": "MarketBeat Staff",
-      "title": "3 Low Priced Stocks With Good Growth Prospects",
-      "description": "These three low priced stocks have such solid long-term growth expectations\u2014and valuations that are becoming hard to ignore.",
-      "url": "https://www.entrepreneur.com/article/432731",
-      "urlToImage": "https://assets.entrepreneur.com/providers/marketbeat/hero-image-marketbeat-432731.jpeg",
-      "publishedAt": "2022-08-04T10:05:00Z",
-      "content": "Typically when a mature company's share price is hovering around $20 or below, it means that growth prospects are limited. But that's not always the case.\r\nMarketBeat.com - MarketBeat\r\nAs we've seen \u2026 [+5075 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Entrepreneur"
-      },
-      "author": "Kate Stalter",
-      "title": "3 Pharma Stocks' Post-Earnings Price Moves",
-      "description": "The health care sector is participating in the S&P's nascent rally, but pharmaceuticals AbbVie, Merck and Pfizer are holding up well relative to the market.",
-      "url": "https://www.entrepreneur.com/article/432730",
-      "urlToImage": "https://assets.entrepreneur.com/providers/marketbeat/hero-image-marketbeat-432730.jpeg",
-      "publishedAt": "2022-08-04T10:05:00Z",
-      "content": "The health care sector is just barely participating in the S&amp;P 500's nascent rally, but pharmaceuticals such as AbbVie (NYSE:ABBV), Merck (NYSE:MRK) and Pfizer (NYSE:PFE) are holding up well rela\u2026 [+4026 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Harvard Business Review"
-      },
-      "author": "Scott Counts, Siddharth Suri, Alaysia Brown, Brian Xu, Sharat Raghavan",
-      "title": "Who Gets to Work in the Digital Economy?",
-      "description": "Remote work has become commonplace since the beginning of the Covid-19 pandemic. But the focus on daily remote work arrangements may miss a larger opportunity that the pandemic has unearthed: the possibility of a substantially increased labor pool for digital\u2026",
-      "url": "https://hbr.org/2022/08/who-gets-to-work-in-the-digital-economy",
-      "urlToImage": "https://hbr.org/resources/images/article_assets/2022/08/Aug22_04_509299271.jpg",
-      "publishedAt": "2022-08-04T12:05:05Z",
-      "content": "The labor market for jobs you can do on a laptop is expanding beyond major cities.\r\n\"&gt;\r\nThe Covid-19 pandemic shifted the public conversation about remote work. This shift raises the possibility t\u2026 [+9505 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Global News"
-      },
-      "author": "The Canadian Press",
-      "title": "Charest, Baber, Aitchison face off in final federal Conservative leadership debate - Global News",
-      "description": "<ol><li>Charest, Baber, Aitchison face off in final federal Conservative leadership debate\u00a0\u00a0Global News\r\n</li><li>Conservative leadership: Key takeaways from the final debate\u00a0\u00a0CTV News\r\n</li><li>Charest, Baber and Aitchison keep it courteous in final Conserva\u2026",
-      "url": "https://globalnews.ca/news/9033560/conservative-leadership-final-debate/",
-      "urlToImage": "https://globalnews.ca/wp-content/uploads/2022/08/conservative-leadership-debate.jpg?quality=85&strip=all&w=720&h=379&crop=1",
-      "publishedAt": "2022-08-04T02:04:30Z",
-      "content": "Jean Charest spent the last official debate of the federal Conservative leadership race on Wednesday stressing that his experience as a political leader is what the party needs to unite.\r\nBut with si\u2026 [+6057 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Daily Beast"
-      },
-      "author": "Matt Wilstein",
-      "title": "Seth Meyers Roasts the Hell Out of Trump\u2019s \u2018Face-Melt\u2019 Photo",
-      "description": "NBCSeth Meyers returned to Late Night this Wednesday after taking a week off to recover from his second bout of COVID. And while he couldn\u2019t cover everything...",
-      "url": "https://www.thedailybeast.com/seth-meyers-roasts-the-hell-out-of-trumps-face-melt-photo?source=articles&via=rss",
-      "urlToImage": "https://s.yimg.com/uu/api/res/1.2/_qXaBHxS0KQfW4M1h7hEWQ--~B/aD02NTg7dz0xMTcwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/thedailybeast.com/d908fa0548c16c3bfea9e158e5014232",
-      "publishedAt": "2022-08-04T03:52:05Z",
-      "content": "Seth Meyers returned to Late Night this Wednesday after taking a week off to recover from his second bout of COVID. And while he couldnt cover everything he missed while he was away, he was not going\u2026 [+1799 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Boing Boing"
-      },
-      "author": "Devin Nealy",
-      "title": "HBO Max might be in a little trouble",
-      "description": "The war between streaming services has been a nail-bitter recently. Despite securing an early lead by, ya know, pioneering the concept, Netflix has been hemorrhaging money and users like no tomorrow. Newcomer Peacock, the official NBC service, failed to gain \u2026",
-      "url": "https://boingboing.net/2022/08/04/hbo-max-might-be-in-a-little-trouble.html",
-      "urlToImage": "https://i0.wp.com/boingboing.net/wp-content/uploads/2022/08/HBO-Max-screenshot.jpg?fit=1200%2C800&ssl=1",
-      "publishedAt": "2022-08-04T11:59:31Z",
-      "content": "The war between streaming services has been a nail-bitter recently. Despite securing an early lead by, ya know, pioneering the concept, Netflix has been hemorrhaging money and users like no tomorrow.\u2026 [+1566 chars]"
-    },
-    {
-      "source": {
-        "id": "abc-news",
-        "name": "ABC News"
-      },
-      "author": "ABC News",
-      "title": "Prosecutor seeks 9 1/2 years prison time for Brittney Griner as her trial ends",
-      "description": "The prosecutor in the case of Brittney Griner asked that the WNBA star serve 9 1/2 years in prison in Russia as her trial ends.",
-      "url": "https://abcnews.go.com/US/prosecutor-seeks-12-years-prison-time-brittney-griner/story?id=87920721",
-      "urlToImage": "https://s.abcnews.com/images/International/griner1-ap-ml-220804_1659616662157_hpMain_16x9_992.jpg",
-      "publishedAt": "2022-08-04T13:28:07Z",
-      "content": "The prosecutor in the case of Brittney Griner, who has been detained in Russia for over five months, asked that the WNBA star serve 9 1/2 years in prison as her trial comes to an end.\r\nGriner, a 31-y\u2026 [+4544 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The Atlantic"
-      },
-      "author": "Andy Slavitt",
-      "title": "The Three COVID Developments I\u2019m Still Holding Out Hope For",
-      "description": "We don\u2019t have to be in this COVID rut forever.",
-      "url": "https://www.theatlantic.com/ideas/archive/2022/08/covid-variant-spread-immunity-outcome/671024/?utm_source=feed",
-      "urlToImage": null,
-      "publishedAt": "2022-08-04T11:00:00Z",
-      "content": "We are in a COVID rut. Early on in the pandemic, we could look forward to the arrival of vaccines. But the vaccines came, and though they did wonders in bringing down the daily death toll, COVID is e\u2026 [+6204 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The Atlantic"
-      },
-      "author": "Meghan O'Rourke",
-      "title": "Willed Helplessness Is the American Condition",
-      "description": "We still don\u2019t know exactly what causes or how to treat the most notorious long-COVID symptoms.",
-      "url": "https://www.theatlantic.com/ideas/archive/2022/08/long-covid-public-health-ongoing-risk/671048/?utm_source=feed",
-      "urlToImage": null,
-      "publishedAt": "2022-08-04T10:00:00Z",
-      "content": "If a pandemic is a lens onto how we understand our moral responsibility to the community, this moment of risk discourse is revealing that we don\u2019t care about one another very much. In place of yester\u2026 [+9415 chars]"
+      "author": "Lucy Uprichard",
+      "title": "What Is the Cost of a Cashless Society?",
+      "description": "The trend toward digital payment could shortchange the country\u2019s most vulnerable",
+      "url": "https://thewalrus.ca/cashless-society/",
+      "urlToImage": "https://walrus-assets.s3.amazonaws.com/img/Uprichard_CashlessSociety_732-1.gif",
+      "publishedAt": "2022-08-05T00:16:40Z",
+      "content": "Early in the pandemic, dirty money started to take on a new, rather literal, meaning as businesses across Canada\u2014from local stores to large retailers like Second Cup\u2014banned the use of cash. Before we\u2026 [+9065 chars]"
     },
     {
       "source": {
@@ -606,12 +567,12 @@
         "name": "Blogger.com"
       },
       "author": "Calculated Risk",
-      "title": "Thursday: Trade Deficit, Unemployment Claims",
+      "title": "Friday: Employment Report",
       "description": null,
-      "url": "https://www.blogger.com/comment.g?blogID=10004977&postID=5944741348265909135&bpli=1",
+      "url": "https://www.blogger.com/comment.g?blogID=10004977&postID=7742384819261414896&bpli=1",
       "urlToImage": null,
-      "publishedAt": "2022-08-04T01:17:00Z",
-      "content": "Wednesday:\u2022 At 8:30 AM ET, Trade Balance report for June from the Census Bureau. The consensus is the trade deficit to be $80.1 billion.\u00a0 The U.S. trade deficit was at $85.5 Billion the previous mont\u2026 [+984 chars]"
+      "publishedAt": "2022-08-05T00:48:00Z",
+      "content": "My July Employment PreviewGoldman July Payrolls Preview Friday:\u2022 At 8:30 AM ET, Employment Report for July. \u00a0 The consensus is for 250,000 jobs added, and for the unemployment rate to be unchanged at\u2026 [+839 chars]"
     },
     {
       "source": {
@@ -619,272 +580,181 @@
         "name": "9to5Mac"
       },
       "author": "Ben Lovejoy",
-      "title": "Chinese smartphone shipments set to fall to 10-year low, explaining Apple discounts",
-      "description": "Chinese smartphone shipments fell dramatically in the first half of the year, according to official data, and look set to fall to a 10-year low by the end of this year.\nThe news sheds some light on Apple\u2019s first-ever iPhone discounts on its official Chinese w\u2026",
-      "url": "https://9to5mac.com/2022/08/04/chinese-smartphone-shipments/",
-      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2022/08/Chinese-smartphone-shipments.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "publishedAt": "2022-08-04T12:06:39Z",
-      "content": "Chinese smartphone shipments fell dramatically in the first half of the year, according to official data, and look set to fall to a 10-year low by the end of this year.\r\nThe news sheds some light on \u2026 [+3096 chars]"
+      "title": "We\u2019re downloading fewer mobile games as lockdowns end and inflation bites",
+      "description": "US consumers are downloading fewer mobile games this year than last, thanks to a combination of factors, including the end of COVID restrictions, and rapidly-rising inflation.\nOf 14 mobile games genres tracked by app analytics company Sensor Tower, only one s\u2026",
+      "url": "https://9to5mac.com/2022/08/05/mobile-games/",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2022/08/Mobile-games.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2022-08-05T12:25:57Z",
+      "content": "US consumers are downloading fewer mobile games this year than last, thanks to a combination of factors, including the end of COVID restrictions, and rapidly-rising inflation.\r\nOf 14 mobile games gen\u2026 [+3260 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "9to5Mac"
+      },
+      "author": "Benjamin Mayo",
+      "title": "Apple TV+ Guide: Every Apple TV show and movie available now",
+      "description": "Apple TV+ offers exclusive Apple original TV shows and movies in 4K HDR quality. You can watch across all of your screens and pick up where you left off on any device. Apple TV+ costs $4.99 per month. Here\u2019s every Apple original television show and movie avai\u2026",
+      "url": "https://9to5mac.com/2022/08/05/apple-tv-plus-tv-shows-movies-guide/",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2019/12/apple-tv-plus.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2022-08-05T09:03:57Z",
+      "content": "Apple TV+ offers exclusive Apple original TV shows and movies in 4K HDR quality. You can watch across all of your screens and pick up where you left off on any device. Apple TV+ costs $4.99 per month\u2026 [+48390 chars]"
     },
     {
       "source": {
         "id": null,
         "name": "The Guardian"
       },
-      "author": "Martin Pengelly and agencies",
-      "title": "Arizona Republican who defied Trump and lost primary: \u2018I\u2019d do it again in a heartbeat\u2019",
-      "description": "Rusty Bowers, who refused to help overturn Trump election loss, says he has no regrets despite losing bid for state senate seatRusty Bowers, the Arizona Republican who defied Donald Trump\u2019s attempt to overturn his defeat in the state then testified to the Hou\u2026",
-      "url": "https://amp.theguardian.com/us-news/2022/aug/04/arizona-republican-rusty-bowers-trump-primary",
-      "urlToImage": "https://i.guim.co.uk/img/media/8758eb14bc17d5a84dea7dce7d24b24cb46370af/0_288_8640_5184/master/8640.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=9021de9952a4046372b236dd931aa70b",
-      "publishedAt": "2022-08-04T13:08:27Z",
-      "content": "Rusty Bowers, the Arizona Republican who defied Donald Trumps attempt to overturn his defeat in the state then testified to the House January 6 committee, has no regrets despite losing his bid for a \u2026 [+2765 chars]"
+      "author": "Nicola Slawson",
+      "title": "Alex Jones to pay $4.1m over false Sandy Hook claims | First Thing",
+      "description": "Infowars owner faced defamation trial for saying the school shooting was a hoax. Plus, how the Astroworld tragedy changed gigs for everGood morning.The jury in Alex Jones\u2019s defamation trial yesterday ordered the far-right conspiracy theorist to pay $4.1m in d\u2026",
+      "url": "https://amp.theguardian.com/us-news/2022/aug/05/alex-jones-pay-41m-sandy-hook-claims",
+      "urlToImage": "https://i.guim.co.uk/img/media/7417b90ce31533ea403a7fd46bfec2053ca49385/0_67_2432_1459/master/2432.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=3fb1d6359f19515802ab9268da8b10a9",
+      "publishedAt": "2022-08-05T10:06:02Z",
+      "content": "Good morning.\r\nThe jury in Alex Joness defamation trial on Thursday ordered the far-right conspiracy theorist to pay $4.1m in damages over his repeated claims that the deadly Sandy Hook school shooti\u2026 [+8620 chars]"
+    },
+    {
+      "source": {
+        "id": "vice-news",
+        "name": "Vice News"
+      },
+      "author": "Gavin Butler, Alastair McCready",
+      "title": "North Korea Reports No New COVID Cases and an \u2018Impossible\u2019 Fatality Rate",
+      "description": "State media claims the country's \"fever\" outbreak has entered a \"phase of stability,\" reporting the lowest fatality rate in the world by some margin.",
+      "url": "https://www.vice.com/en/article/n7zzgx/north-korea-reports-no-new-covid-cases",
+      "urlToImage": "https://video-images.vice.com/articles/62ecc158ecf92200946de57f/lede/1659684052237-gettyimages-1235530598.jpeg?image-resize-opts=Y3JvcD0xeHc6MC44NDU1MTE0ODIyNTQ2OTczeGg7Y2VudGVyLGNlbnRlciZyZXNpemU9MTIwMDoqJnJlc2l6ZT0xMjAwOio",
+      "publishedAt": "2022-08-05T08:13:27Z",
+      "content": "North Korea has emerged from its first wave of COVID-19 with by far the lowest fatality rate of any country in the pandemic\u2019s history, at least according to state media.\u00a0\r\nIn the almost three months \u2026 [+3831 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "The Guardian"
+        "name": "Tim.blog"
       },
-      "author": "Clea Skopeliti",
-      "title": "China begins Taiwan military drills after Pelosi visit | First Thing",
-      "description": "Taiwan says it is \u2018preparing for war without seeking war\u2019. Plus, US Senate votes for Finland and Sweden\u2019s Nato entryGood morning.Taiwan\u2019s army has said it is \u201cpreparing for war without seeking war\u201d after China\u2019s military began an unprecedented four days of li\u2026",
-      "url": "https://amp.theguardian.com/us-news/2022/aug/04/first-thing-china-begins-taiwan-military-drills-after-pelosi-visit",
-      "urlToImage": "https://i.guim.co.uk/img/media/39d8a6b9d06f79cc30ae5cd1d5ae1a31117a7b43/0_113_3692_2215/master/3692.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=81be25f113f72b4fd27c125e5c0064be",
-      "publishedAt": "2022-08-04T10:17:35Z",
-      "content": "Good morning.\r\nTaiwans army has said it is preparing for war without seeking war after Chinas military began an unprecedented four days of live-fire exercises near the islands shores following Nancy \u2026 [+6862 chars]"
+      "author": "Tim Ferriss",
+      "title": "Russ Roberts on Lessons from F.A. Hayek and Nassim Taleb, Decision-Making Insights from Charles Darwin, The Dangers of Scientism, Wild Problems in Life and the Decisions that Define Us, Learnings from the Talmud, The Role of Prayer, and The Journey to Transcendence (#613)",
+      "description": "Interview with Russ Roberts on The Tim Ferriss Show podcast",
+      "url": "https://tim.blog/2022/08/04/russ-roberts/",
+      "urlToImage": "http://img.youtube.com/vi/RQ9HpPDtvzI/0.jpg",
+      "publishedAt": "2022-08-05T01:55:44Z",
+      "content": "Illustration via 99designs\r\n\u201cWhat was once destiny is now a decision.\u201d\r\n Russ Roberts\r\nRuss Roberts (@EconTalker)\u00a0is the President of\u00a0Shalem College\u00a0in Jerusalem and the John and Jean De Nault Resear\u2026 [+13185 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "The Guardian"
+        "name": "Theregister.com"
       },
-      "author": "Marianne Fenech, Sarah Ayoub, Ben Edwards and Pasi Sahlberg",
-      "title": "What year should children start school? We asked the experts",
-      "description": "Four educators give their verdict on the NSW government\u2019s proposal to lift the school age to six, as well as introducing another year of preschool<ul><li>Get our free news app, morning email briefing or daily news podcast</li></ul>On Tuesday the New South Wal\u2026",
-      "url": "https://amp.theguardian.com/commentisfree/2022/aug/04/an-extra-year-of-early-education-in-nsw-and-victoria-what-do-experts-think-of-the-plan",
-      "urlToImage": "https://i.guim.co.uk/img/media/4f2c5e06b4b497fba915601dea60707f62c35379/0_0_2313_1388/master/2313.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=574a51d66aea2fb39e6569181949e313",
-      "publishedAt": "2022-08-04T02:45:36Z",
-      "content": "On Tuesday the New South Wales education minister, Sarah Mitchell, said lifting the school starting age to the year a child turns six would reduce large age gaps and put students on a more equal foot\u2026 [+8205 chars]"
+      "author": "Simon Sharwood",
+      "title": "China's internet companies are decelerating cloud consumption, says Alibaba",
+      "description": "Starts chasing industrial digitization as its next big opportunity\nAlibaba's cloud operation thinks it's reached market saturation among China's big internet companies, but sees a new wave of demand coming from industrial outfits.\u2026",
+      "url": "https://www.theregister.com/2022/08/05/alibaba_q2_2022/",
+      "urlToImage": "https://regmedia.co.uk/2021/08/13/shutterstock_alibaba_editorial_only.jpg",
+      "publishedAt": "2022-08-05T03:15:13Z",
+      "content": "Alibaba's cloud operation thinks it's reached market saturation among China's big internet companies, but sees a new wave of demand coming from industrial outfits.\r\nThe company's results for the thre\u2026 [+2942 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Blogger.com"
+        "name": "Pitchfork"
       },
-      "author": "Calculated Risk",
-      "title": "Trade Deficit decreased to $79.6 Billion in June",
-      "description": null,
-      "url": "https://www.blogger.com/comment.g?blogID=10004977&postID=412137885180675046&bpli=1",
-      "urlToImage": null,
-      "publishedAt": "2022-08-04T12:49:00Z",
-      "content": "From the Department of Commerce reported:The U.S. Census Bureau and the U.S. Bureau of Economic Analysis announced today \r\nthat the goods and services deficit was $79.6 billion in June, down $5.3 bil\u2026 [+943 chars]"
+      "author": "Rob Arcand",
+      "title": "DJ Khaled, Drake, and Lil Baby Share New Song \u201cStaying Alive\u201d",
+      "description": "The first single from Khaled\u2019s 13th studio album, God Did",
+      "url": "https://pitchfork.com/news/dj-khaled-drake-and-lil-baby-share-new-song-staying-alive-watch-the-video/",
+      "urlToImage": "https://media.pitchfork.com/photos/62ec96437e04458d49bd898a/16:9/w_1280,c_limit/drake-baby-khaled.jpg",
+      "publishedAt": "2022-08-05T04:03:35Z",
+      "content": "DJ Khaled has shared the first single from his new album God Did. The new song, Staying Alive, features Drake and Lil Baby. God Did, the follow-up to last years Khaled Khaled, is out August 26 (via W\u2026 [+917 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Yahoo Entertainment"
+        "name": "Marginalrevolution.com"
       },
-      "author": "NBC",
-      "title": "What The Sandman Star Tom Sturridge STOLE From Set!",
-      "description": "\"The Sandman\" cast dishes on bringing the iconic comic book to life. Plus, find out what Tom Sturridge stole from the set! \"The Sandman\" premieres August 5th...",
-      "url": "https://news.yahoo.com/sandman-star-tom-sturridge-stole-130000788.html",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/2_2wYzQlAsqwP6.Oh9H8kg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/uu/api/res/1.2/Ynzm7frIl6Im6lWBcb7whw--~B/aD0xMDgwO3c9MTkyMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/nbcu_713/a2f6d253fd2c4ad95cf20f8519ea1f73",
-      "publishedAt": "2022-08-04T13:00:00Z",
-      "content": "NBCSeth Meyers returned to Late Night this Wednesday after taking a week off to recover from his second bout of COVID. And while he couldnt cover everything he missed while he was away, he was not go\u2026 [+295 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "MarketWatch"
-      },
-      "author": "Jamie Chisholm",
-      "title": ": U.K. recession looms warns Bank of England as it hikes interest rates by most in 27 years",
-      "description": "Inflation could hit 13% by the end of the year and struggling households will cut back on spending says the U.K. central bank",
-      "url": "https://www.marketwatch.com/story/u-k-recession-looms-warns-bank-of-england-as-it-hikes-interest-rates-by-most-in-27-years-11659615025",
-      "urlToImage": "https://images.mktw.net/im-597446/social",
-      "publishedAt": "2022-08-04T12:10:00Z",
-      "content": "The Bank of England hiked interest rates by the most in 27 years on Thursday as it predicted U.K. inflation may hit double digits by the end of 2022 and the economy could endure more than a year of r\u2026 [+3072 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "AppleInsider"
-      },
-      "author": "news@appleinsider.com (William Gallagher)",
-      "title": "Kuo backs up rumors that Apple is diversifying suppliers in China",
-      "description": "Analyst Ming-Chi Kuo says it's true that Apple is working with more Chinese suppliers, but claims this is just part of the company's plans to avoid over-reliance on one supplier.Following a claim that Apple is working to gain more suppliers and spread its dev\u2026",
-      "url": "https://appleinsider.com/articles/22/08/04/kuo-backs-up-rumors-that-apple-is-diversifying-suppliers-in-china",
-      "urlToImage": "https://photos5.appleinsider.com/gallery/49721-97425-000-lead-China-xl.jpg",
-      "publishedAt": "2022-08-04T09:31:57Z",
-      "content": "AppleInsider is supported by its audience and may earn commission as an Amazon Associate and affiliate partner on qualifying purchases. These affiliate partnerships do not influence our editorial con\u2026 [+1460 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Fashionista"
-      },
-      "author": "Andrea Cheng",
-      "title": "The Rise and Rise of Loeffler Randall's Pleated Bow Heels",
-      "description": "Five years ago, Jessie Randall, the founder and creative director behind accessories brand Loeffler Randall, was consumed \u2014 obsessed \u2014 with pleated fabrics. So much so that in a stroke of genius, she had her team buy a hair crimper from Ricky's, the now-shutt\u2026",
-      "url": "https://fashionista.com/2022/08/loeffler-randall-camellia-wedding-shoe-success",
-      "urlToImage": "https://fashionista.com/.image/t_share/MTkxMzYxMTYxNjUwODQxMTg2/loeffler-randall-pleated-bow-heel-camellia-9.jpg",
-      "publishedAt": "2022-08-04T12:00:00Z",
-      "content": "Photo: Courtesy of Loeffler Randall\r\nFive years ago, Jessie Randall, the founder and creative director behind accessories brand Loeffler Randall, was consumed \u2014 obsessed \u2014 with pleated fabrics. So mu\u2026 [+9212 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "DIYphotography"
-      },
-      "author": "Dunja Djudjic",
-      "title": "Wedding photographer goes bankrupt leaving 800 couples without their photos or money",
-      "description": "COVID-19 pandemic has left many creatives without work, forcing thousands of them into bankruptcy. And it\u2019s not only business owners that were hit in the process, but also their clients and customers. This recently happened to a UK-based photography business,\u2026",
-      "url": "https://www.diyphotography.net/wedding-photographer-goes-bankrupt-leaving-800-couples-without-their-photos-or-money/",
-      "urlToImage": "https://www.diyphotography.net/wp-content/uploads/2022/08/sad-bride-sitting-by-bouquet-on-sofa-at-home-2021-08-28-16-45-55-utc-scaled.jpg",
-      "publishedAt": "2022-08-04T08:49:40Z",
-      "content": "COVID-19 pandemic has left many creatives without work, forcing thousands of them into bankruptcy. And its not only business owners that were hit in the process, but also their clients and customers.\u2026 [+3845 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "iMore"
-      },
-      "author": "stephen.warwick@futurenet.com (Stephen Warwick)",
-      "title": "Apple to make even more phones in India ahead of iPhone 14",
-      "description": "A new report says that Apple's main iPhone supplier is expanding in India.",
-      "url": "https://www.imore.com/apple/apple-to-make-even-more-phones-in-india-ahead-of-iphone-14",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/uHWVLAMDSgWedfA7Avox3o-1200-80.jpg",
-      "publishedAt": "2022-08-04T10:27:44Z",
-      "content": "A new report says that Apple's biggest iPhone supplier is once again expanding its operations in India, opening another iPhone factory amid strong sales in the country and other developing Asia-Pacif\u2026 [+1839 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Vox"
-      },
-      "author": "Emily Stewart",
-      "title": "The inflation prices that broke us",
-      "description": "From chicken tenders to tampons, bacon to beer, the price hikes that irk people most.",
-      "url": "https://www.vox.com/the-goods/23290799/inflation-price-increases-gas-grocery-store",
-      "urlToImage": "https://cdn.vox-cdn.com/thumbor/op6sXQU4XpwYCFFJ4l_s8P__WdE=/0x227:1999x1274/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/23921283/GettyImages_142943504.jpg",
-      "publishedAt": "2022-08-04T11:30:00Z",
-      "content": "Inflation is a complete and total bummer. | Steven Puetzer/Getty Images\r\n\n \n\n From chicken tenders to tampons, the price hikes that are irking people most. Peter Lewis recognizes that eggs aren\u2019t the\u2026 [+11389 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Vox"
-      },
-      "author": "Zack Beauchamp",
-      "title": "The ludicrous idea that Trump is losing his grip on the GOP",
-      "description": "Somehow, people are still underestimating Donald Trump.",
-      "url": "https://www.vox.com/23287527/trump-gop-control-august-gop-primary-2022",
-      "urlToImage": "https://cdn.vox-cdn.com/thumbor/xMzpiz71rDX3U9T5c_BmifIGXUo=/0x301:4200x2500/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/23921123/AP22205012371784.jpg",
-      "publishedAt": "2022-08-04T13:00:00Z",
-      "content": "Former President Donald Trump reacts before speaking at the Turning Point USA Student Action Summit in Tampa, Florida, on July 23. | Phelan M. Ebenhack/AP\r\n\n \n\n Somehow, people are still underestimat\u2026 [+10471 chars]"
+      "author": "Alex Tabarrok",
+      "title": "Dose Stretching for the Monkeypox Vaccine",
+      "description": "We are making all the same errors with monkeypox policy that we made with Covid but we are correcting the errors more rapidly. (It remains to be seen whether we are correcting rapidly enough.) I\u2019ve already mentioned the rapid movement of some organizations to\u2026",
+      "url": "https://marginalrevolution.com/marginalrevolution/2022/08/dose-stretching-for-monkeypox-vaccine.html",
+      "urlToImage": "http://marginalrevolution.com/wp-content/uploads/2022/08/monkeypox.jpg",
+      "publishedAt": "2022-08-05T11:25:32Z",
+      "content": "Photo Credit: NIAD. https://www.flickr.com/photos/niaid/52103767506/\r\nWe are making all the same errors with monkeypox policy that we made with Covid but we are correcting the errors more rapidly. (I\u2026 [+2531 chars]"
     },
     {
       "source": {
         "id": "politico",
         "name": "Politico"
       },
-      "author": "Elena Schneider",
-      "title": "How the newest megadonor wants to change Washington",
-      "description": "Sam Bankman-Fried has a big fortune and big plans for how to spend it \u2014 including an unusual political power-building strategy.",
-      "url": "https://www.politico.com/news/2022/08/04/democratic-megadonor-sam-bankman-fried-00049048",
-      "urlToImage": "https://static.politico.com/a0/ee/f528e1cf41e9a5ceb00cad17ee0e/main.Schneider.BankmanFried.leadoverride.jpg",
-      "publishedAt": "2022-08-04T08:30:00Z",
-      "content": "What gets Gabe out of bed a twin inside a closet-turned-bedroom in a house he also shares with several roommates is preventing the next pandemic.\r\nGabe, 27, and Sam, 30, are deeply influenced by effe\u2026 [+7502 chars]"
-    },
-    {
-      "source": {
-        "id": "politico",
-        "name": "Politico"
-      },
-      "author": "David Siders and Christopher Cadelago",
-      "title": "Dems move to put a cork in the Biden-should-exit-stage-right talk",
-      "description": "A string of victories and the potential for more has not dispelled the skepticism that still persists in corners of the party.",
-      "url": "https://www.politico.com/news/2022/08/04/biden-dnc-reelection-manchin-00049746",
-      "urlToImage": "https://static.politico.com/b1/35/66fa23004e0f8b03489175ae8d6b/biden-afghanistan-90473.jpg",
-      "publishedAt": "2022-08-04T08:30:00Z",
-      "content": "That a DNC member felt the need to get his colleagues on record about their partys leader speaks to the political predicament Biden finds himself in. Less than 100 days before the midterm elections, \u2026 [+8765 chars]"
-    },
-    {
-      "source": {
-        "id": "politico",
-        "name": "Politico"
-      },
-      "author": "Helena Bottemiller Evich",
-      "title": "\u2018A movie set\u2019: Former supervisor at baby formula plant says flaws were hidden",
-      "description": "An employee account of longstanding problems raises more questions about adequacy of FDA inspections.",
-      "url": "https://www.politico.com/news/2022/08/04/baby-formula-plant-flaws-hidden-00049721",
-      "urlToImage": "https://static.politico.com/73/52/02c437db4071ab48f89d30037a98/ap22130660533526.jpg",
-      "publishedAt": "2022-08-04T08:30:00Z",
-      "content": "The plant would prep heavily before audits, the former supervisor said. The plant basically turned into a movie set where only things the higher ups wanted the FDA to see were seen.\r\nThe revelations \u2026 [+17910 chars]"
-    },
-    {
-      "source": {
-        "id": "politico",
-        "name": "Politico"
-      },
-      "author": "Burgess Everett and Sarah Ferris",
-      "title": "The question vexing Democrats: Biden 2024?",
-      "description": "They're not abandoning him. And many are thrilled about surprising election-year wins. But that doesn't mean every lawmaker in the president's party is cheering his reelection yet.",
-      "url": "https://www.politico.com/news/2022/08/04/biden-2024-senate-democrats-00049724",
-      "urlToImage": "https://static.politico.com/f4/cd/105d45fb42d8a12fd21bdb93aaa7/https-delivery.gettyimages.com/downloads/1408120071",
-      "publishedAt": "2022-08-04T08:30:00Z",
-      "content": "And some cant understand why the question is even being asked.\r\nHes the president. I support him, and the voters decide. He decides. I dont even understand why thats a question today, said Patty Murr\u2026 [+6863 chars]"
-    },
-    {
-      "source": {
-        "id": "bleacher-report",
-        "name": "Bleacher Report"
-      },
-      "author": "Scott Polacek",
-      "title": "Hard Knocks Lead Ken Rodgers Talks Lions' Intent on Restoring Pride in B/R Interview",
-      "description": "The Detroit Lions have become somet. Those thoughts are surely some combination of negative ones, and for good reason. The franchise is coming off four...",
-      "url": "https://bleacherreport.com/articles/10044222-hard-knocks-lead-ken-rodgers-talks-lions-intent-on-restoring-pride-in-br-interview",
-      "urlToImage": "https://media.bleacherreport.com/image/upload/c_fill,g_faces,w_3800,h_2000,q_95/v1659480349/vb1hnq1pwhvdshumudrw.jpg",
-      "publishedAt": "2022-08-04T11:03:11Z",
-      "content": "Nic Antaya/Getty Images\r\nThe Detroit Lions are something of a punchline for most fans, and for good reason.\r\nThe franchise is coming off four straight last-place finishes in the NFC North and hasn't \u2026 [+9614 chars]"
+      "author": "Kate Davidson",
+      "title": "Fed's Powell pummeled from all sides over rate hikes",
+      "description": "Summers and others are skeptical the Fed can cut inflation meaningfully without a jump in unemployment.",
+      "url": "https://www.politico.com/news/2022/08/05/fed-powell-rate-hikes-00049561",
+      "urlToImage": "https://static.politico.com/80/5d/0174b4ef49d4a389908c0f3ac6dc/https-delivery.gettyimages.com/downloads/1242146673",
+      "publishedAt": "2022-08-05T08:30:00Z",
+      "content": "Unless we have a set of very surprising and positive developments, Summers told POLITICO, were not likely to see the inflation rate come all the way down to [the Feds] target without there being some\u2026 [+7711 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Platformer.news"
+        "name": "Rolling Stone"
       },
-      "author": "Casey Newton",
-      "title": "Twitter Gets Its Hands Dirty",
-      "description": "Two years after closing its PAC, the company has quietly begun giving away money again \u2014 starting with the Republican Attorneys General Association.",
-      "url": "https://www.platformer.news/p/twitter-gets-its-hands-dirty",
-      "urlToImage": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fab05f7f8-6ef5-439d-9180-f113b1c1c747_1024x1024.png",
-      "publishedAt": "2022-08-04T12:30:29Z",
-      "content": "This article was written by Judd Legum, Casey Newton, and Tesnim Zekeria. It is being published in collaboration with Popular Information.\r\nOn June 17, Twitter donated $25,000 to the Republican Attor\u2026 [+12641 chars]"
+      "author": "Jon Freeman",
+      "title": "Kelsea Ballerini Sings the Praises of \u2018The Little Things\u2019 in Breezy New Song",
+      "description": "Tune appears on Ballerini's upcoming album Subject to Change",
+      "url": "https://www.rollingstone.com/music/music-country/kelsea-ballerini-the-little-things-subject-to-change-song-1392976/",
+      "urlToImage": "https://www.rollingstone.com/wp-content/uploads/2022/08/kelseab-littlethings.jpg",
+      "publishedAt": "2022-08-05T05:23:26Z",
+      "content": "Kelsea Ballerini has an appreciation for \u201cThe Little Things,\u201d which the country singer-songwriter denotes in her newest song. Ballerini released the track, which appears on her upcoming album Subject\u2026 [+1018 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Phys.Org"
+        "name": "MIT Technology Review"
       },
-      "author": "Sarah Wild",
-      "title": "Climate change makes some volcanic plumes less effective at reducing global temperatures",
-      "description": "New analysis of ash clouds created from large volcanic eruptions shows the temporary cooling effects are changed as the environment becomes hotter.",
-      "url": "https://phys.org/news/2022-08-climate-volcanic-plumes-effective-global.html",
-      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2022/in-climate-drama-the-v.jpg",
-      "publishedAt": "2022-08-04T11:16:41Z",
-      "content": "New analysis of ash clouds created from large volcanic eruptions shows the temporary cooling effects are changed as the environment becomes hotter.\r\nOn 15 June 1991, the Mount Pinatubo volcano in the\u2026 [+8634 chars]"
+      "author": "Rhiannon Williams",
+      "title": "The Download: experimental embryos and the US monkeypox emergency",
+      "description": "This is today\u2019s edition of\u00a0The Download,\u00a0our weekday newsletter that provides a daily dose of what\u2019s going on in the world of technology. This startup wants to copy you into an embryo for organ harvesting In a search for novel forms of longevity medicine, a b\u2026",
+      "url": "https://www.technologyreview.com/2022/08/05/1056903/download-experimental-embryos-human-organ-harvesting-us-monkeypox-emergency-cases-virus/",
+      "urlToImage": "https://wp.technologyreview.com/wp-content/uploads/2022/08/Embryo-Harvest-1.jpeg?resize=1200,600",
+      "publishedAt": "2022-08-05T12:10:00Z",
+      "content": "In a search for novel forms of longevity medicine, a biotech company based in Israel says it intends to create embryo-stage versions of people in order to harvest tissues for use in transplant treatm\u2026 [+4166 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Contentmarketinginstitute.com"
+        "name": "New York Times"
       },
-      "author": "Ann Gynn",
-      "title": "40+ Mistakes Derailing Your Content Team (and How To Fix Them)",
-      "description": "Managing content teams isn\u2019t easy. But the exhilaration and productivity that come from successful collaboration make it worthwhile. Steer around these common team pitfalls with help from Content Marketing World speakers. Continue reading \u2192",
-      "url": "https://contentmarketinginstitute.com/articles/mistakes-derailing-content-team",
-      "urlToImage": "https://contentmarketinginstitute.com/wp-content/uploads/2022/08/mistakes-derailing-content-team.png",
-      "publishedAt": "2022-08-04T10:00:01Z",
-      "content": "No content marketer works alone. Even if people who make up a content team of one still engage with colleagues, clients, and contractors. And everyone reports to a boss.\r\nGreat, productive interactio\u2026 [+27396 chars]"
+      "author": "Lydia DePillis",
+      "title": "A job market slowdown is expected as the Federal Reserve taps the brakes.",
+      "description": "With job openings declining and layoffs ticking up, monthly employment gains will be harder to come by.",
+      "url": "https://www.nytimes.com/2022/08/05/business/economy/a-job-market-slowdown-is-expected-as-the-federal-reserve-taps-the-brakes.html",
+      "urlToImage": "https://static01.nyt.com/images/2022/08/02/business/jobs-promo/jobs-promo-facebookJumbo.jpg",
+      "publishedAt": "2022-08-05T09:04:31Z",
+      "content": "And, lately, there have been signs that the economic headwinds are affecting the labor market as well. Job openings have fallen from their record highs in the spring, driven down by waning demand for\u2026 [+1021 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "New York Times"
+      },
+      "author": "Mark Walker and Niraj Chokshi",
+      "title": "Amtrak Rewarded Executives With Six-Figure Bonuses as Rail Service Struggled",
+      "description": "Most of the top leaders received bonuses above $200,000 in the last fiscal year, as Amtrak worked to recover from the coronavirus pandemic.",
+      "url": "https://www.nytimes.com/2022/08/05/us/politics/amtrak-executive-pay-bonus.html",
+      "urlToImage": "https://static01.nyt.com/images/2022/08/04/business/04amtrak-01/04amtrak-01-facebookJumbo.jpg",
+      "publishedAt": "2022-08-05T09:00:27Z",
+      "content": "John Samuelsen, the president of the Transport Workers Union, whose members include nearly 1,500 service workers, mechanics and inspectors at Amtrak, said he was disgusted by the payouts.\r\nThey gave \u2026 [+1451 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "New York Times"
+      },
+      "author": "The New York Times",
+      "title": "U.S. Job Growth Expected to Slow in July: Live Updates",
+      "description": "The report will be scrutinized for signs that a slowing economy is weighing on hiring and wage growth.",
+      "url": "https://www.nytimes.com/live/2022/08/05/business/jobs-report-july-economy",
+      "urlToImage": "https://static01.nyt.com/images/2022/08/02/business/jobs-promo/jobs-promo-facebookJumbo.jpg",
+      "publishedAt": "2022-08-05T10:35:37Z",
+      "content": "Ever since supply chain problems and the war in Ukraine sent prices skyrocketing, the brightest feature of the economy has been robust job growth.Credit...Scott McIntyre for The New York Times\r\nFor m\u2026 [+2570 chars]"
     },
     {
       "source": {
@@ -892,12 +762,12 @@
         "name": "Al Jazeera English"
       },
       "author": "Al Jazeera",
-      "title": "Toyota\u2019s profits plunge 42 percent on chip shortages, COVID curbs",
-      "description": "Japanese carmaker has repeatedly cut production targets due to global chip shortage and China's pandemic restrictions.",
-      "url": "https://www.aljazeera.com/economy/2022/8/4/toyotas-profits-plunge-42-percent-on-chip-shortages-covid-curbs",
-      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2021/03/toyota.jpg?resize=1200%2C630",
-      "publishedAt": "2022-08-04T05:33:40Z",
-      "content": "Toyota Motor Corp has posted a 42 percent decline in quarterly operating profits as the Japanese automaker is squeezed by supply constraints and rising costs.\r\nOperating profit for the three months e\u2026 [+1571 chars]"
+      "title": "Japan\u2019s households raise spending for first time in 4 months",
+      "description": "Spending jumps 3.5 percent in June amid rebound in domestic travel.",
+      "url": "https://www.aljazeera.com/economy/2022/8/5/japans-households-raise-spending-for-first-time-in-4-months",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2020/09/7c0607b8ed7645aa81b614139a076d99_18.jpeg?fit=999%2C562",
+      "publishedAt": "2022-08-05T01:26:42Z",
+      "content": "Japans households increased spending for the first time in four months in June, as demand for travel services rose in a positive sign for broader economic recovery prospects.\r\nSpending jumped 3.5 per\u2026 [+1466 chars]"
     },
     {
       "source": {
@@ -905,12 +775,25 @@
         "name": "Al Jazeera English"
       },
       "author": "Al Jazeera",
-      "title": "Investors dump Chinese stocks, bonds amid global recession fears",
-      "description": "Trade group report points to sixth consecutive month of foreign outflows from China's $20 trillion bond market.",
-      "url": "https://www.aljazeera.com/economy/2022/8/4/investors-dump-chinese-stocks-bonds-amid-global-recession-fears",
-      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2022/08/2007-07-05T120000Z_870666894_GM1DVQDKLMAA_RTRMADP_3_MARKETS-CHINA-STOCKS-CLOSE.jpg?resize=1200%2C630",
-      "publishedAt": "2022-08-04T07:53:36Z",
-      "content": "Foreign investors continued to cut holdings in Chinese bonds in July and dumped equities for the first time in four months, according to a report by the Institute of International Finance (IIF).\r\nEme\u2026 [+1874 chars]"
+      "title": "APEC slashes growth forecasts on inflation, Ukraine risks",
+      "description": "Intergovernmental forum forecasts 2.5 percent growth in 2022, down from 3.2 percent in May.",
+      "url": "https://www.aljazeera.com/economy/2022/8/5/apec-slashes-growth-forecasts-on-inflation-ukraine-risks",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2022/08/2010-11-09T000000Z_1580292676_GM1E6B91NPF01_RTRMADP_3_APEC.jpg?resize=1200%2C630",
+      "publishedAt": "2022-08-05T04:50:35Z",
+      "content": "Asia-Pacific Economic Cooperation (APEC) has slashed its economic growth forecast for the region, citing risks including soaring inflation, the Ukraine war and new mutations of COVID-19.\r\nThe APEC re\u2026 [+2085 chars]"
+    },
+    {
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "author": "Zoe Osborne",
+      "title": "Stung by China\u2019s tariffs, Australian growers embrace new markets",
+      "description": "Exporters of barley and wine are seeking to diversify after more than two years of Chinese trade restrictions.",
+      "url": "https://www.aljazeera.com/economy/2022/8/5/stung-by-chinas-tariffs-australian-growers-embrace-new-markets",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2022/08/365274761.jpg?resize=1200%2C630",
+      "publishedAt": "2022-08-05T07:33:10Z",
+      "content": "Sydney, Australia Brett Hosking, a grain farmer in Victoria, Australia, has taken a significant cut in profits since China slapped an 80.5 percent tariff on Australian malt barley in 2020.\r\nNow, barl\u2026 [+5987 chars]"
     },
     {
       "source": {
@@ -918,168 +801,181 @@
         "name": "Al Jazeera English"
       },
       "author": "Al Jazeera",
-      "title": "Bank of England raises interest rates in bid to tame inflation",
-      "description": "UK's central bank hikes key interest rate to 1.75 percent, its highest level since 2008, and warns of recession ahead.",
-      "url": "https://www.aljazeera.com/news/2022/8/4/bank-of-england-raises-interest-rates-in-bid-to-tame-inflation",
-      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2022/08/AP22216391156316.jpg?resize=1200%2C630",
-      "publishedAt": "2022-08-04T13:43:51Z",
-      "content": "The United Kingdoms central bank has made its biggest increase to interest rates in 27 years in a bid to smother soaring inflation and warned the country faces a long recession ahead.\r\nReeling from a\u2026 [+3429 chars]"
+      "title": "Xi tested as Chinese nationalists bristle at Pelosi Taiwan visit",
+      "description": "China's Xi Jinping needs to show tough response to Nancy Pelosi's Taiwan visit without damaging the Chinese economy.",
+      "url": "https://www.aljazeera.com/news/2022/8/5/xi-tested-as-chinese-nationalists-bristle-at-pelosi-taiwan-visit",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2022/08/AP22215258236515.jpg?resize=1200%2C630",
+      "publishedAt": "2022-08-05T10:54:03Z",
+      "content": "The political fallout from the recent visit to Taiwan by Nancy Pelosi, the speaker of the United States House of Representatives, continues to reverberate in China.\r\nPelosis visit to the self-governi\u2026 [+7376 chars]"
     },
     {
       "source": {
         "id": "al-jazeera-english",
         "name": "Al Jazeera English"
       },
-      "author": "Al Jazeera",
-      "title": "Why China is not sanctioning Taiwan\u2019s key chip industry",
-      "description": "Beijing relies on self-ruled island's semiconductors to keep its economy on track.",
-      "url": "https://www.aljazeera.com/economy/2022/8/4/why-china-is-not-sanctioning-taiwans-crucial-tech-industry",
-      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2022/04/2022-03-10T090443Z_923271042_RC2FHS9TSQCC_RTRMADP_3_TAIWAN-SEMICONDUCTORS-TALENT.jpg?resize=1200%2C630",
-      "publishedAt": "2022-08-04T03:58:55Z",
-      "content": "China has turned to the familiar playbook of trade restrictions following US House of Representatives Speaker Nancy Pelosis visit to Taiwan.\r\nAfter Pelosi proceeded with her trip to the democraticall\u2026 [+5059 chars]"
+      "author": "Andrew Nachemson",
+      "title": "Singapore executions under scrutiny as more hanged for drugs",
+      "description": "Questions being asked over speed of executions, legal representation, and the ethnicities of the condemned.",
+      "url": "https://www.aljazeera.com/news/2022/8/5/singapore-executions-under-scrutiny-as-more-hanged-for-drugs",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2022/08/000_327J6PH.jpg?resize=1200%2C630",
+      "publishedAt": "2022-08-05T03:21:05Z",
+      "content": "When Angelia Pranthaman walked on stage in Kuala Lumpur, Malaysia, to unveil a new song written by her brother on death row, she told a story about the ancient Greek philosopher Socrates.\r\nLike Panni\u2026 [+9624 chars]"
     },
     {
       "source": {
-        "id": null,
-        "name": "GSMArena.com"
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
       },
-      "author": "Yordan",
-      "title": "Newly announced ROG Phone 6 Pro quickly takes AnTuTu crown in July",
-      "description": "Qualcomm introduced the Snapdragon 8+ Gen 1 chipset as a mild upgrade over the regular 8 Gen 1, and the first phones with the new platform arrived in July. AnTuTu just released its monthly list of best-performing Android phones, and we are not surprised the s\u2026",
-      "url": "https://www.gsmarena.com/newly_announced_rog_phone_6_pro_quickly_takes_antutu_crown_in_july-news-55290.php",
-      "urlToImage": "https://fdn.gsmarena.com/imgroot/news/22/08/antutu-july-2022/-952x498w6/gsmarena_001.jpg",
-      "publishedAt": "2022-08-04T07:30:02Z",
-      "content": "Qualcomm introduced the Snapdragon 8+ Gen 1 chipset as a mild upgrade over the regular 8 Gen 1, and the first phones with the new platform arrived in July. AnTuTu just released its monthly list of be\u2026 [+2248 chars]"
+      "author": "Muhammed Afsal",
+      "title": "\u2018Adrenaline rush\u2019: How street cricket has evolved in Qatar",
+      "description": "Cricket has gone from friendly matches to competitive fixtures on dusty fields and car parks.",
+      "url": "https://www.aljazeera.com/sports/2022/8/5/adrenaline-rush-how-street-cricket-has-evolved-in-qatar",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2022/08/cricket-photos-by-shiraz-4.jpg?resize=1200%2C630",
+      "publishedAt": "2022-08-05T06:56:59Z",
+      "content": "Doha, Qatar It was a Friday afternoon at Al-Thumama ground just outside Qatars capital Doha.\r\nAbout two hours before sunset, the heat was bearable. The ground features sand and sharp rocks. Windy con\u2026 [+6621 chars]"
     },
     {
       "source": {
         "id": "bloomberg",
         "name": "Bloomberg"
       },
-      "author": "Katie Roof",
-      "title": "Travel Firm TripActions Is Nearing a Confidential IPO Filing, Sources Say",
-      "description": "TripActions, a travel startup, is close to filing confidentially for an initial public offering, according to people familiar with the matter, as people get back on planes and trains following the easing of the Covid-19 pandemic.",
-      "url": "https://www.bloomberg.com/news/articles/2022-08-04/travel-firm-tripactions-is-said-to-near-confidential-ipo-filing",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iP3djYg.e.jk/v0/1200x617.jpg",
-      "publishedAt": "2022-08-04T07:26:38Z",
-      "content": "TripActions, a travel startup, is close to filing confidentially for an initial public offering, according to people familiar with the matter, as people get back on planes and trains following the ea\u2026 [+1322 chars]"
+      "author": "Isabella Anderson",
+      "title": "SAS Reports 32% Drop in Traffic, Revealing Impact From Strike",
+      "description": "SAS AB reported a 32% plunge in passenger traffic last month, revealing the impact a strike had on the troubled Scandinavian airline and its customers.",
+      "url": "https://www.bloomberg.com/news/articles/2022-08-05/sas-reports-32-drop-in-traffic-revealing-impact-from-strike",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iOrKI5nVpEQ8/v0/1200x800.jpg",
+      "publishedAt": "2022-08-05T09:41:31Z",
+      "content": "SAS AB reported a 32% plunge in passenger traffic last month, revealing the impact a strike had on the troubled Scandinavian airline and its customers. \u00a0\r\nThe total number of passengers fell to 1.3 m\u2026 [+1199 chars]"
     },
     {
       "source": {
         "id": "bloomberg",
         "name": "Bloomberg"
       },
-      "author": "Charlotte Ryan",
-      "title": "Rolls-Royce Sees Jet Engine Demand Boosted by Long-Haul Revival",
-      "description": "Rolls-Royce Holdings Plc said increased travel and a jump in maintenance revenue should help the UK jet-engine maker meet full-year financial targets after long-haul flying began to rebound in the first half.",
-      "url": "https://www.bloomberg.com/news/articles/2022-08-04/rolls-royce-sees-jet-engine-demand-boosted-by-long-haul-revival",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ilXEM49ZrqSc/v1/1200x900.jpg",
-      "publishedAt": "2022-08-04T06:20:14Z",
-      "content": "Rolls-Royce Holdings Plc said increased travel and a jump in maintenance revenue should help the UK jet-engine maker meet full-year financial targets after long-haul flying began to rebound in the fi\u2026 [+261 chars]"
+      "author": "Christopher Jasper, Manus Cranny",
+      "title": "Airport Labor Crisis Goes Beyond Pay, Ground-Handling Giant Says",
+      "description": "Airports need to address their unpopularity as a workplace if they\u2019re to resolve a labor crunch that\u2019s spawned a summer of travel chaos, the world\u2019s biggest ground-handling firm said.",
+      "url": "https://www.bloomberg.com/news/articles/2022-08-05/airport-labor-crisis-goes-beyond-pay-ground-handling-giant-says",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i6Y.K27QxHX0/v1/1200x900.jpg",
+      "publishedAt": "2022-08-05T09:18:56Z",
+      "content": "Sign up for\u00a0our Middle East newsletter and follow us\u00a0@middleeast\u00a0for news on the region.\r\nAirports need to address their unpopularity as a workplace if theyre to resolve a labor crunch thats spawned \u2026 [+2212 chars]"
     },
     {
       "source": {
         "id": "bloomberg",
         "name": "Bloomberg"
       },
-      "author": null,
-      "title": "China Locks Down Part of Tropical Tourist Hub as Covid Spreads",
-      "description": "China partially locked down the beach resort city of Sanya after detecting about two dozen new virus cases this week, stranding thousands of tourists at one of the country\u2019s most popular summer spots.",
-      "url": "https://www.bloomberg.com/news/articles/2022-08-04/china-s-hawaii-partially-locks-down-as-covid-outbreak-grows",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iHei_bqrSyzE/v1/1200x735.jpg",
-      "publishedAt": "2022-08-04T02:48:31Z",
-      "content": "China partially locked down the beach resort city of Sanya after detecting about two dozen new virus cases this week, stranding thousands of tourists at one of the countrys most popular summer spots.\u2026 [+2208 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Phys.Org"
-      },
-      "author": "Victoria Pike Bond",
-      "title": "Demographic dilemma: Slowing population growth, not pandemic, at the root of US worker shortage",
-      "description": "Supply chain struggles have been widely blamed for the inability to meet consumer and business demand throughout the pandemic. While fixing the supply chain should be a top priority, it is worker scarcity, driven by the lack of basic, long-term population gro\u2026",
-      "url": "https://phys.org/news/2022-08-demographic-dilemma-population-growth-pandemic.html",
-      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2022/help-wanted.jpg",
-      "publishedAt": "2022-08-04T13:48:30Z",
-      "content": "Supply chain struggles have been widely blamed for the inability to meet consumer and business demand throughout the pandemic. While fixing the supply chain should be a top priority, it is worker sca\u2026 [+4889 chars]"
+      "author": "Megan Hess",
+      "title": "Our Best Reads of the Week",
+      "description": "With all eyes on Taiwan this week, it was easy to miss some of the more hidden stories: China\u2019s ultra-rich are losing a major escape route to Europe, satellite images of sweltering cites show where cooling strategies are working, and some podcast guests are p\u2026",
+      "url": "https://www.bloomberg.com/news/newsletters/2022-08-05/our-best-reads-of-the-week",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ibXzvF38ufns/v0/1200x800.jpg",
+      "publishedAt": "2022-08-05T08:41:38Z",
+      "content": "With all eyes \r\non Taiwan this week, it was easy to miss some of the more hidden stories: Chinas ultra-rich \r\nare losing a major escape route to Europe, \r\nsatellite images of sweltering cites show wh\u2026 [+3387 chars]"
     },
     {
       "source": {
         "id": "associated-press",
         "name": "Associated Press"
       },
-      "author": "Darlene Superville",
-      "title": "Jill Biden carries out new mission in 2nd year as first lady...",
-      "description": "WASHINGTON (AP) \u2014 Jill Biden  barnstormed the country during her debut year as first lady as if on a one-woman mission to help her husband's administration tackle the problem of the moment: getting people vaccinated and boosted against the deadly COVID-19 pan\u2026",
-      "url": "https://apnews.com/article/russia-ukraine-biden-covid-health-congress-87777bed2d52956acdefa43e1babd923",
-      "urlToImage": "https://storage.googleapis.com/afs-prod/media/65bced33951440448c1a55b37a314d21/3000.jpeg",
-      "publishedAt": "2022-08-04T12:10:38Z",
-      "content": "WASHINGTON (AP) Jill Biden barnstormed the country during her debut year as first lady as if on a one-woman mission to help her husbands administration tackle the problem of the moment: getting peopl\u2026 [+6760 chars]"
-    },
-    {
-      "source": {
-        "id": "associated-press",
-        "name": "Associated Press"
-      },
-      "author": "Matthew Lee",
-      "title": "US-China ties on a precipice after Pelosi visit to Taiwan...",
-      "description": "US-China ties on a precipice after Pelosi visit to Taiwan...\r\n\n \n \n \n (Top headline, 1st story, link)\r\n\n \r\n\n \r\n\n \n Related stories:'AMERICAN WITCH'...\r\nTaiwan defiant...\r\nDrills invade waters...\r\nMissiles Over Island...\r\nBlockade begins...\r\n'Communist China D\u2026",
-      "url": "https://apnews.com/article/taiwan-asia-beijing-china-taipei-430ee6c9e64c2695057bfcbab4ba3bc4",
-      "urlToImage": "https://storage.googleapis.com/afs-prod/media/d6ac06119b344b5ba31f4ec1543694b1/3000.jpeg",
-      "publishedAt": "2022-08-04T00:28:37Z",
-      "content": "WASHINGTON (AP) U.S.-China relations are teetering on a precipice after House Speaker Nancy Pelosis visit to Taiwan. \r\nPelosi received a rapturous welcome in Taipei and was applauded with strong bipa\u2026 [+7112 chars]"
+      "author": "Jonathan J. Cooper",
+      "title": "MAGA FOREVER",
+      "description": "PHOENIX (AP) \u2014 Kari Lake, a former news anchor who walked away from her journalism career and was embraced by Donald Trump and his staunch supporters, won the Republican primary for Arizona governor on Thursday.",
+      "url": "https://apnews.com/article/kari-lake-arizona-governor-election-karrin-taylor-robson-e8f6cb66e63bc63464d149112d77d2a4",
+      "urlToImage": "https://storage.googleapis.com/afs-prod/media/faba5def032942e98544f6839633d3e2/3000.jpeg",
+      "publishedAt": "2022-08-05T04:19:37Z",
+      "content": "PHOENIX (AP) Kari Lake, a former news anchor who walked away from her journalism career and was embraced by Donald Trump and his staunch supporters, won the Republican primary for Arizona governor on\u2026 [+4861 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Yahoo Entertainment"
+        "name": "FiveThirtyEight"
       },
-      "author": "Ryan Teague Beckwith",
-      "title": "2020 Denial Moves to Forefront of 2022...",
-      "description": "2020 Denial Moves to Forefront of 2022...\r\n\n \n \n \n (First column, 5th story, link)\r\n\n \r\n\n \r\n\n \n Related stories:NATE SILVER: 58% CHANCE DEMS WILL KEEP SENATE...\r\nMAGA BOOM OR BUST?\r\nTRUMP-BACKED LAKE IN CLOSE AZ RACE... DEVELOPING...\r\nRESULTS...\r\n'Already det\u2026",
-      "url": "https://finance.yahoo.com/news/arizona-republicans-thrust-2020-denial-175437318.html",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/Sm5yB115eh9yVdogwRPCaw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/uu/api/res/1.2/gaD8XFp813E1ImrNhTmx9A--~B/aD0xMzMzO3c9MjAwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/bloomberg_politics_602/14c02560d972f6038c5765fd0136e778",
-      "publishedAt": "2022-08-04T00:28:38Z",
-      "content": "(Bloomberg) -- Republicans in Arizona chose Senate and secretary of state nominees -- and likely the winner of the governors race -- who have put 2020 election denial at the center of their campaigns\u2026 [+3847 chars]"
-    },
-    {
-      "source": {
-        "id": "the-wall-street-journal",
-        "name": "The Wall Street Journal"
-      },
-      "author": "Katherine Clarke",
-      "title": "Side-by-Side Florida Mansions Built for Identical Twins Ask $54 Million...",
-      "description": "Side-by-Side Florida Mansions Built for Identical Twins Ask $54 Million...\r\n\n \n \n \n (First column, 21st story, link)",
-      "url": "https://www.wsj.com/articles/side-by-side-florida-mansions-built-for-identical-twins-ask-54-million-11659557613",
-      "urlToImage": "https://images.wsj.net/im-596091/social",
-      "publishedAt": "2022-08-04T00:28:39Z",
-      "content": "A pair of Florida mansions built for identical twins is coming on the market for $54 million.The homes sit on more than 11 acres in Southwest Ranches, an affluent town roughly 20 miles from Fort Laud\u2026 [+3486 chars]"
-    },
-    {
-      "source": {
-        "id": "the-wall-street-journal",
-        "name": "The Wall Street Journal"
-      },
-      "author": "Callum Borchers",
-      "title": "The $400,000-a-Year Assistant...",
-      "description": "Wealthy executives are shelling out six figures for sophisticated aides smart enough to handle complicated tasks yet humble enough to take on tedious ones",
-      "url": "https://www.wsj.com/articles/paying-400-000-for-an-executive-assistant-do-it-all-aides-are-pricier-than-ever-11659553138",
-      "urlToImage": "https://images.wsj.net/im-596611/social",
-      "publishedAt": "2022-08-04T12:10:39Z",
-      "content": "In the penthouse of society, there is a crisis: no one to charter the jet, too few aides with the versatility to navigate earnings reports along with the wine lists and, for heavens sake, who is goin\u2026 [+6069 chars]"
+      "author": "Alex Samuels and Zoha Qamar, \nAlex Samuels\nhttps://fivethirtyeight.com/contributors/alex-samuels/\nAlex.L.Samuels@abc.com",
+      "title": "Most Americans Aren\u2019t Paying Attention To The Monkeypox Outbreak",
+      "description": "Welcome to Pollapalooza, our weekly polling roundup. U.S. health officials declared monkeypox a public health emergency on Thursday, a move that frees up additional resources for vaccines and other treatments to help control the virus\u2019s outbreak. The federal \u2026",
+      "url": "https://fivethirtyeight.com/features/most-americans-arent-paying-attention-to-the-monkeypox-outbreak/",
+      "urlToImage": "https://fivethirtyeight.com/wp-content/uploads/2022/08/0804_POLLA-16x9-1.jpg?w=712",
+      "publishedAt": "2022-08-05T10:00:00Z",
+      "content": "Welcome to Pollapalooza, our weekly polling roundup.\r\nU.S. health officials declared monkeypox a public health emergency on Thursday, a move that frees up additional resources for vaccines and other \u2026 [+7269 chars]"
     },
     {
       "source": {
         "id": null,
         "name": "Motley Fool"
       },
-      "author": "newsfeedback@fool.com (Anders Bylund)",
-      "title": "Is It Time to Buy the S&P 500's 4 Worst-Performing Stocks?",
-      "description": "Some of the worst performers on the premier market index are poised for stunning rebounds. Others are not.",
-      "url": "https://www.fool.com/investing/2022/08/04/is-it-time-to-buy-the-sp-500s-4-worst-performing-s/",
-      "urlToImage": "https://g.foolcdn.com/editorial/images/694111/picking-up-gold-nuggets-from-the-dirt.jpg",
-      "publishedAt": "2022-08-04T12:23:00Z",
-      "content": "The stock market has been brutal in 2022. By Wednesday evening's closing bell, only 26% of the 503 tickers on the S&amp;P 500\u00a0market index could claim positive year-to-date returns. Among the remaini\u2026 [+5478 chars]"
+      "author": "newsfeedback@fool.com (Natalie Forbes)",
+      "title": "Should You Really Care About This Company's Short-Term Success?",
+      "description": "Abbott Laboratories' growth looks much less impressive after removing sales from COVID-19 diagnostics.",
+      "url": "https://www.fool.com/investing/2022/08/05/should-you-really-care-about-this-companys-short-t/",
+      "urlToImage": "https://g.foolcdn.com/editorial/images/693475/diabetes-patient-with-continuous-glucose-monitor.jpg",
+      "publishedAt": "2022-08-05T10:00:00Z",
+      "content": "Medical-device company Abbott Laboratories(ABT 0.10%) reported impressive second-quarter earnings and raised guidance for the full year. COVID-19 diagnostic tests have given the company several quart\u2026 [+4534 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Motley Fool"
+      },
+      "author": "newsfeedback@fool.com (Matthew Frankel, CFP\u00ae and Jason Hall)",
+      "title": "Why I Bought More of This Under-the-Radar Stock",
+      "description": "This healthcare business has tailwinds behind it.",
+      "url": "https://www.fool.com/investing/2022/08/05/why-i-bought-more-of-this-under-the-radar-stock/",
+      "urlToImage": "https://g.foolcdn.com/editorial/images/693791/covid-test.jpg",
+      "publishedAt": "2022-08-05T10:30:00Z",
+      "content": "Fulgent Genetics(FLGT 1.29%) was one of the first companies to develop a PCR COVID-19 test and it has been highly lucrative. In this segment of \"Backstage Pass\" on Motley Fool Live, recorded on July \u2026 [+2774 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Motley Fool"
+      },
+      "author": "newsfeedback@fool.com (Justin Pope)",
+      "title": "Can This Beaten-Down Stock Make a Comeback?",
+      "description": "Somebody call the doctor -- this stock has fallen ill.",
+      "url": "https://www.fool.com/investing/2022/08/05/can-this-beaten-down-stock-make-a-comeback/",
+      "urlToImage": "https://g.foolcdn.com/editorial/images/693642/telehealth-doctor-virtual-visit-woman.jpg",
+      "publishedAt": "2022-08-05T10:20:00Z",
+      "content": "Telehealth company Teladoc Health(TDOC -2.70%) has been one of Wall Street's scariest roller coasters over the past three years. After it rocketed more than 700% during the height of the COVID-19 pan\u2026 [+3296 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Motley Fool"
+      },
+      "author": "newsfeedback@fool.com (Motley Fool Transcribing)",
+      "title": "Opko Health (OPK) Q2 2022 Earnings Call Transcript",
+      "description": "OPK earnings call for the period ending June 30, 2022.",
+      "url": "https://www.fool.com/earnings/call-transcripts/2022/08/05/opko-health-opk-q2-2022-earnings-call-transcript/",
+      "urlToImage": "https://g.foolcdn.com/editorial/images/1/featured-transcript-logo-template.jpg",
+      "publishedAt": "2022-08-05T08:00:38Z",
+      "content": "Image source: The Motley Fool.\r\nOpko Health\u00a0(OPK -1.64%)Q2\u00a02022 Earnings CallAug 04, 2022, 4:30 p.m. ET\r\nContents:\r\n<ul><li>Prepared Remarks</li><li>Questions and Answers</li><li>Call Participants</l\u2026 [+28522 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Motley Fool"
+      },
+      "author": "newsfeedback@fool.com (Sean Williams)",
+      "title": "The 2 Biggest Social Security Problems No One Is Talking About",
+      "description": "Baby boomers retiring and cost-of-living adjustments (COLA) not keeping up with inflation only tell half the story of what's wrong with Social Security.",
+      "url": "https://www.fool.com/investing/2022/08/05/2-big-social-security-problems-no-one-talk-about/",
+      "urlToImage": "https://g.foolcdn.com/editorial/images/693237/senior-staring-into-distance-thinking-getty.jpg",
+      "publishedAt": "2022-08-05T09:06:00Z",
+      "content": "Social Security is vital to the financial well-being of our nation's retired workers, as well as millions of workers with disabilities and the survivors of deceased workers.\r\nThe Center on Budget and\u2026 [+5465 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Motley Fool"
+      },
+      "author": "newsfeedback@fool.com (BJ Cook)",
+      "title": "This Stock Could Lead China's Reopening Recovery",
+      "description": "COVID-related lockdowns dealt a blow to Yum China in its second quarter, but the company showed it was resilient.",
+      "url": "https://www.fool.com/investing/2022/08/05/this-stock-could-lead-chinas-reopening-recovery/",
+      "urlToImage": "https://g.foolcdn.com/editorial/images/693456/yumc.jpg",
+      "publishedAt": "2022-08-05T12:32:00Z",
+      "content": "Yum China (YUMC 3.54%), the operator of KFC and Pizza Hut in China, recently announced a solid quarterly earnings report -- especially solid, considering that its customers weren't allowed to leave t\u2026 [+3042 chars]"
     },
     {
       "source": {
@@ -1087,12 +983,25 @@
         "name": "Motley Fool"
       },
       "author": "newsfeedback@fool.com (Brent Nyitray, CFA)",
-      "title": "Here's Why Rising Home Prices Help Avalon Bay",
-      "description": "Avalon Bay is expanding into the right markets.",
-      "url": "https://www.fool.com/investing/2022/08/04/heres-why-rising-home-prices-help-avalon-bay/",
-      "urlToImage": "https://g.foolcdn.com/editorial/images/693491/luxury-apartment-buildings.jpg",
-      "publishedAt": "2022-08-04T12:15:00Z",
-      "content": "Apartment real estate investment trusts (REITs) had a rough go of it during the past couple of years as COVID-19 caused a surge in delinquencies, and companies were often forced to make concessions t\u2026 [+3482 chars]"
+      "title": "Here's Why Things Might Be Looking Up For Annaly Capital",
+      "description": "The clouds may be parting for the beleaguered mortgage REIT sector.",
+      "url": "https://www.fool.com/investing/2022/08/05/heres-why-things-might-be-looking-up-for-annaly/",
+      "urlToImage": "https://g.foolcdn.com/editorial/images/693800/interest-rates.jpg",
+      "publishedAt": "2022-08-05T09:40:00Z",
+      "content": "Mortgage real estate investment trusts (REITs) have been put through the wringer since the beginning of COVID-19. First, they suffered through margin calls, then a refinancing wave, and now a hawkish\u2026 [+3590 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Motley Fool"
+      },
+      "author": "newsfeedback@fool.com (Timothy Green)",
+      "title": "This Grocery Store Stock Is Crushing It",
+      "description": "Sprouts is growing sales and profits despite sky-high inflation.",
+      "url": "https://www.fool.com/investing/2022/08/05/this-grocery-store-stock-is-crushing-it/",
+      "urlToImage": "https://g.foolcdn.com/editorial/images/694373/woman-leaving-grocery-store-mobile-pay.jpg",
+      "publishedAt": "2022-08-05T10:25:00Z",
+      "content": "The grocery-store industry is tough under normal conditions. Margins are thin, products can spoil, and effectively keeping costs down without hurting the customer experience is no walk in the park.\r\n\u2026 [+3412 chars]"
     },
     {
       "source": {
@@ -1100,168 +1009,12 @@
         "name": "Motley Fool"
       },
       "author": "newsfeedback@fool.com (Motley Fool Transcribing)",
-      "title": "McKesson (MCK) Q1 2023 Earnings Call Transcript",
-      "description": "MCK earnings call for the period ending June 30, 2022.",
-      "url": "https://www.fool.com/earnings/call-transcripts/2022/08/04/mckesson-mck-q1-2023-earnings-call-transcript/",
+      "title": "Lyft (LYFT) Q2 2022 Earnings Call Transcript",
+      "description": "LYFT earnings call for the period ending June 30, 2022.",
+      "url": "https://www.fool.com/earnings/call-transcripts/2022/08/05/lyft-lyft-q2-2022-earnings-call-transcript/",
       "urlToImage": "https://g.foolcdn.com/editorial/images/1/featured-transcript-logo-template.jpg",
-      "publishedAt": "2022-08-04T05:00:49Z",
-      "content": "Image source: The Motley Fool.\r\nMcKesson\u00a0(MCK -2.38%)Q1\u00a02023 Earnings CallAug 03, 2022, 4:30 p.m. ET\r\nContents:\r\n<ul><li>Prepared Remarks</li><li>Questions and Answers</li><li>Call Participants</li><\u2026 [+55247 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Motley Fool"
-      },
-      "author": "newsfeedback@fool.com (Alicia Kelso)",
-      "title": "McDonald's Just Concluded Its Beyond Meat Test. Where Does the Plant-Based Stock Go From Here?",
-      "description": "Analysts have reported that sales of the McPlant, made in partnership with Beyond Meat, were lower than expected.",
-      "url": "https://www.fool.com/investing/2022/08/04/mcdonalds-just-concluded-its-beyond-meat-test-wher/",
-      "urlToImage": "https://g.foolcdn.com/editorial/images/693427/fast-food-hamburger-fries-drink-getty-1.jpg",
-      "publishedAt": "2022-08-04T11:21:00Z",
-      "content": "Beyond Meat(BYND 2.31%) had plenty of momentum during its early days of a three-year global partnership with McDonald's (MCD 0.40%), signed in February 2021. Demand for meat alternatives was growing \u2026 [+2555 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Motley Fool"
-      },
-      "author": "newsfeedback@fool.com (Lawrence Nga)",
-      "title": "Why Shopify Lost 80% of Its Market Cap",
-      "description": "Shopify is unlikely to repeat the growth rate it achieved during depths of the pandemic.",
-      "url": "https://www.fool.com/investing/2022/08/04/why-shopify-lost-80-of-its-market-cap/",
-      "urlToImage": "https://g.foolcdn.com/editorial/images/692566/computers-office-getty-6217.jpg",
-      "publishedAt": "2022-08-04T10:11:00Z",
-      "content": "It has been a fruitful ride for long-term Shopify\u00a0(SHOP 11.10%) investors. Since its IPO, the stock has risen by more than 1,300%, turning $1 into more than $14. Recent investors, however, face a dif\u2026 [+3993 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Motley Fool"
-      },
-      "author": "newsfeedback@fool.com (Sean Williams)",
-      "title": "Apple Has Been Dethroned as the Most Held Robinhood Stock: Here's What Replaced It",
-      "description": "There's a new \"Apple\" of retail investors' eyes.",
-      "url": "https://www.fool.com/investing/2022/08/04/apple-dethroned-as-the-most-held-robinhood-stock/",
-      "urlToImage": "https://g.foolcdn.com/editorial/images/693765/smartphone-retail-investing-robinhood-buy-sell-retire-stock-market-crypto-getty.jpg",
-      "publishedAt": "2022-08-04T09:21:00Z",
-      "content": "Last year, retail investors made their presence known to Wall Street like never before. Online trading platforms like Robinhood(HOOD 11.70%), which have been especially popular among the retail crowd\u2026 [+6705 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Motley Fool"
-      },
-      "author": "newsfeedback@fool.com (Sean Williams)",
-      "title": "3 Ultra-High-Yield Dividend Stocks to Buy Hand Over Fist in August",
-      "description": "These passive-income powerhouses, with yields ranging from 7% to 11.4%, are begging to be bought by opportunistic investors.",
-      "url": "https://www.fool.com/investing/2022/08/04/3-ultra-high-yield-dividend-stocks-buy-in-august/",
-      "urlToImage": "https://g.foolcdn.com/editorial/images/693494/person-holding-cash-bills-money-hundred-dollar-fifty-dividend-income-invest-retire-spend-getty.jpg",
-      "publishedAt": "2022-08-04T09:06:00Z",
-      "content": "Investors have been facing an uphill climb since the first week of 2022. After hitting their respective all-time closing highs, the timeless Dow Jones Industrial Average and broad-based S&amp;P 500 s\u2026 [+8359 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Motley Fool"
-      },
-      "author": "newsfeedback@fool.com (Daniel Sparks)",
-      "title": "1 Hot Tech Stock to Watch Next Week",
-      "description": "An uncertain macro environment makes this a wildcard quarter for this popular growth stock.",
-      "url": "https://www.fool.com/investing/2022/08/04/1-hot-tech-stock-to-watch-next-week/",
-      "urlToImage": "https://g.foolcdn.com/editorial/images/694075/ttd-stock-earnings.jpg",
-      "publishedAt": "2022-08-04T13:06:00Z",
-      "content": "Shares of The Trade Desk(TTD 4.88%) have been trading sharply higher over the last few days. Perhaps some investors are betting the digital-advertising tech company can be a standout next to many adv\u2026 [+3206 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Motley Fool"
-      },
-      "author": "newsfeedback@fool.com (Bram Berkowitz)",
-      "title": "Warren Buffett Is Betting on a Stock the Market Doesn't Like",
-      "description": "The stock has performed well but operates in an industry the market is concerned about.",
-      "url": "https://www.fool.com/investing/2022/08/04/warren-buffett-is-betting-on-a-stock-the-market-do/",
-      "urlToImage": "https://g.foolcdn.com/editorial/images/693378/buffett-getty.jpeg",
-      "publishedAt": "2022-08-04T09:35:00Z",
-      "content": "In the first quarter of the year, Warren Buffett and his company\u00a0Berkshire Hathaway(BRK.A 0.97%) (BRK.B 0.95%) bought close to 9 million shares -- a roughly 2.9% stake --\u00a0in the large digital bank Al\u2026 [+4863 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Motley Fool"
-      },
-      "author": "newsfeedback@fool.com (Bram Berkowitz)",
-      "title": "How Good Is Pagaya's AI Loan Underwriting?",
-      "description": "The company uses artificial intelligence to underwrite consumer loans.",
-      "url": "https://www.fool.com/investing/2022/08/04/how-good-is-pagayas-ai-loan-underwriting/",
-      "urlToImage": "https://g.foolcdn.com/editorial/images/693334/person-stocks-7.jpg",
-      "publishedAt": "2022-08-04T10:30:00Z",
-      "content": "Following its merger with a special purpose acquisition company (SPAC), the artificial intelligence loan platform Pagaya Technologies(PGY -10.18%) has seen its stock explode higher thanks to an extre\u2026 [+4946 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Motley Fool"
-      },
-      "author": "newsfeedback@fool.com (Keith Speights)",
-      "title": "CVS Health Is Beating the Market: Is the Stock a Buy?",
-      "description": "Certain types of investors will find a lot to like with CVS Health.",
-      "url": "https://www.fool.com/investing/2022/08/04/cvs-health-beating-the-market-is-the-stock-a-buy/",
-      "urlToImage": "https://g.foolcdn.com/editorial/images/693121/pharmacist-looking-in-shelves.jpg",
-      "publishedAt": "2022-08-04T09:52:00Z",
-      "content": "Thanks to a solid run in recent weeks, the S&amp;P 500 is no longer in a bear market. But that doesn't change the fact that the index remains down by a double-digit percentage year to date. Investors\u2026 [+3867 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Motley Fool"
-      },
-      "author": "newsfeedback@fool.com (James Brumley)",
-      "title": "3 Robinhood Stocks to Buy Right Now",
-      "description": "The average investor using the commission-free trading app is picking quality stocks.",
-      "url": "https://www.fool.com/investing/2022/08/04/3-robinhood-stocks-to-buy-right-now/",
-      "urlToImage": "https://g.foolcdn.com/editorial/images/693626/home-investor-tracking-stocks.jpg",
-      "publishedAt": "2022-08-04T09:55:00Z",
-      "content": "Do you trust the crowd using Robinhood Markets' (HOOD 11.70%) trading app? It would be understandable if you didn't. The track record for crowd-sourced stock picks from users of the trading platform \u2026 [+5758 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Motley Fool"
-      },
-      "author": "newsfeedback@fool.com (Motley Fool Transcribing)",
-      "title": "Amplitude, Inc. (AMPL) Q2 2022 Earnings Call Transcript",
-      "description": "AMPL earnings call for the period ending June 30, 2022.",
-      "url": "https://www.fool.com/earnings/call-transcripts/2022/08/04/amplitude-inc-ampl-q2-2022-earnings-call-transcrip/",
-      "urlToImage": "https://g.foolcdn.com/editorial/images/1/featured-transcript-logo-template.jpg",
-      "publishedAt": "2022-08-04T04:30:48Z",
-      "content": "Image source: The Motley Fool.\r\nAmplitude, Inc.\u00a0(AMPL 8.41%)Q2\u00a02022 Earnings CallAug 03, 2022, 5:00 p.m. ET\r\nContents:\r\n<ul><li>Prepared Remarks</li><li>Questions and Answers</li><li>Call Participant\u2026 [+56552 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Motley Fool"
-      },
-      "author": "newsfeedback@fool.com (Motley Fool Transcribing)",
-      "title": "Artisan Partners Asset Management (APAM) Q2 2022 Earnings Call Transcript",
-      "description": "APAM earnings call for the period ending June 30, 2022.",
-      "url": "https://www.fool.com/earnings/call-transcripts/2022/08/04/artisan-partners-asset-management-apam-q2-2022-ear/",
-      "urlToImage": "https://g.foolcdn.com/editorial/images/1/featured-transcript-logo-template.jpg",
-      "publishedAt": "2022-08-04T04:00:47Z",
-      "content": "Image source: The Motley Fool.\r\nArtisan Partners Asset Management\u00a0(APAM -3.72%)Q2\u00a02022 Earnings CallAug 03, 2022, 1:00 p.m. ET\r\nContents:\r\n<ul><li>Prepared Remarks</li><li>Questions and Answers</li><\u2026 [+30336 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Motley Fool"
-      },
-      "author": "newsfeedback@fool.com (Motley Fool Transcribing)",
-      "title": "MGM Resorts International (MGM) Q2 2022 Earnings Call Transcript",
-      "description": "MGM earnings call for the period ending June 30, 2022.",
-      "url": "https://www.fool.com/earnings/call-transcripts/2022/08/03/mgm-resorts-international-mgm-q2-2022-earnings-cal/",
-      "urlToImage": "https://g.foolcdn.com/editorial/images/1/featured-transcript-logo-template.jpg",
-      "publishedAt": "2022-08-04T02:00:36Z",
-      "content": "Image source: The Motley Fool.\r\nMGM Resorts International\u00a0(MGM 3.45%)Q2\u00a02022 Earnings CallAug 03, 2022, 5:00 p.m. ET\r\nContents:\r\n<ul><li>Prepared Remarks</li><li>Questions and Answers</li><li>Call Pa\u2026 [+53644 chars]"
+      "publishedAt": "2022-08-05T04:00:43Z",
+      "content": "Image source: The Motley Fool.\r\nLyft\u00a0(LYFT 4.07%)Q2\u00a02022 Earnings CallAug 04, 2022, 4:30 p.m. ET\r\nContents:\r\n<ul><li>Prepared Remarks</li><li>Questions and Answers</li><li>Call Participants</li></ul>\u2026 [+53377 chars]"
     },
     {
       "source": {
@@ -1269,25 +1022,12 @@
         "name": "Motley Fool"
       },
       "author": "newsfeedback@fool.com (Reuben Gregg Brewer)",
-      "title": "This Dividend Aristocrat Has Big Expectations for 2022. Can It Live Up to Them?",
-      "description": "With another great quarter under its belt, this steel giant is looking to end the year on a strong note.",
-      "url": "https://www.fool.com/investing/2022/08/04/this-dividend-aristocrat-has-big-expectations-for/",
-      "urlToImage": "https://g.foolcdn.com/editorial/images/693527/22_02_07-steel-mill-with-sparks-flying-and-person-in-the-foreground-_gettyimages-177541735.jpg",
-      "publishedAt": "2022-08-04T10:16:00Z",
-      "content": "As the largest and most diversified steelmaker in the United States, Nucor(NUE -0.56%) has a lot going for it, including a string of more than 40 consecutive annual dividend increases -- more than en\u2026 [+4252 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Motley Fool"
-      },
-      "author": "newsfeedback@fool.com (Keithen Drury)",
-      "title": "Better E-Commerce Stock: Shopify vs. Etsy",
-      "description": "Both companies have struggled lately, but what does their future hold?",
-      "url": "https://www.fool.com/investing/2022/08/04/better-e-commerce-stock-shopify-vs-etsy/",
-      "urlToImage": "https://g.foolcdn.com/editorial/images/693303/person-surrounded-by-boxes-selling-items-online.jpg",
-      "publishedAt": "2022-08-04T10:15:00Z",
-      "content": "E-commerce is a broad industry. There are companies directly involved with the process, and facilitators like Shopify (SHOP 11.10%) and Etsy(ETSY 3.89%). I believe facilitators make better investment\u2026 [+5732 chars]"
+      "title": "This High-Yield Passive Income Play Is Building the Future",
+      "description": "With a generous 6.2% yield, this mall landlord is going back on offense as it looks to restart its building pipeline.",
+      "url": "https://www.fool.com/investing/2022/08/05/this-high-yield-passive-income-play-is-building-th/",
+      "urlToImage": "https://g.foolcdn.com/editorial/images/693868/22_06_30-people-walking-with-shopping-bags-walking-in-a-mall-_gettyimages-1004801546.jpg",
+      "publishedAt": "2022-08-05T12:25:00Z",
+      "content": "Simon Property Group(SPG -1.04%) cut its dividend by nearly 40% in 2020 as the coronavirus pandemic led to shuttered malls. Since that point, however, the dividend has been increased five times for a\u2026 [+3164 chars]"
     },
     {
       "source": {
@@ -1295,12 +1035,272 @@
         "name": "Motley Fool"
       },
       "author": "newsfeedback@fool.com (Motley Fool Transcribing)",
-      "title": "Pacific Biosciences of California (PACB) Q2 2022 Earnings Call Transcript",
-      "description": "PACB earnings call for the period ending June 30, 2022.",
-      "url": "https://www.fool.com/earnings/call-transcripts/2022/08/04/pacific-biosciences-of-california-pacb-q2-2022-ear/",
+      "title": "Grand Canyon Education (LOPE) Q2 2022 Earnings Call Transcript",
+      "description": "LOPE earnings call for the period ending June 30, 2022.",
+      "url": "https://www.fool.com/earnings/call-transcripts/2022/08/05/grand-canyon-education-lope-q2-2022-earnings-call/",
       "urlToImage": "https://g.foolcdn.com/editorial/images/1/featured-transcript-logo-template.jpg",
-      "publishedAt": "2022-08-04T08:00:29Z",
-      "content": "Image source: The Motley Fool.\r\nPacific Biosciences of California\u00a0(PACB 7.42%)Q2\u00a02022 Earnings CallAug 03, 2022, 5:00 p.m. ET\r\nContents:\r\n<ul><li>Prepared Remarks</li><li>Questions and Answers</li><l\u2026 [+58058 chars]"
+      "publishedAt": "2022-08-05T07:30:37Z",
+      "content": "Image source: The Motley Fool.\r\nGrand Canyon Education\u00a0(LOPE -1.62%)Q2\u00a02022 Earnings CallAug 04, 2022, 4:30 p.m. ET\r\nContents:\r\n<ul><li>Prepared Remarks</li><li>Questions and Answers</li><li>Call Par\u2026 [+47972 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Motley Fool"
+      },
+      "author": "newsfeedback@fool.com (Micah Angel)",
+      "title": "Why Biotech Disruptor Ginkgo Bioworks Is Well-Positioned for the Future",
+      "description": "Beaten down from its highs late last year, cell engineering company Ginkgo Bioworks now looks primed to divide and conquer.",
+      "url": "https://www.fool.com/investing/2022/08/05/why-biotech-disruptor-ginkgo-bioworks-is-well-posi/",
+      "urlToImage": "https://g.foolcdn.com/editorial/images/694035/research-lab-science-women-in-stem.jpg",
+      "publishedAt": "2022-08-05T09:50:00Z",
+      "content": "Synthetic biology company Ginkgo Bioworks Holdings(DNA -1.63%) is down roughly 80% from its highs posted late last year. But rapidly growing revenues and a hefty cash balance, combined with aggressiv\u2026 [+4960 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Motley Fool"
+      },
+      "author": "newsfeedback@fool.com (James Brumley)",
+      "title": "2 Growth Stocks to Buy and Hold Forever",
+      "description": "Offering certain products and services can help a company avoid obsolescence.",
+      "url": "https://www.fool.com/investing/2022/08/05/2-growth-stocks-to-buy-and-hold-forever/",
+      "urlToImage": "https://g.foolcdn.com/editorial/images/693755/compound-interest-growth.jpg",
+      "publishedAt": "2022-08-05T09:05:00Z",
+      "content": "It's not terribly difficult to find a good growth stock these days -- plenty of companies are plugged into red-hot trends. And it's just as easy to identify \"forever\" stocks: established leaders in m\u2026 [+4078 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Motley Fool"
+      },
+      "author": "newsfeedback@fool.com (Rob Starks Jr)",
+      "title": "3 Reasons Why Roku Makes a Great Long-Term Investment",
+      "description": "Despite near-term headwinds, this TV streaming platform should provide investors with excellent returns over the long term.",
+      "url": "https://www.fool.com/investing/2022/08/05/3-reasons-why-roku-makes-a-great-long-term-investm/",
+      "urlToImage": "https://g.foolcdn.com/editorial/images/693938/gettyimages-1321115954.jpg",
+      "publishedAt": "2022-08-05T09:48:00Z",
+      "content": "Few companies benefited from the pandemic more than Roku(ROKU 2.89%), as shelter-in-place statewide orders helped accelerate key trends driving Roku's growth. However, the stock has performed terribl\u2026 [+4596 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Motley Fool"
+      },
+      "author": "newsfeedback@fool.com (Motley Fool Transcribing)",
+      "title": "Eli Lilly and Company (LLY) Q2 2022 Earnings Call Transcript",
+      "description": "LLY earnings call for the period ending June 30, 2022.",
+      "url": "https://www.fool.com/earnings/call-transcripts/2022/08/04/eli-lilly-and-company-lly-q2-2022-earnings-call-tr/",
+      "urlToImage": "https://g.foolcdn.com/editorial/images/1/featured-transcript-logo-template.jpg",
+      "publishedAt": "2022-08-05T03:00:52Z",
+      "content": "Image source: The Motley Fool.\r\nEli Lilly and Company\u00a0(LLY -2.56%)Q2\u00a02022 Earnings CallAug 04, 2022, 10:00 a.m. ET\r\nContents:\r\n<ul><li>Prepared Remarks</li><li>Questions and Answers</li><li>Call Part\u2026 [+83864 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Motley Fool"
+      },
+      "author": "newsfeedback@fool.com (Motley Fool Transcribing)",
+      "title": "Park Hotels & Resorts Inc. (PK) Q2 2022 Earnings Call Transcript",
+      "description": "PK earnings call for the period ending June 30, 2022.",
+      "url": "https://www.fool.com/earnings/call-transcripts/2022/08/05/park-hotels-resorts-inc-pk-q2-2022-earnings-call-t/",
+      "urlToImage": "https://g.foolcdn.com/editorial/images/1/featured-transcript-logo-template.jpg",
+      "publishedAt": "2022-08-05T06:30:54Z",
+      "content": "Image source: The Motley Fool.\r\nPark Hotels &amp; Resorts Inc.\u00a0(PK -3.15%)Q2\u00a02022 Earnings CallAug 04, 2022, 11:00 a.m. ET\r\nContents:\r\n<ul><li>Prepared Remarks</li><li>Questions and Answers</li><li>C\u2026 [+55557 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Motley Fool"
+      },
+      "author": "newsfeedback@fool.com (Motley Fool Transcribing)",
+      "title": "Cushman & Wakefield plc Ordinary Shares (CWK) Q2 2022 Earnings Call Transcript",
+      "description": "CWK earnings call for the period ending June 30, 2022.",
+      "url": "https://www.fool.com/earnings/call-transcripts/2022/08/05/cushman-wakefield-plc-ordinary-shares-cwk-q2-2022/",
+      "urlToImage": "https://g.foolcdn.com/editorial/images/1/featured-transcript-logo-template.jpg",
+      "publishedAt": "2022-08-05T12:30:53Z",
+      "content": "Image source: The Motley Fool.\r\nCushman &amp; Wakefield plc Ordinary Shares\u00a0(CWK 0.24%)Q2\u00a02022 Earnings CallAug 04, 2022, 5:00 p.m. ET\r\nContents:\r\n<ul><li>Prepared Remarks</li><li>Questions and Answe\u2026 [+38159 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Motley Fool"
+      },
+      "author": "newsfeedback@fool.com (Motley Fool Transcribing)",
+      "title": "Neurocrine Biosciences (NBIX) Q2 2022 Earnings Call Transcript",
+      "description": "NBIX earnings call for the period ending June 30, 2022.",
+      "url": "https://www.fool.com/earnings/call-transcripts/2022/08/05/neurocrine-biosciences-nbix-q2-2022-earnings-call/",
+      "urlToImage": "https://g.foolcdn.com/editorial/images/1/featured-transcript-logo-template.jpg",
+      "publishedAt": "2022-08-05T08:30:22Z",
+      "content": "Image source: The Motley Fool.\r\nNeurocrine Biosciences\u00a0(NBIX 1.99%)Q2\u00a02022 Earnings CallAug 04, 2022, 4:30 p.m. ET\r\nContents:\r\n<ul><li>Prepared Remarks</li><li>Questions and Answers</li><li>Call Part\u2026 [+47958 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Motley Fool"
+      },
+      "author": "newsfeedback@fool.com (Motley Fool Transcribing)",
+      "title": "Cloudflare, Inc. (NET) Q2 2022 Earnings Call Transcript",
+      "description": "NET earnings call for the period ending June 30, 2022.",
+      "url": "https://www.fool.com/earnings/call-transcripts/2022/08/05/cloudflare-inc-net-q2-2022-earnings-call-transcrip/",
+      "urlToImage": "https://g.foolcdn.com/editorial/images/1/featured-transcript-logo-template.jpg",
+      "publishedAt": "2022-08-05T08:00:41Z",
+      "content": "Image source: The Motley Fool.\r\nCloudflare, Inc.\u00a0(NET 0.12%)Q2\u00a02022 Earnings CallAug 04, 2022, 5:00 p.m. ET\r\nContents:\r\n<ul><li>Prepared Remarks</li><li>Questions and Answers</li><li>Call Participant\u2026 [+60484 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Motley Fool"
+      },
+      "author": "newsfeedback@fool.com (Motley Fool Transcribing)",
+      "title": "Starwood Property Trust (STWD) Q2 2022 Earnings Call Transcript",
+      "description": "STWD earnings call for the period ending June 30, 2022.",
+      "url": "https://www.fool.com/earnings/call-transcripts/2022/08/05/starwood-property-trust-stwd-q2-2022-earnings-call/",
+      "urlToImage": "https://g.foolcdn.com/editorial/images/1/featured-transcript-logo-template.jpg",
+      "publishedAt": "2022-08-05T07:00:44Z",
+      "content": "Image source: The Motley Fool.\r\nStarwood Property Trust\u00a0(STWD 0.60%)Q2\u00a02022 Earnings CallAug 04, 2022, 10:00 a.m. ET\r\nContents:\r\n<ul><li>Prepared Remarks</li><li>Questions and Answers</li><li>Call Pa\u2026 [+49666 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Motley Fool"
+      },
+      "author": "newsfeedback@fool.com (Motley Fool Transcribing)",
+      "title": "Johnson Controls (JCI) Q3 2022 Earnings Call Transcript",
+      "description": "JCI earnings call for the period ending June 30, 2022.",
+      "url": "https://www.fool.com/earnings/call-transcripts/2022/08/04/johnson-controls-jci-q3-2022-earnings-call-transcr/",
+      "urlToImage": "https://g.foolcdn.com/editorial/images/1/featured-transcript-logo-template.jpg",
+      "publishedAt": "2022-08-05T00:01:01Z",
+      "content": "Image source: The Motley Fool.\r\nJohnson Controls\u00a0(JCI 0.65%)Q3\u00a02022 Earnings CallAug 04, 2022, 8:30 a.m. ET\r\nContents:\r\n<ul><li>Prepared Remarks</li><li>Questions and Answers</li><li>Call Participant\u2026 [+59785 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Motley Fool"
+      },
+      "author": "newsfeedback@fool.com (Motley Fool Transcribing)",
+      "title": "Lightspeed Commerce (LSPD) Q1 2023 Earnings Call Transcript",
+      "description": "LSPD earnings call for the period ending June 30, 2022.",
+      "url": "https://www.fool.com/earnings/call-transcripts/2022/08/04/lightspeed-commerce-lspd-q1-2023-earnings-call-tra/",
+      "urlToImage": "https://g.foolcdn.com/editorial/images/1/featured-transcript-logo-template.jpg",
+      "publishedAt": "2022-08-05T03:30:27Z",
+      "content": "Image source: The Motley Fool.\r\nLightspeed Commerce\u00a0(LSPD -12.01%)Q1\u00a02023 Earnings CallAug 04, 2022, 8:00 a.m. ET\r\nContents:\r\n<ul><li>Prepared Remarks</li><li>Questions and Answers</li><li>Call Parti\u2026 [+59123 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Motley Fool"
+      },
+      "author": "newsfeedback@fool.com (Motley Fool Transcribing)",
+      "title": "BigCommerce Holdings, Inc. (BIGC) Q2 2022 Earnings Call Transcript",
+      "description": "BIGC earnings call for the period ending June 30, 2022.",
+      "url": "https://www.fool.com/earnings/call-transcripts/2022/08/05/bigcommerce-holdings-inc-bigc-q2-2022-earnings-cal/",
+      "urlToImage": "https://g.foolcdn.com/editorial/images/1/featured-transcript-logo-template.jpg",
+      "publishedAt": "2022-08-05T12:30:49Z",
+      "content": "Image source: The Motley Fool.\r\nBigCommerce Holdings, Inc.\u00a0(BIGC 0.77%)Q2\u00a02022 Earnings CallAug 04, 2022, 5:00 p.m. ET\r\nContents:\r\n<ul><li>Prepared Remarks</li><li>Questions and Answers</li><li>Call \u2026 [+74609 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Motley Fool"
+      },
+      "author": "newsfeedback@fool.com (Motley Fool Transcribing)",
+      "title": "OneWater Marine Inc. (ONEW) Q3 2022 Earnings Call Transcript",
+      "description": "ONEW earnings call for the period ending June 30, 2022.",
+      "url": "https://www.fool.com/earnings/call-transcripts/2022/08/04/onewater-marine-inc-onew-q3-2022-earnings-call-tra/",
+      "urlToImage": "https://g.foolcdn.com/editorial/images/1/featured-transcript-logo-template.jpg",
+      "publishedAt": "2022-08-05T02:30:45Z",
+      "content": "Image source: The Motley Fool.\r\nOneWater Marine Inc.\u00a0(ONEW 0.74%)Q3\u00a02022 Earnings CallAug 04, 2022, 8:30 a.m. ET\r\nContents:\r\n<ul><li>Prepared Remarks</li><li>Questions and Answers</li><li>Call Partic\u2026 [+25480 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Motley Fool"
+      },
+      "author": "newsfeedback@fool.com (Motley Fool Transcribing)",
+      "title": "Schr\u00f6dinger, Inc. (SDGR) Q2 2022 Earnings Call Transcript",
+      "description": "SDGR earnings call for the period ending June 30, 2022.",
+      "url": "https://www.fool.com/earnings/call-transcripts/2022/08/05/schrodinger-inc-sdgr-q2-2022-earnings-call-transcr/",
+      "urlToImage": "https://g.foolcdn.com/editorial/images/1/featured-transcript-logo-template.jpg",
+      "publishedAt": "2022-08-05T08:00:57Z",
+      "content": "Image source: The Motley Fool.\r\nSchr\u00f6dinger, Inc.\u00a0(SDGR 4.96%)Q2\u00a02022 Earnings CallAug 04, 2022, 4:30 p.m. ET\r\nContents:\r\n<ul><li>Prepared Remarks</li><li>Questions and Answers</li><li>Call Participa\u2026 [+29764 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Motley Fool"
+      },
+      "author": "newsfeedback@fool.com (Motley Fool Transcribing)",
+      "title": "Corsair Gaming, Inc. (CRSR) Q2 2022 Earnings Call Transcript",
+      "description": "CRSR earnings call for the period ending June 30, 2022.",
+      "url": "https://www.fool.com/earnings/call-transcripts/2022/08/05/corsair-gaming-inc-crsr-q2-2022-earnings-call-tran/",
+      "urlToImage": "https://g.foolcdn.com/editorial/images/1/featured-transcript-logo-template.jpg",
+      "publishedAt": "2022-08-05T12:30:43Z",
+      "content": "Image source: The Motley Fool.\r\nCorsair Gaming, Inc.\u00a0(CRSR -0.51%)Q2\u00a02022 Earnings CallAug 04, 2022, 5:00 p.m. ET\r\nContents:\r\n<ul><li>Prepared Remarks</li><li>Questions and Answers</li><li>Call Parti\u2026 [+26797 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Motley Fool"
+      },
+      "author": "newsfeedback@fool.com (Motley Fool Transcribing)",
+      "title": "Skyworks Solutions (SWKS) Q3 2022 Earnings Call Transcript",
+      "description": "SWKS earnings call for the period ending June 30, 2022.",
+      "url": "https://www.fool.com/earnings/call-transcripts/2022/08/05/skyworks-solutions-swks-q3-2022-earnings-call-tran/",
+      "urlToImage": "https://g.foolcdn.com/editorial/images/1/featured-transcript-logo-template.jpg",
+      "publishedAt": "2022-08-05T04:00:40Z",
+      "content": "Image source: The Motley Fool.\r\nSkyworks Solutions\u00a0(SWKS 1.43%)Q3\u00a02022 Earnings CallAug 04, 2022, 4:30 p.m. ET\r\nContents:\r\n<ul><li>Prepared Remarks</li><li>Questions and Answers</li><li>Call Particip\u2026 [+47459 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Motley Fool"
+      },
+      "author": "newsfeedback@fool.com (Motley Fool Transcribing)",
+      "title": "WestRock (WRK) Q3 2022 Earnings Call Transcript",
+      "description": "WRK earnings call for the period ending June 30, 2022.",
+      "url": "https://www.fool.com/earnings/call-transcripts/2022/08/05/westrock-wrk-q3-2022-earnings-call-transcript/",
+      "urlToImage": "https://g.foolcdn.com/editorial/images/1/featured-transcript-logo-template.jpg",
+      "publishedAt": "2022-08-05T06:30:57Z",
+      "content": "Image source: The Motley Fool.\r\nWestRock\u00a0(WRK -3.95%)Q3\u00a02022 Earnings CallAug 04, 2022, 8:30 a.m. ET\r\nContents:\r\n<ul><li>Prepared Remarks</li><li>Questions and Answers</li><li>Call Participants</li><\u2026 [+54659 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Motley Fool"
+      },
+      "author": "newsfeedback@fool.com (Motley Fool Transcribing)",
+      "title": "Signify Health, Inc. (SGFY) Q2 2022 Earnings Call Transcript",
+      "description": "SGFY earnings call for the period ending June 30, 2022.",
+      "url": "https://www.fool.com/earnings/call-transcripts/2022/08/04/signify-health-inc-sgfy-q2-2022-earnings-call-tran/",
+      "urlToImage": "https://g.foolcdn.com/editorial/images/1/featured-transcript-logo-template.jpg",
+      "publishedAt": "2022-08-05T02:30:42Z",
+      "content": "Image source: The Motley Fool.\r\nSignify Health, Inc.\u00a0(SGFY 5.14%)Q2\u00a02022 Earnings CallAug 04, 2022, 8:30 a.m. ET\r\nContents:\r\n<ul><li>Prepared Remarks</li><li>Questions and Answers</li><li>Call Partic\u2026 [+50120 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Motley Fool"
+      },
+      "author": "newsfeedback@fool.com (Motley Fool Transcribing)",
+      "title": "fuboTV, Inc. (FUBO) Q2 2022 Earnings Call Transcript",
+      "description": "FUBO earnings call for the period ending June 30, 2022.",
+      "url": "https://www.fool.com/earnings/call-transcripts/2022/08/05/fubotv-inc-fubo-q2-2022-earnings-call-transcript/",
+      "urlToImage": "https://g.foolcdn.com/editorial/images/1/featured-transcript-logo-template.jpg",
+      "publishedAt": "2022-08-05T08:00:27Z",
+      "content": "Image source: The Motley Fool.\r\nfuboTV, Inc.\u00a0(FUBO 1.71%)Q2\u00a02022 Earnings CallAug 04, 2022, 5:30 p.m. ET\r\nContents:\r\n<ul><li>Prepared Remarks</li><li>Questions and Answers</li><li>Call Participants</\u2026 [+42746 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Motley Fool"
+      },
+      "author": "newsfeedback@fool.com (Motley Fool Transcribing)",
+      "title": "Globus Medical (GMED) Q2 2022 Earnings Call Transcript",
+      "description": "GMED earnings call for the period ending June 30, 2022.",
+      "url": "https://www.fool.com/earnings/call-transcripts/2022/08/04/globus-medical-gmed-q2-2022-earnings-call-transcri/",
+      "urlToImage": "https://g.foolcdn.com/editorial/images/1/featured-transcript-logo-template.jpg",
+      "publishedAt": "2022-08-05T03:30:32Z",
+      "content": "Image source: The Motley Fool.\r\nGlobus Medical\u00a0(GMED -1.42%)Q2\u00a02022 Earnings CallAug 04, 2022, 4:30 p.m. ET\r\nContents:\r\n<ul><li>Prepared Remarks</li><li>Questions and Answers</li><li>Call Participant\u2026 [+52906 chars]"
     }
   ]
 }
