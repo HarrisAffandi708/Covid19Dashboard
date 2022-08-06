@@ -17,9 +17,9 @@ modules are also required to be installed are listed below:
 
 ## Getting started
 ###### **Configuring the program**
-Once you have installed the program, you need to head on towards the 'config.json' file in the 'congfig' folder. Here you need to put in your API key in quatation marks in 'APIKey'
-Putting in the API key is crucial as the program cannot run without it. You can also modify the local location named 'Location', it is "Exeter" by default.
-You can also change the location type named 'Location_type'
+Once you have installed the program, you need to head on towards the `config.json` file in the `congfig` folder. Here you need to put in your API key in quatation marks in `APIKey`
+Putting in the API key is crucial as the program cannot run without it. You can also modify the local location named `Location`, it is "Exeter" by default.
+You can also change the location type named `Location_type`
 ###### **Covid data**
 The covid data displayed include the following
 - Total local cases in the past 7 days
@@ -27,7 +27,7 @@ The covid data displayed include the following
 - Total hospital cases
 - Total deaths
 
-To edit the format and what data you want displayed, edit the 'config.json' file in order to retrieve specific data from the uk-covid19 API. However once the
+To edit the format and what data you want displayed, edit the `config.json` file in order to retrieve specific data from the uk-covid19 API. However once the
 format and data is changed, the source code is required to be changed as well in order to run. The HTML code has to be modified as well if the data is changed. for example
 the "Total deaths" part of the website, if the total deaths data is changed to total hospital cases in the past 7 days, the title in the html code has to be changed.
 
@@ -36,7 +36,7 @@ The website displays 10 different news articles about covid19. To delete the new
 an X. This will cause a new article to be added to the list.
 
 ###### **Closing the program**
-to close the program on windows, simply press the control and c (CNTRL + C) in the terminal/command line
+to close the program on windows, simply press the control and c (CTRL + C) in the terminal/command line
 
 # Developer documentation
 There are 3 source code modules:
@@ -53,4 +53,7 @@ The source code also includes:
 - test.py (used for testing functions of the program)
 - PNG photo (used to display a photo in the website
 
+## covid_data_handler.py
+purpose:
+`Used to handle covid data for the website`
 
