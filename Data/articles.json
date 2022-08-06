@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "totalResults": 374,
+  "totalResults": 393,
   "articles": [
     {
       "source": {
@@ -797,6 +797,19 @@
     },
     {
       "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "hrobertson@businessinsider.com (Harry Robertson)",
+      "title": "A senior BlackRock strategist says the days of low inflation and soaring stock markets are over \u2014 and investors can expect a decade of lower returns",
+      "description": "Markets are undergoing a seismic shift as the era of supersized returns and ultra-cheap money comes to an end, a BlackRock strategist said.",
+      "url": "https://markets.businessinsider.com/news/stocks/stock-market-outlook-low-inflation-finished-returns-lower-blackrock-strategist-2022-8",
+      "urlToImage": "https://i.insider.com/62ecff61e00f40001826c032?width=1200&format=jpeg",
+      "publishedAt": "2022-08-06T08:00:00Z",
+      "content": "Since the financial crisis of 2008, ultra-low interest rates and central bank bond-buying programmes have pumped financial markets full of cash. That's driven assets higher, all while inflation has b\u2026 [+3309 chars]"
+    },
+    {
+      "source": {
         "id": null,
         "name": "AllAfrica - Top Africa News"
       },
@@ -878,6 +891,19 @@
         "id": "cnn",
         "name": "CNN"
       },
+      "author": "By Maureen O'Hare, CNN",
+      "title": "Travel news: Space balloons, floating hotels and supersonic jets",
+      "description": "CNN Travel's roundup of the week's news includes innovative transport concepts: NASA's X-59 supersonic jet, a  \"carbon-neutral spaceship\" and a design for a nuclear-powered floating hotel.",
+      "url": "https://www.cnn.com/travel/article/pandemic-travel-news-space-perspective-nasa-x59/index.html",
+      "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220701134610-sky-hotel-video-1-super-tease.jpg",
+      "publishedAt": "2022-08-06T07:57:31Z",
+      "content": "(CNN) This week in travel, we look at innovative new transport concepts, the reopening of Thailand's most famous beach, and flight attendants speak out about the airport chaos gripping Europe and Ame\u2026 [+3563 chars]"
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
       "author": "Ella Nilsen and Angela Dewan, CNN",
       "title": "Why the international climate community isn't popping champagne over the US energy bill",
       "description": "US officials are hoping the energy and tax bill puts them in a better position for difficult climate negotiations to come.",
@@ -911,6 +937,19 @@
       "urlToImage": "https://www.thewrap.com/wp-content/uploads/2022/08/bill-maher-kristen-sinema.jpg",
       "publishedAt": "2022-08-06T03:45:48Z",
       "content": "In his monologue on Friday\u2019s episode of \u201cReal Time,\u201d Bill Maher was thrilled by the news that, at least at the moment, it looks like the Democrats are going to pass a fairly robust bill to combat cli\u2026 [+2851 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Japan Today"
+      },
+      "author": null,
+      "title": "Kishida to reshuffle cabinet with COVID, Taiwan, Unification Church in focus",
+      "description": "Japanese Prime Minister Fumio Kishida said on Saturday he will reshuffle his cabinet next week to address mounting issues including Taiwan tensions, COVID-19 and economic stimulus measures to counter inflation. &quot;We need to set off a new formation as soon\u2026",
+      "url": "https://japantoday.com/category/politics/japan-pm-kishida-to-reshuffle-cabinet-as-covid-taiwan-in-focus",
+      "urlToImage": null,
+      "publishedAt": "2022-08-06T07:48:10Z",
+      "content": "Japanese Prime Minister Fumio Kishida said on Saturday he will reshuffle his cabinet next week to address mounting issues including Taiwan tensions, COVID-19 and economic stimulus measures to counter\u2026 [+3268 chars]"
     },
     {
       "source": {
@@ -1262,45 +1301,6 @@
       "urlToImage": "https://cdn.punchng.com/wp-content/uploads/2022/08/06013351/Christiana-Pam.jpg",
       "publishedAt": "2022-08-06T02:43:36Z",
       "content": "Christiana Pam, a lecturer at the University of Uyo, Akwa Ibom State, tells DANIEL AYANTOYE how the ongoing strike by the Academic Staff Union of Universities pushed her into trading to cushion the e\u2026 [+8573 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "TIMESOFINDIA.COM",
-      "title": "India reports 19,406 Covid infections in last 24 hours, sees decline in active cases",
-      "description": "India saw a decline in the number of active Covid-19 cases, even as the country reported 19,406 new infections in the last 24 hours, according to the Union health ministry data updated on Saturday.",
-      "url": "https://timesofindia.indiatimes.com/india/india-reports-19406-covid-infections-in-last-24-hours-sees-decline-in-active-cases/articleshow/93384635.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-93384666,width-1070,height-580,imgsize-75230,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-      "publishedAt": "2022-08-06T04:49:11Z",
-      "content": ""
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "news.yahoo.com",
-      "title": "Superhero, lame duck -- or both?",
-      "description": "So what do Americans see in Joe Biden -- a doddery has-been whom even his own party doesn't want around, or an improbable superhero? After an extraordinary...",
-      "url": "https://news.yahoo.com/biden-superhero-lame-duck-both-181432362.html",
-      "urlToImage": "https://s.yimg.com/uu/api/res/1.2/QBxTn336IGrJuxPH5B6RbA--~B/aD01MDI7dz03Njg7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/afp.com/23eace38194aed70e5a8c93ce151c323",
-      "publishedAt": "2022-08-06T02:00:07Z",
-      "content": "Biden: superhero, lame duck -- or both?\nSo what do Americans see in Joe Biden -- a doddery has-been whom even his own party doesn't want around, or an improbable superhero? After an extraordinary wee\u2026 [+4739 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "MovieMaker Magazine"
-      },
-      "author": "moviemaker magazine",
-      "title": "THEY/THEM: Gay Conversion Horror Movie...",
-      "description": "John Logan has written many devilish characters for the screen, like Sweeney Todd, Silva from Skyfall, and The Aviator\u2019s take on Howard Hughe. But Logan has created a more ambiguous con man in his new Blumhouse\u2019s movie, They/Them: Owen Whistler, leader of his\u2026",
-      "url": "https://www.moviemaker.com/they-them-director-john-logan-on-the-devilish-manipulation-of-gay-conversion-therapy/",
-      "urlToImage": "https://www.moviemaker.com/wp-content/uploads/2022/08/NUP_196296_00028R.jpg",
-      "publishedAt": "2022-08-06T02:00:07Z",
-      "content": "They/Them Director John Logan on the Horrors of 'Gay Conversion Therapy'\nJohn Logan has written many devilish characters for the screen, like Sweeney Todd, Silva from Skyfall, and The Aviator\u2019s take \u2026 [+10708 chars]"
     }
   ]
 }
