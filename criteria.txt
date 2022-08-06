@@ -1,3 +1,0 @@
-Goal: extract covid data and display it on website
-    Use Public Healt England API and news stories about covid from a news API 
-
