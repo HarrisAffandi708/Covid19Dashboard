@@ -93,6 +93,7 @@ def sched_news_update(update_name, update_time,update_repeat):
 def sched_data_news_update(update_name,update_time,update_repeat):
     data_news_time = time_difference(update_time)
     if update_time in news_update_info or data_update_info or double_update_info:
+        double_update_info.append({"update_name":update_name,"update_time":update_time, "update_repeat":update_repeat})
         logging.error("already scheduled an update at this time")
     else:
         double_update_info.append(update_time)
@@ -135,7 +136,7 @@ def index():
 
 
     return render_template("index.html", title= "Covid Data",location=exeter_name, local_7day_infections= exeter_7_day_cases, nation_location=nation_name,
-    national_7day_infections=national_7_day_cases,hospital_cases= hospital_cases, news_articles=news, image= "Coronavirus_3D_illustration_by_CDC_1600x900.jpg",
+    national_7day_infections=national_7_day_cases,hospital_cases= hospital_cases, news_articles=news, image= "Coronavirus_3D_illustration_by_CDC_1600x900.png",
     deaths_total= national_deaths)
 
 if __name__ == '__main__':

@@ -1,132 +1,132 @@
 [
   {
     "source": {
-      "id": "wired",
-      "name": "Wired"
+      "id": "reuters",
+      "name": "Reuters"
     },
-    "author": "Steven Levy",
-    "title": "Larry Brilliant Says Covid Rapid Tests Are Bad for Public Health",
-    "description": "The epidemiologist who helped quash smallpox talks about what we're doing wrong on monkeypox, vaccines, and antigen tests.",
-    "url": "https://www.wired.com/story/larry-brilliant-says-covid-rapid-tests-are-bad-for-public-health/",
-    "urlToImage": "https://media.wired.com/photos/62ec4b526f48e5c6d48d6edc/191:100/w_1280,c_limit/test_larry_brilliant_science_GettyImages-1238159897.jpg",
-    "publishedAt": "2022-08-05T12:00:00Z",
-    "content": "Second, the longer this virus continues, the more variants were going to have. We dont know exactly what forms a variant, but for sure one factor is immunocompromised people who have the virus putter\u2026 [+3755 chars]"
+    "author": null,
+    "title": "Chinese tourist hot spot imposes COVID lockdown, shuts public transport - Reuters",
+    "description": "The southern Chinese beach holiday city of Sanya imposed a lockdown on Saturday and shut its public transport system to try to stop a COVID-19 outbreak during its peak tourist season.",
+    "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/chinese-tourist-hot-spot-imposes-covid-lockdown-shuts-public-transport-2022-08-06/",
+    "urlToImage": "https://www.reuters.com/resizer/ozKqBUXppv1pHEJmMhW4bh_vO6k=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/TEAWROOWHVLBJORC3RIILN4E6M.jpg",
+    "publishedAt": "2022-08-06T02:50:00Z",
+    "content": "SHANGHAI, Aug 6 (Reuters) - The southern Chinese beach holiday city of Sanya imposed a lockdown on Saturday and shut its public transport system to try to stop a COVID-19 outbreak during its peak tou\u2026 [+1356 chars]"
+  },
+  {
+    "source": {
+      "id": "reuters",
+      "name": "Reuters"
+    },
+    "author": null,
+    "title": "MLB roundup: Dodgers honor Vin Scully, rout Padres - Reuters.com",
+    "description": "The Los Angeles Dodgers jumped on Sean Manaea for four runs in the first inning and four more in the third Friday night, then coasted to an 8-1 victory over the visiting San Diego Padres in the opener of a three-game weekend series.",
+    "url": "https://www.reuters.com/lifestyle/sports/mlb-roundup-dodgers-honor-vin-scully-rout-padres-2022-08-06/",
+    "urlToImage": "https://www.reuters.com/resizer/VXSCHt5tLkoskrPloic6BroQcmw=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/VOSQ3LGXRROPPBRK3AJUQQPAJQ.jpg",
+    "publishedAt": "2022-08-06T06:56:00Z",
+    "content": "August 6 - The Los Angeles Dodgers jumped on Sean Manaea for four runs in the first inning and four more in the third Friday night, then coasted to an 8-1 victory over the visiting San Diego Padres i\u2026 [+9386 chars]"
   },
   {
     "source": {
       "id": null,
-      "name": "New York Times"
+      "name": "The Guardian"
     },
-    "author": "Cristal Duhaime, Stephanie Joyce, Larissa Anderson, Lisa Tobin, Kaari Pitkin, Anita Badejo, Isaac Jones, Carole Sabouraud, Chris Wood and Corey Schreppel",
-    "title": "Vacationing in the Time of Covid",
-    "description": "The story of one man\u2019s determination to resume traveling \u2014 despite the particular risks to his health.",
-    "url": "https://www.nytimes.com/2022/08/05/podcasts/the-daily/covid-vacation-cruise-ships.html",
-    "urlToImage": "https://static01.nyt.com/images/2022/07/14/opinion/05daily-1/14fp-cruises-image-audioapp-facebookJumbo-v2.jpg",
-    "publishedAt": "2022-08-05T10:45:00Z",
-    "content": "Fact-checking by Mary Marge Locker.\r\nSpecial thanks to Lulu Garcia Navarro, Courtney Stein, Christine Djossa, Olivia Natt, Derek Arthur and Jason Pagano.\r\nThe Daily is made by Lisa Tobin, Rachel Ques\u2026 [+929 chars]"
+    "author": "Patrick Collinson",
+    "title": "How to protect your savings and pension from UK inflation",
+    "description": "We look at some options for safeguarding your nest egg amid rising prices and interest ratesInterest rates went up again this week, and many savers will see their rates boosted as a result, but rising inflation \u2013 currently 9.4% and set to go higher \u2013 is eatin\u2026",
+    "url": "https://amp.theguardian.com/money/2022/aug/06/protect-savings-pension-rising-uk-inflation-interest-rates",
+    "urlToImage": "https://i.guim.co.uk/img/media/fedc894bdb4838d861fc0e5d70444cfedfcb80d0/0_0_5909_3546/master/5909.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e8888947a4960d52caa20ddd7199f430",
+    "publishedAt": "2022-08-06T06:00:07Z",
+    "content": "Interest rates went up again this week, and many savers will see their rates boosted as a result, but rising inflation currently 9.4% and set to go higher is eating away at the value of peoples nest-\u2026 [+6211 chars]"
   },
   {
     "source": {
-      "id": "bbc-news",
-      "name": "BBC News"
-    },
-    "author": "https://www.facebook.com/bbcnews",
-    "title": "Covid-19: North Korea claims to have recovered from outbreak",
-    "description": "There is widespread scepticism over North Korea's claim to have the world's lowest Covid death rate.",
-    "url": "https://www.bbc.co.uk/news/world-asia-62435809",
-    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1375F/production/_126211797_mediaitem126211793.jpg",
-    "publishedAt": "2022-08-05T11:33:54Z",
-    "content": "By George WrightBBC News\r\nNorth Korea says everyone who fell sick since the country confirmed its first Covid-19 infections has recovered.\r\nOn Friday state media reported zero fever cases for a seven\u2026 [+1667 chars]"
-  },
-  {
-    "source": {
-      "id": "reuters",
-      "name": "Reuters"
-    },
-    "author": "Reuters Editorial",
-    "title": "North Korea says its first COVID-19 wave is over - Reuters",
-    "description": "North Korea on Friday said all of its fever patients have recovered, marking the end of its first wave of the coronavirus pandemic.",
-    "url": "https://www.reuters.com/video/watch/idOV667905082022RP1",
-    "urlToImage": "https://static.reuters.com/resources/r/?d=20220805&i=OV667905082022RP1&r=OV667905082022RP1&t=2",
-    "publishedAt": "2022-08-05T08:49:21Z",
-    "content": "Posted \r\nNorth Korea on Friday said all of its fever patients have recovered, marking the end of its first wave of the coronavirus pandemic."
-  },
-  {
-    "source": {
-      "id": "reuters",
-      "name": "Reuters"
+      "id": null,
+      "name": "Github.io"
     },
     "author": null,
-    "title": "Work stoppages and no chatting at lunch: Japan Inc grapples with COVID - Reuters",
-    "description": "Japanese companies are temporarily shutting offices or suspending production as they battle a record wave of COVID-19, disrupting businesses in a country that has until now weathered the pandemic better than most advanced economies.",
-    "url": "https://www.reuters.com/business/work-stoppages-no-chatting-lunch-japan-inc-grapples-with-covid-2022-08-05/",
-    "urlToImage": "https://www.reuters.com/resizer/n7GsrpxpbFOZiwLc_9Vu43R9vX0=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/ZI4RF2HAGJLJLP3OKKYEMYM2KU.jpg",
-    "publishedAt": "2022-08-05T05:36:00Z",
-    "content": "TOKYO, Aug 5 (Reuters) - Japanese companies are temporarily shutting offices or suspending production as they battle a record wave of COVID-19, disrupting businesses in a country that has until now w\u2026 [+4958 chars]"
+    "title": "Kanye West's Stem Player \u2013 An engineering disaster",
+    "description": "This post covers the history of the Stem Player, the development of the emulator, how badly the product was handled and some behind-the-scenes interactions with the creators",
+    "url": "https://krystalgamer.github.io/stem-player-emulator/",
+    "urlToImage": "https://krystalgamer.github.io/static/banner.jpg",
+    "publishedAt": "2022-08-06T03:45:16Z",
+    "content": "Kanye West's Stem Player - An engineering disaster\r\nThis blog post will cover the story of the Stem Player (since release), how the emulator was developed, how badly the creators have designed and ha\u2026 [+58689 chars]"
   },
   {
     "source": {
-      "id": "reuters",
-      "name": "Reuters"
+      "id": null,
+      "name": "Blogger.com"
     },
-    "author": null,
-    "title": "China's Sanya holiday hotspot shuts duty-free malls, venues to curb COVID - Reuters",
-    "description": "Sanya, a top tropical holiday destination on China's southern Hainan island, began closing its duty free malls on Friday in response to a worsening COVID-19 outbreak.",
-    "url": "https://www.reuters.com/world/china/chinas-sanya-holiday-hotspot-shuts-duty-free-malls-venues-curb-covid-2022-08-05/",
-    "urlToImage": "https://www.reuters.com/resizer/96yMRL9rIQIlLPSgRN0aT_1c7f8=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/KYZNSVI5A5JDHDAR5AYAJOPYZI.jpg",
-    "publishedAt": "2022-08-05T07:15:00Z",
-    "content": "SHANGHAI, Aug 5 (Reuters) - Sanya, a top tropical holiday destination on China's southern Hainan island, began closing its duty free malls on Friday in response to a worsening COVID-19 outbreak.\r\nSin\u2026 [+2374 chars]"
+    "author": "Calculated Risk",
+    "title": "COVID August 5, 2022, Update on Cases, Hospitalizations and Deaths",
+    "description": null,
+    "url": "https://www.blogger.com/comment.g?blogID=10004977&postID=7147749529832651818&bpli=1",
+    "urlToImage": null,
+    "publishedAt": "2022-08-06T01:09:00Z",
+    "content": "On COVID (focus on hospitalizations and deaths):Hospitalizations have almost quadrupled from the lows in April 2022.<table><tr><th>COVID Metrics</th></tr> <tr><th>\u00a0</th><th>Now</th><th>WeekAgo</th><t\u2026 [+634 chars]"
   },
   {
     "source": {
-      "id": "reuters",
-      "name": "Reuters"
+      "id": null,
+      "name": "WTOP"
     },
-    "author": null,
-    "title": "Japan's economy likely rebounded in Q2 with unleashing of consumers: Reuters poll - Reuters",
-    "description": "Japan's economy likely rebounded in April-June from contraction in the previous quarter thanks to solid consumer spending in face-to-face services no longer hindered by coronavirus curbs, a Reuters poll showed on Friday.",
-    "url": "https://www.reuters.com/markets/asia/japans-economy-likely-rebounded-q2-with-unleashing-consumers-2022-08-05/",
-    "urlToImage": "https://www.reuters.com/resizer/sSWmpOF4-6hELsjv2q4GhPKZ19c=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/ERUS6X7O3BI4JHX4OY6KYDVNBQ.jpg",
-    "publishedAt": "2022-08-05T05:26:00Z",
-    "content": "TOKYO, Aug 5 (Reuters) - Japan's economy likely rebounded in April-June from contraction in the previous quarter thanks to solid consumer spending in face-to-face services no longer hindered by coron\u2026 [+2277 chars]"
+    "author": "Abigail Constantino",
+    "title": "Fauci on monkeypox: Can be controlled...",
+    "description": "Fauci on monkeypox: Can be controlled...\r\n\n \n \n \n (First column, 5th story, link)\r\n\n \r\n\n \r\n\n \n Related stories:Children exposed at Illinois day care?\r\n\n \r\n\n \n \n Drudge Report Feed needs your support!\u00a0\u00a0 Become a Patron",
+    "url": "http://wtop.com/dc/2022/08/fauci-on-monkeypox-you-never-blow-off-any-emerging-infection/",
+    "urlToImage": "https://wtop.com/wp-content/uploads/2021/10/Not_Real_News_97355.jpg",
+    "publishedAt": "2022-08-06T03:01:38Z",
+    "content": "People lined up Friday at a pop-up vaccination clinic in D.C. for the monkeypox vaccine, hoping to mitigate the infection risk. Dr. Anthony Fauci says people should be aware of the virus but not pani\u2026 [+4142 chars]"
   },
   {
     "source": {
-      "id": "reuters",
-      "name": "Reuters"
+      "id": "the-times-of-india",
+      "name": "The Times of India"
     },
-    "author": null,
-    "title": "Britain's Pets At Home first-quarter revenue rises on sustained demand - Reuters",
-    "description": "Pets At Home Plc <a href=\"https://www.reuters.com/companies/PETSP.L\" target=\"_blank\">(PETSP.L)</a> posted a 7.1% rise in first-quarter revenue on Friday and maintained its full-year profit outlook, as UK's largest pet supplies retailer saw sustained demand ac\u2026",
-    "url": "https://www.reuters.com/business/britains-pets-home-first-quarter-revenue-rises-sustained-demand-2022-08-05/",
-    "urlToImage": "https://www.reuters.com/resizer/kns5LYclFx0AAr-q6lzDwczzXj4=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/2LA2LNNW5FO7HLDO3YPQQOPJHU.jpg",
-    "publishedAt": "2022-08-05T06:09:00Z",
-    "content": "A pet groomer tends to a dog at The Groom Room, at pets at home in Milton Keynes, following the outbreak of the coronavirus disease (COVID-19), Milton Keynes, Britain, June 8, 2020. REUTERS/Andrew Bo\u2026 [+1374 chars]"
+    "author": "Reuters",
+    "title": "S&P 500 ends down as jobs data rekindles rate hike fear",
+    "description": "\"This is all about the Fed. A very strong jobs report like we had puts pressure on the Fed to tighten for longer,\" said Adam Sarhan, chief executive of 50 Park Investments. \"The market is scared the Fed is going to overshoot again. If they tighten too sharply\u2026",
+    "url": "https://economictimes.indiatimes.com/markets/stocks/news/sp-500-ends-down-as-jobs-data-rekindles-rate-hike-fear/articleshow/93383856.cms",
+    "urlToImage": "https://img.etimg.com/thumb/msid-93383897,width-1070,height-580,imgsize-96574,overlay-etmarkets/photo.jpg",
+    "publishedAt": "2022-08-06T03:47:35Z",
+    "content": "The S&amp;P 500 ended lower on Friday, weighed down by Tesla and other technology-related stocks after a solid jobs report torpedoed recent optimism that the Federal Reserve might let up its aggressi\u2026 [+2621 chars]"
   },
   {
     "source": {
-      "id": "reuters",
-      "name": "Reuters"
+      "id": null,
+      "name": "The Guardian"
     },
-    "author": null,
-    "title": "Italy's right-wing frontrunner party won't jeopardize recovery plan funds - founder tells paper - Reuters",
-    "description": "The right-wing Brothers of Italy party, leading in polls ahead of next month's election, will not jeopardize Italy's access to a European Union-funded investment programme, the party's founder was quoted as saying on Friday.",
-    "url": "https://www.reuters.com/world/europe/italys-right-wing-frontrunner-party-wont-jeopardize-recovery-plan-funds-founder-2022-08-05/",
-    "urlToImage": "https://www.reuters.com/resizer/JTYViG1jhV8V57Es3si0J4LLK48=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/OAAMAWKHSNODVHHLZLIMILVOOY.jpg",
-    "publishedAt": "2022-08-05T07:08:00Z",
-    "content": "MILAN, Aug 5 (Reuters) - The right-wing Brothers of Italy party, leading in polls ahead of next month's election, will not jeopardize Italy's access to a European Union-funded investment programme, t\u2026 [+1706 chars]"
+    "author": "Heather Stewart, Josh Halliday and Simon Goodley",
+    "title": "Private school polish and big dreams: how Rishi Sunak became a contender for PM",
+    "description": "Tory leadership candidate is praised as an earnest workaholic, but critics say politically he has a glass jaw and is naive\u201cLet me tell you a story,\u201d Rishi Sunak says in his soft-voiced campaign launch video, highlighting his status as the grandson of hard-gra\u2026",
+    "url": "https://amp.theguardian.com/politics/2022/aug/06/rishi-sunak-tory-leadership-private-school-prime-minister",
+    "urlToImage": "https://i.guim.co.uk/img/media/db31772b639227e7f4ec2daef64ef79c554db7ac/0_92_3500_2100/master/3500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b1ab003bacac15fb7db88b6086e2c083",
+    "publishedAt": "2022-08-06T06:00:06Z",
+    "content": "Let me tell you a story, Rishi Sunak says in his soft-voiced campaign launch video, highlighting his status as the grandson of hard-grafting Indian immigrants.\r\nIf he wins the race for No 10, the 42-\u2026 [+13849 chars]"
   },
   {
     "source": {
-      "id": "reuters",
-      "name": "Reuters"
+      "id": null,
+      "name": "The Guardian"
     },
-    "author": null,
-    "title": "Japan's households raise spending for first time in 4 months - Reuters",
-    "description": "Japan's households increased spending for the first time in four months in June, as demand for travel services rose in a positive sign for broader economic recovery prospects.",
-    "url": "https://www.reuters.com/markets/asia/japans-households-raise-spending-first-time-4-months-2022-08-05/",
-    "urlToImage": "https://www.reuters.com/resizer/aFIhv0neeZfmtrAfpQrr8byTuro=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/6NW57ORQCVIHZPKDILZK2WNPWY.jpg",
-    "publishedAt": "2022-08-05T00:14:00Z",
-    "content": "TOKYO, Aug 5 (Reuters) - Japan's households increased spending for the first time in four months in June, as demand for travel services rose in a positive sign for broader economic recovery prospects\u2026 [+1688 chars]"
+    "author": "Gwyn Topham Transport correspondent",
+    "title": "No 46 to Le Manoir: Raymond Blanc funds local bus service to restaurant",
+    "description": "Hourly bus serves local villages and brings staff \u2013 and sometimes customers \u2013 to Michelin-starred restaurantWith rural buses in long-term decline and a funding crisis putting more routes in peril, a surprising service has appeared on the English transport men\u2026",
+    "url": "https://amp.theguardian.com/uk-news/2022/aug/06/no-46-to-le-manoir-raymond-blanc-funds-local-bus-service-to-restaurant",
+    "urlToImage": "https://i.guim.co.uk/img/media/7124e3ff657fa2545e39ed42d74f0f12bcd3b0ab/1_156_2240_1344/master/2240.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=cbba39b812b32c16d1d084f6af7b8e62",
+    "publishedAt": "2022-08-06T06:00:08Z",
+    "content": "With rural buses in long-term decline and a funding crisis putting more routes in peril, a surprising service has appeared on the English transport menu: the No 46 bus to Le Manoir aux QuatSaisons.\r\n\u2026 [+5594 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Sciencebasedmedicine.org"
+    },
+    "author": "Jonathan Howard",
+    "title": "Science Based Satire: We Need Randomized Controlled Clinical Trials of SARS-CoV-2",
+    "description": "Before we make any more decisions regarding SARS-CoV-2, we urgently need to conduct large, long-term RCTs of it. I am astonished this is controversial in the medical community.\nThe post Science Based Satire: We Need Randomized Controlled Clinical Trials of SA\u2026",
+    "url": "https://sciencebasedmedicine.org/rct-sars-cov-2/",
+    "urlToImage": "https://sciencebasedmedicine.org/wp-content/uploads/2022/08/Picture7.png",
+    "publishedAt": "2022-08-06T07:25:47Z",
+    "content": "Randomized-controlled trials and vaccines\r\n\u201cThe randomized controlled clinical trial is the gold standard of scientific evidence. When regulators approved the Pfizer and Moderna mRNA vaccines for eme\u2026 [+5141 chars]"
   }
 ]
