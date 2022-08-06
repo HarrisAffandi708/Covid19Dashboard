@@ -178,3 +178,7 @@ def sched_data_news_update(update_name,update_time,update_repeat):
     uses the time_differnce function and uses the data_news_sched
     returns double update information
 ```
+# Details
+## Authors
+- Harris Ilhan Bin Ahmad Affandi (Python)
+- Matt Collison (HTML/Flask template)
