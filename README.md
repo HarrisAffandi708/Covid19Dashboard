@@ -2,6 +2,7 @@
 ## Introduction
 This is a covid data and news dashboard. I developed this for my programming module in University. The program uses python and flask to run on a local server.
 The data that is displayed on the website is collected from the uk-covid19 API and NewsAPI for news articles.
+The code is uploaded onto github. https://github.com/HarrisAffandi708/pythonExam
 
 ## Prerequisites
 the program uses python version 3.10.6 or above
