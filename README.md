@@ -58,3 +58,35 @@ Purpose:
 
 `Used to handle covid data for the website`
 
+Content:
+```
+def parse_csv_data(csv_filename):
+    returns the csv content in a list
+
+def process_covid_csv_data(covid_csv_data):
+    returns data from the parsed csv data, the returned data includes:
+    total cases in the past 7 days, total hospital cases and total deaths
+
+
+def covid_API_request(location:str="Exeter", location_type:str="ltla"):
+    Instantiates the covid data API and returns the data in JSON form.
+
+
+def api_update():
+    Updated the api to bring in new data
+
+def schedule_covid_updates(update_interval, update_name):
+    Schedule covid data updates
+    Uses schedular objects
+    returns the update name and the update interval
+
+def parse_covid_data():
+    parses live covid data from the API and dumps the data into the Exeter_data.json and National_data.json files.
+    returns the local and national data in json format
+    
+def process_covid_api_data(exeter_data:dict, national_data:dict):
+    processes the parsed covid data from the API.
+    The function returns local last 7 day cases for local and national, total hospital cases and deaths. it also returns the local location name and national name
+            
+    return (exeter_name,exeter_7_day_cases, exeter_deaths,nation_name,national_7_day_cases,national_deaths,hospital_cases)
+```
