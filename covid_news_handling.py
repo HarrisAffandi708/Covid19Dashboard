@@ -24,7 +24,7 @@ def articles(news_list:dict) -> list:
         current_article = news_list["articles"][count]
         articles_list.append(current_article)
         count += 1
-    selected_article_files = open("Data/selected_articles", "w")
+    selected_article_files = open("Data/selected_articles.json", "w")
     selected_article_files.write(json.dumps(articles_list, indent=2))
     return articles_list
 
