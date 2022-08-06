@@ -90,3 +90,30 @@ def process_covid_api_data(exeter_data:dict, national_data:dict):
             
     return (exeter_name,exeter_7_day_cases, exeter_deaths,nation_name,national_7_day_cases,national_deaths,hospital_cases)
 ```
+## covid_news_handler.py
+purpose:
+
+`used to handle the news data for the website`
+
+content:
+```
+def news_API_request(covid_terms:str="Covid COVID-19 coronavirus"):
+    function takes in the covid terms, adds it to the url and uses the new url with the API key to access the news API to retieve news articles.
+    Then dumps the articles into a file called articles.json
+    returns the news api in json form
+    
+def articles(news_list:dict) -> list:
+    selects 10 latest news articles from articles.json, appends the 10 articles to a local list named article_list
+    the 10 articles are also dumped into a file named selected_articles.json
+    returns the article_list
+
+def update_news():
+    uses the news_API_request function to update the news
+    returns the news_API_request output
+
+def schedule_news_updates(update_interval:int):
+    schedule news article updates
+    uses schedular objects
+    returns the update interval
+
+```
