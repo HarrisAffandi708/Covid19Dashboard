@@ -40,20 +40,21 @@ to close the program on windows, simply press the control and c (CTRL + C) in th
 
 # Developer documentation
 There are 3 source code modules:
-- covid_data_handler.py
-- covid_news_handler.py
-- user_interface.py
+- `covid_data_handler.py`
+- `covid_news_handler.py`
+- `user_interface.py`
 
 The source code also includes:
-- config.json (configuration file)
-- data folders (stores covid data and news articles from API)
-- logs.logs (stores the logs of the program)
-- index.html (the template html code used in the program)
-- nation_2021-10-28 (sample csv file)
-- test.py (used for testing functions of the program)
-- PNG photo (used to display a photo in the website
+- `config.json` (configuration file)
+- `data folders` (stores covid data and news articles from API)
+- `logs.logs` (stores the logs of the program)
+- `index.html` (the template html code used in the program)
+- `nation_2021-10-28` (sample csv file)
+- `test.py` (used for testing functions of the program)
+- `PNG photo` (used to display a photo in the website
 
 ## covid_data_handler.py
-purpose:
+Purpose:
+
 `Used to handle covid data for the website`
 
