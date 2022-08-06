@@ -17,6 +17,3 @@ def test_articles():
     assert news
     assert len(news) == 10
 
-test_parse_csv_data()
-test_articles()
-test_parse_csv_data()
