@@ -117,3 +117,64 @@ def schedule_news_updates(update_interval:int):
     returns the update interval
 
 ```
+
+## user_interface.py
+purpose:
+
+`The module that is for the user interface, uses flask to display website and take in functions`
+
+Content:
+```
+app = Flask(__name__)
+^initiates the flask object
+
+logging.basicConfig(level=logging.DEBUG,filename="logs.log", encoding='utf-8',format="%(asctime)s: %(message)s,")
+^initiates the logging object and places logging data to a file named logs.log
+
+data_sched = sched.scheduler(time.time, time.sleep)
+news_sched = sched.scheduler(time.time, time.sleep)
+data_news_sched = sched.scheduler(time.time, time.sleep)
+^schedular objects
+
+
+data_update_info = []
+news_update_info = []
+overall_updates_dict = {}
+double_update_info = []
+^global variable
+
+def time_difference(update):
+    calculates the difference between the current time and the time the user inputed for an update
+    returns the difference in time in seconds as the schedular takes in seconds
+
+
+
+def add_news():
+    adds new news to the website when the user deletes a news article
+    returns the 10 news article list
+
+
+def update_news():
+    updates the news articles using the news_API_request function and article funtions
+    returns the 10 news article list
+        
+
+def update_data():
+    uses parse_covid_data function
+    returns local location name, local last 7 day cases, local deaths, national name, national last 7 days cases, national deaths and hoospital cases
+
+def update_data_news():
+    uses the update_data and update_news function
+
+def sched_data_update(update_name, update_time, update_repeat):
+    uses the time_difference funtion and uses the data_sched
+    returns the data update information
+
+def sched_news_update(update_name, update_time,update_repeat):
+    uses the time_difference function and uses the news_sched
+    returns the  news update information
+
+def sched_data_news_update(update_name,update_time,update_repeat):
+    uses the time_differnce function and uses the data_news_sched
+    returns double update information
+```
