@@ -8,7 +8,7 @@ from covid_news_handling import articles, news_API_request
 app = Flask(__name__)
 
 
-logging.basicConfig(level=logging.DEBUG,filename="logs.log", encoding='utf-8',format="%(asctime)s: %(message)s,")
+logging.basicConfig(level=logging.DEBUG,filename="logs/logs.log", encoding='utf-8',format="%(asctime)s: %(message)s,")
 
 data_sched = sched.scheduler(time.time, time.sleep)
 news_sched = sched.scheduler(time.time, time.sleep)
