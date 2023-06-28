@@ -181,5 +181,4 @@ def sched_data_news_update(update_name,update_time,update_repeat):
 ```
 # Details
 ## Authors
-- Harris Ilhan Bin Ahmad Affandi (Python)
-- Matt Collison (HTML/Flask template)
+- Harris Ilhan Bin Ahmad Affandi
